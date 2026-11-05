@@ -3,180 +3,12 @@
  "metadata": {
   "source": "OpenStreetMap Overpass API",
   "query": "nwr[building=apartments|apartment](area:3601676306) Celje",
-  "method": "nearest of 19 decree KS/MC anchors; Otok/Dolgo-Polje-case fixed",
+  "method": "point-in-polygon vs official GURS RPE polygons (prostor.celje.si WFS, EPSG:3794->4326): gurs_rpe_lokalne_volilne_enote + gurs_rpe_krajevne_skupnosti + gurs_rpe_cetrtne_skupnosti, Mestna obcina Celje",
   "created": "2026-11-05",
   "count": 327,
   "volilna_enota_def": "https://pisrs.si/api/datoteke/integracije/606135216 (Odlok MOC Celje 1994): VE1=Smartno v Rozni dolini, Skofja vas, Ljubecna, Ostrozno, Lava, Hudinja, Trnovlje, Teharje; VE2=Center, Aljazev hrib, Gaberje, Nova vas, Deckovo naselje; VE3=Savinja, Kajuh, S. Slander, Medlog, Dolgo polje, Pod gradom"
  },
  "features": [
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2516077,
-     46.2437434
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 484950067,
-    "building": "apartments",
-    "address": "Goriška ulica 1",
-    "street": "Goriška ulica",
-    "housenumber": "1",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Lava",
-    "ks_dist_m": 95,
-    "volilna_enota": 1,
-    "osm_url": "https://www.openstreetmap.org/way/484950067"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2745331,
-     46.2460229
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 402962359,
-    "building": "apartments",
-    "address": null,
-    "street": null,
-    "housenumber": null,
-    "city": null,
-    "levels": "8",
-    "ks_mc": "Hudinja",
-    "ks_dist_m": 497,
-    "volilna_enota": 1,
-    "osm_url": "https://www.openstreetmap.org/way/402962359"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.273803,
-     46.2459909
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 402966470,
-    "building": "apartments",
-    "address": null,
-    "street": null,
-    "housenumber": null,
-    "city": null,
-    "levels": "4",
-    "ks_mc": "Hudinja",
-    "ks_dist_m": 514,
-    "volilna_enota": 1,
-    "osm_url": "https://www.openstreetmap.org/way/402966470"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2527274,
-     46.2426969
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 484950073,
-    "building": "apartments",
-    "address": null,
-    "street": null,
-    "housenumber": null,
-    "city": null,
-    "levels": null,
-    "ks_mc": "Lava",
-    "ks_dist_m": 238,
-    "volilna_enota": 1,
-    "osm_url": "https://www.openstreetmap.org/way/484950073"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2752522,
-     46.2457287
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 484967958,
-    "building": "apartments",
-    "address": null,
-    "street": null,
-    "housenumber": null,
-    "city": null,
-    "levels": "8",
-    "ks_mc": "Hudinja",
-    "ks_dist_m": 524,
-    "volilna_enota": 1,
-    "osm_url": "https://www.openstreetmap.org/way/484967958"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.250962,
-     46.2430279
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 485994993,
-    "building": "apartments",
-    "address": null,
-    "street": null,
-    "housenumber": null,
-    "city": null,
-    "levels": null,
-    "ks_mc": "Lava",
-    "ks_dist_m": 146,
-    "volilna_enota": 1,
-    "osm_url": "https://www.openstreetmap.org/way/485994993"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2510034,
-     46.2435398
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 485994994,
-    "building": "apartments",
-    "address": null,
-    "street": null,
-    "housenumber": null,
-    "city": null,
-    "levels": null,
-    "ks_mc": "Lava",
-    "ks_dist_m": 90,
-    "volilna_enota": 1,
-    "osm_url": "https://www.openstreetmap.org/way/485994994"
-   }
-  },
   {
    "type": "Feature",
    "geometry": {
@@ -196,7 +28,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Hudinja",
-    "ks_dist_m": 149,
     "volilna_enota": 1,
     "osm_url": "https://www.openstreetmap.org/way/965166120"
    }
@@ -220,7 +51,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Hudinja",
-    "ks_dist_m": 140,
     "volilna_enota": 1,
     "osm_url": "https://www.openstreetmap.org/way/965166118"
    }
@@ -244,7 +74,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Hudinja",
-    "ks_dist_m": 244,
     "volilna_enota": 1,
     "osm_url": "https://www.openstreetmap.org/way/965166117"
    }
@@ -268,7 +97,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Hudinja",
-    "ks_dist_m": 226,
     "volilna_enota": 1,
     "osm_url": "https://www.openstreetmap.org/way/489763500"
    }
@@ -292,7 +120,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Hudinja",
-    "ks_dist_m": 255,
     "volilna_enota": 1,
     "osm_url": "https://www.openstreetmap.org/way/965166116"
    }
@@ -316,7 +143,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Hudinja",
-    "ks_dist_m": 233,
     "volilna_enota": 1,
     "osm_url": "https://www.openstreetmap.org/way/489763527"
    }
@@ -340,7 +166,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Hudinja",
-    "ks_dist_m": 205,
     "volilna_enota": 1,
     "osm_url": "https://www.openstreetmap.org/way/965166115"
    }
@@ -364,7 +189,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Hudinja",
-    "ks_dist_m": 187,
     "volilna_enota": 1,
     "osm_url": "https://www.openstreetmap.org/way/965166119"
    }
@@ -388,7 +212,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 127,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484398066"
    }
@@ -412,7 +235,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 142,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474344229"
    }
@@ -435,34 +257,9 @@
     "housenumber": "14",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 381,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474564542"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2660271,
-     46.2398823
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 386882336,
-    "building": "apartments",
-    "address": "Brodarjeva ulica 28",
-    "street": "Brodarjeva ulica",
-    "housenumber": "28",
-    "city": "Celje",
-    "levels": "10",
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 562,
-    "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/386882336"
    }
   },
   {
@@ -484,7 +281,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 72,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474600420"
    }
@@ -508,57 +304,8 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 90,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484168358"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2675569,
-     46.240037
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 484211115,
-    "building": "apartments",
-    "address": "Cesta na Dobrovo 1",
-    "street": "Cesta na Dobrovo",
-    "housenumber": "1",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 582,
-    "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/484211115"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2670361,
-     46.2401488
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 484211114,
-    "building": "apartments",
-    "address": "Dečkova cesta 26",
-    "street": "Dečkova cesta",
-    "housenumber": "26",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 555,
-    "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/484211114"
    }
   },
   {
@@ -580,9 +327,146 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 491,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484188931"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2644696,
+     46.2404657
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484188932,
+    "building": "apartments",
+    "address": "Dečkova cesta 40",
+    "street": "Dečkova cesta",
+    "housenumber": "40",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484188932"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2617302,
+     46.240876
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597153,
+    "building": "apartments",
+    "address": "Dečkova cesta 48",
+    "street": "Dečkova cesta",
+    "housenumber": "48",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2611471,
+     46.2408918
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597154,
+    "building": "apartments",
+    "address": "Dečkova cesta 50",
+    "street": "Dečkova cesta",
+    "housenumber": "50",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2605823,
+     46.2410885
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597155,
+    "building": "apartments",
+    "address": "Dečkova cesta 52",
+    "street": "Dečkova cesta",
+    "housenumber": "52",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597155"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.259988,
+     46.2409203
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597159,
+    "building": "apartments",
+    "address": "Dečkova cesta 54",
+    "street": "Dečkova cesta",
+    "housenumber": "54",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597159"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.259441,
+     46.241134
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597160,
+    "building": "apartments",
+    "address": "Dečkova cesta 56",
+    "street": "Dečkova cesta",
+    "housenumber": "56",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597160"
    }
   },
   {
@@ -604,7 +488,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 339,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/483599338"
    }
@@ -628,7 +511,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 358,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/831289494"
    }
@@ -652,7 +534,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 325,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/483599328"
    }
@@ -676,7 +557,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 314,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/483599332"
    }
@@ -699,8 +579,7 @@
     "housenumber": "5",
     "city": null,
     "levels": "6",
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 354,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/1426288135"
    }
@@ -723,8 +602,7 @@
     "housenumber": "5A",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 351,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/483599342"
    }
@@ -747,8 +625,7 @@
     "housenumber": "5B",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 368,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/831289493"
    }
@@ -772,7 +649,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 364,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/483599340"
    }
@@ -796,7 +672,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 372,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/483599339"
    }
@@ -820,7 +695,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 94,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553943"
    }
@@ -844,7 +718,6 @@
     "city": null,
     "levels": "3",
     "ks_mc": "Center",
-    "ks_dist_m": 142,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484398065"
    }
@@ -868,7 +741,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 109,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553942"
    }
@@ -892,7 +764,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 129,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553941"
    }
@@ -916,7 +787,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 149,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/relation/7128105"
    }
@@ -940,7 +810,6 @@
     "city": null,
     "levels": "3",
     "ks_mc": "Center",
-    "ks_dist_m": 165,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553939"
    }
@@ -964,7 +833,6 @@
     "city": null,
     "levels": "2",
     "ks_mc": "Center",
-    "ks_dist_m": 134,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484398067"
    }
@@ -988,7 +856,6 @@
     "city": "Celje",
     "levels": "3",
     "ks_mc": "Center",
-    "ks_dist_m": 187,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553929"
    }
@@ -1012,9 +879,77 @@
     "city": null,
     "levels": "3",
     "ks_mc": "Center",
-    "ks_dist_m": 121,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484398071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2624168,
+     46.2411479
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474564538,
+    "building": "apartments",
+    "address": "Hubadova ulica 3",
+    "street": "Hubadova ulica",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474564538"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2622184,
+     46.241231
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599366,
+    "building": "apartments",
+    "address": "Hubadova ulica 5",
+    "street": "Hubadova ulica",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599366"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2624685,
+     46.2413442
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474564547,
+    "building": "apartments",
+    "address": "Hubadova ulica 7",
+    "street": "Hubadova ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474564547"
    }
   },
   {
@@ -1036,7 +971,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 82,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474604293"
    }
@@ -1060,7 +994,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 72,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484168357"
    }
@@ -1084,7 +1017,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 31,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484168356"
    }
@@ -1108,7 +1040,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 37,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484168355"
    }
@@ -1132,7 +1063,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 52,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/1422545679"
    }
@@ -1156,7 +1086,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 73,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474600421"
    }
@@ -1180,7 +1109,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 91,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/1422545678"
    }
@@ -1204,7 +1132,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 112,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484168343"
    }
@@ -1228,7 +1155,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 64,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474604300"
    }
@@ -1252,7 +1178,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 90,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484162861"
    }
@@ -1276,9 +1201,54 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 81,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474604292"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2604227,
+     46.2304309
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860142014,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 5A",
+    "street": "Ljubljanska cesta",
+    "housenumber": "5A",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Center",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/860142014"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2603436,
+     46.2305682
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484410262,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 5B",
+    "street": "Ljubljanska cesta",
+    "housenumber": "5B",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Center",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484410262"
    }
   },
   {
@@ -1300,7 +1270,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Gaberje",
-    "ks_dist_m": 322,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484206825"
    }
@@ -1324,7 +1293,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Gaberje",
-    "ks_dist_m": 340,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484206826"
    }
@@ -1348,7 +1316,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Gaberje",
-    "ks_dist_m": 360,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484206827"
    }
@@ -1372,9 +1339,54 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Gaberje",
-    "ks_dist_m": 387,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484206828"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2745331,
+     46.2460229
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 402962359,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": "8",
+    "ks_mc": "Gaberje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/402962359"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.273803,
+     46.2459909
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 402966470,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": "4",
+    "ks_mc": "Gaberje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/402966470"
    }
   },
   {
@@ -1396,7 +1408,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 97,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474344233"
    }
@@ -1420,7 +1431,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 305,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474344240"
    }
@@ -1444,7 +1454,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 123,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553918"
    }
@@ -1468,7 +1477,6 @@
     "city": null,
     "levels": "3",
     "ks_mc": "Center",
-    "ks_dist_m": 153,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553930"
    }
@@ -1492,7 +1500,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 147,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553934"
    }
@@ -1516,7 +1523,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 151,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553935"
    }
@@ -1540,7 +1546,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 171,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553936"
    }
@@ -1564,7 +1569,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 252,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553950"
    }
@@ -1588,7 +1592,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 182,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553952"
    }
@@ -1612,7 +1615,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 263,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484347684"
    }
@@ -1636,7 +1638,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 231,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484347689"
    }
@@ -1660,7 +1661,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 106,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484398064"
    }
@@ -1684,7 +1684,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 119,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484398069"
    }
@@ -1708,7 +1707,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 150,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484398074"
    }
@@ -1732,7 +1730,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 185,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484398091"
    }
@@ -1756,9 +1753,31 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 147,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484410253"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2602322,
+     46.230721
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484410263,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": "4",
+    "ks_mc": "Center",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484410263"
    }
   },
   {
@@ -1780,7 +1799,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 31,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484410268"
    }
@@ -1804,7 +1822,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 40,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484410269"
    }
@@ -1828,7 +1845,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 63,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484410272"
    }
@@ -1852,7 +1868,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 235,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484410276"
    }
@@ -1862,23 +1877,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     15.2684539,
-     46.2400772
+     15.2752522,
+     46.2457287
     ]
    },
    "properties": {
     "osm_type": "way",
-    "osm_id": 1567395566,
+    "osm_id": 484967958,
     "building": "apartments",
     "address": null,
     "street": null,
     "housenumber": null,
     "city": null,
-    "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 609,
+    "levels": "8",
+    "ks_mc": "Gaberje",
     "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/1567395566"
+    "osm_url": "https://www.openstreetmap.org/way/484967958"
    }
   },
   {
@@ -1900,81 +1914,8 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 170,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/relation/7128104"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2666903,
-     46.2398707
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 386882334,
-    "building": "apartments",
-    "address": "Nušičeva ulica 12",
-    "street": "Nušičeva ulica",
-    "housenumber": "12",
-    "city": "Celje",
-    "levels": "10",
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 576,
-    "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/386882334"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2672474,
-     46.2397391
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 386882335,
-    "building": "apartments",
-    "address": "Nušičeva ulica 14",
-    "street": "Nušičeva ulica",
-    "housenumber": "14",
-    "city": "Celje",
-    "levels": "10",
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 604,
-    "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/386882335"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2673742,
-     46.2395328
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 484199559,
-    "building": "apartments",
-    "address": "Nušičeva ulica 41a",
-    "street": "Nušičeva ulica",
-    "housenumber": "41a",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 629,
-    "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/484199559"
    }
   },
   {
@@ -1996,7 +1937,6 @@
     "city": "Celje",
     "levels": "10",
     "ks_mc": "Nova vas",
-    "ks_dist_m": 356,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/386880450"
    }
@@ -2020,7 +1960,6 @@
     "city": "Celje",
     "levels": "10",
     "ks_mc": "Nova vas",
-    "ks_dist_m": 399,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/386880451"
    }
@@ -2044,7 +1983,6 @@
     "city": "Celje",
     "levels": "10",
     "ks_mc": "Nova vas",
-    "ks_dist_m": 364,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/386880452"
    }
@@ -2068,7 +2006,6 @@
     "city": null,
     "levels": "5",
     "ks_mc": "Center",
-    "ks_dist_m": 273,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484347710"
    }
@@ -2092,7 +2029,6 @@
     "city": "Celje",
     "levels": "10",
     "ks_mc": "Nova vas",
-    "ks_dist_m": 495,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/386882094"
    }
@@ -2116,7 +2052,6 @@
     "city": "Celje",
     "levels": "10",
     "ks_mc": "Nova vas",
-    "ks_dist_m": 452,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484188943"
    }
@@ -2140,7 +2075,6 @@
     "city": "Celje",
     "levels": "10",
     "ks_mc": "Nova vas",
-    "ks_dist_m": 500,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/386882096"
    }
@@ -2164,7 +2098,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 92,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553944"
    }
@@ -2188,7 +2121,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 62,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/relation/7128895"
    }
@@ -2212,7 +2144,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 73,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553954"
    }
@@ -2236,7 +2167,6 @@
     "city": null,
     "levels": "4",
     "ks_mc": "Center",
-    "ks_dist_m": 211,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484347717"
    }
@@ -2260,7 +2190,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 206,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474553953"
    }
@@ -2284,7 +2213,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 226,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484347716"
    }
@@ -2308,9 +2236,31 @@
     "city": null,
     "levels": "4",
     "ks_mc": "Center",
-    "ks_dist_m": 253,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484347715"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2592716,
+     46.2418689
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597139,
+    "building": "apartments",
+    "address": "Ribarjeva ulica 2",
+    "street": "Ribarjeva ulica",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597139"
    }
   },
   {
@@ -2332,7 +2282,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 326,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474597140"
    }
@@ -2356,7 +2305,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 191,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/1426288146"
    }
@@ -2380,7 +2328,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 196,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/1426288144"
    }
@@ -2404,7 +2351,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 109,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/1426288142"
    }
@@ -2428,7 +2374,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 118,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/1426288141"
    }
@@ -2452,7 +2397,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 149,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/1426288145"
    }
@@ -2476,7 +2420,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Dečkovo naselje",
-    "ks_dist_m": 156,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/1426288143"
    }
@@ -2500,7 +2443,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 242,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484347697"
    }
@@ -2524,7 +2466,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 283,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/485049588"
    }
@@ -2548,7 +2489,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 297,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/965236946"
    }
@@ -2572,7 +2512,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 312,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/965236945"
    }
@@ -2596,7 +2535,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 73,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/relation/7129084"
    }
@@ -2620,7 +2558,6 @@
     "city": "Celje",
     "levels": "3",
     "ks_mc": "Center",
-    "ks_dist_m": 199,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/402786560"
    }
@@ -2644,7 +2581,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Center",
-    "ks_dist_m": 308,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484347692"
    }
@@ -2668,7 +2604,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 458,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/484188937"
    }
@@ -2691,8 +2626,7 @@
     "housenumber": "3",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 437,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/483599368"
    }
@@ -2716,7 +2650,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Nova vas",
-    "ks_dist_m": 437,
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474597129"
    }
@@ -2739,8 +2672,7 @@
     "housenumber": "5",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 409,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474564550"
    }
@@ -2763,8 +2695,7 @@
     "housenumber": "7",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 373,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474564543"
    }
@@ -2774,23 +2705,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     15.2673794,
-     46.2389046
+     15.2596927,
+     46.2418469
     ]
    },
    "properties": {
     "osm_type": "way",
-    "osm_id": 1106325487,
+    "osm_id": 483599335,
     "building": "apartments",
-    "address": "Vrunčeva ulica 35",
-    "street": "Vrunčeva ulica",
-    "housenumber": "35",
+    "address": "Šaranovičeva ulica 10",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "10",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Gaberje",
-    "ks_dist_m": 642,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/1106325487"
+    "osm_url": "https://www.openstreetmap.org/way/483599335"
    }
   },
   {
@@ -2798,23 +2728,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     15.2674939,
-     46.2391041
+     15.2601368,
+     46.2413465
     ]
    },
    "properties": {
     "osm_type": "way",
-    "osm_id": 484199560,
+    "osm_id": 965503341,
     "building": "apartments",
-    "address": "Vrunčeva ulica 37",
-    "street": "Vrunčeva ulica",
-    "housenumber": "37",
+    "address": "Šaranovičeva ulica 11",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "11",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Gaberje",
-    "ks_dist_m": 642,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/484199560"
+    "osm_url": "https://www.openstreetmap.org/way/965503341"
    }
   },
   {
@@ -2822,23 +2751,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     15.2675577,
-     46.2393761
+     15.2599057,
+     46.2413518
     ]
    },
    "properties": {
     "osm_type": "way",
-    "osm_id": 474597114,
+    "osm_id": 474597158,
     "building": "apartments",
-    "address": "Vrunčeva ulica 39",
-    "street": "Vrunčeva ulica",
-    "housenumber": "39",
+    "address": "Šaranovičeva ulica 13",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "13",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 650,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/474597114"
+    "osm_url": "https://www.openstreetmap.org/way/474597158"
    }
   },
   {
@@ -2846,23 +2774,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     15.26741,
-     46.2393806
+     15.2595675,
+     46.2415445
     ]
    },
    "properties": {
     "osm_type": "way",
-    "osm_id": 1106325486,
+    "osm_id": 965503340,
     "building": "apartments",
-    "address": "Vrunčeva ulica 39a",
-    "street": "Vrunčeva ulica",
-    "housenumber": "39a",
+    "address": "Šaranovičeva ulica 15",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "15",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 645,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/1106325486"
+    "osm_url": "https://www.openstreetmap.org/way/965503340"
    }
   },
   {
@@ -2870,23 +2797,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     15.2675474,
-     46.2394888
+     15.2593262,
+     46.2415478
     ]
    },
    "properties": {
     "osm_type": "way",
-    "osm_id": 1106325485,
+    "osm_id": 474597161,
     "building": "apartments",
-    "address": "Vrunčeva ulica 41",
-    "street": "Vrunčeva ulica",
-    "housenumber": "41",
+    "address": "Šaranovičeva ulica 17",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "17",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 638,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
-    "osm_url": "https://www.openstreetmap.org/way/1106325485"
+    "osm_url": "https://www.openstreetmap.org/way/474597161"
    }
   },
   {
@@ -2907,8 +2833,7 @@
     "housenumber": "2",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 343,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/483599349"
    }
@@ -2931,8 +2856,7 @@
     "housenumber": "4",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 395,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/483599341"
    }
@@ -2955,8 +2879,7 @@
     "housenumber": "5A",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 396,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/965503337"
    }
@@ -2979,10 +2902,216 @@
     "housenumber": "5B",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Nova vas",
-    "ks_dist_m": 400,
+    "ks_mc": "Dečkovo naselje",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/way/474564544"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2610069,
+     46.241846
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597146,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 6",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597146"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2612653,
+     46.2418366
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831289491,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 6A",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "6A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/831289491"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2607429,
+     46.2418557
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831289492,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 6B",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "6B",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/831289492"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2621478,
+     46.24153
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599365,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 7",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599365"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2617769,
+     46.2413996
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599324,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 7A",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "7A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599324"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.261601,
+     46.241112
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597152,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 7B",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "7B",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597152"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2611876,
+     46.2413406
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597156,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 7C",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "7C",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597156"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.260205,
+     46.2418699
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597145,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 8",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "8",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597145"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2606062,
+     46.2415375
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597157,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 9",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "9",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597157"
    }
   },
   {
@@ -3003,8 +3132,7 @@
     "housenumber": "12",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 530,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/474344285"
    }
@@ -3027,8 +3155,7 @@
     "housenumber": "14",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 534,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/831598302"
    }
@@ -3051,8 +3178,7 @@
     "housenumber": "16",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 535,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/474564527"
    }
@@ -3075,8 +3201,7 @@
     "housenumber": "18",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 538,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211095"
    }
@@ -3099,8 +3224,7 @@
     "housenumber": "20",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 542,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/831598303"
    }
@@ -3123,8 +3247,7 @@
     "housenumber": "22",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 544,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/474344312"
    }
@@ -3147,8 +3270,7 @@
     "housenumber": "23",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 508,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/965303165"
    }
@@ -3171,8 +3293,7 @@
     "housenumber": "24",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 547,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/831598304"
    }
@@ -3195,8 +3316,7 @@
     "housenumber": "25",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 509,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/474344310"
    }
@@ -3219,10 +3339,32 @@
     "housenumber": "26",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 550,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/474344311"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2660271,
+     46.2398823
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386882336,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 28",
+    "street": "Brodarjeva ulica",
+    "housenumber": "28",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/386882336"
    }
   },
   {
@@ -3243,8 +3385,7 @@
     "housenumber": "29",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 466,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211080"
    }
@@ -3267,8 +3408,7 @@
     "housenumber": "31",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 484,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211081"
    }
@@ -3291,8 +3431,7 @@
     "housenumber": "33",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 518,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/965302203"
    }
@@ -3315,8 +3454,7 @@
     "housenumber": "35",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 521,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/965302204"
    }
@@ -3339,8 +3477,7 @@
     "housenumber": "37",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 526,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211090"
    }
@@ -3363,8 +3500,7 @@
     "housenumber": "39",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 529,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/831598305"
    }
@@ -3374,23 +3510,45 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     15.2644696,
-     46.2404657
+     15.2675569,
+     46.240037
     ]
    },
    "properties": {
     "osm_type": "way",
-    "osm_id": 484188932,
+    "osm_id": 484211115,
     "building": "apartments",
-    "address": "Dečkova cesta 40",
+    "address": "Cesta na Dobrovo 1",
+    "street": "Cesta na Dobrovo",
+    "housenumber": "1",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211115"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2670361,
+     46.2401488
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211114,
+    "building": "apartments",
+    "address": "Dečkova cesta 26",
     "street": "Dečkova cesta",
-    "housenumber": "40",
+    "housenumber": "26",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 482,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/484188932"
+    "osm_url": "https://www.openstreetmap.org/way/484211114"
    }
   },
   {
@@ -3398,191 +3556,22 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     15.2617302,
-     46.240876
+     15.2516077,
+     46.2437434
     ]
    },
    "properties": {
     "osm_type": "way",
-    "osm_id": 474597153,
+    "osm_id": 484950067,
     "building": "apartments",
-    "address": "Dečkova cesta 48",
-    "street": "Dečkova cesta",
-    "housenumber": "48",
+    "address": "Goriška ulica 1",
+    "street": "Goriška ulica",
+    "housenumber": "1",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 327,
+    "ks_mc": "Lava",
     "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597153"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2611471,
-     46.2408918
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597154,
-    "building": "apartments",
-    "address": "Dečkova cesta 50",
-    "street": "Dečkova cesta",
-    "housenumber": "50",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 297,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597154"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2605823,
-     46.2410885
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597155,
-    "building": "apartments",
-    "address": "Dečkova cesta 52",
-    "street": "Dečkova cesta",
-    "housenumber": "52",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 290,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597155"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.259988,
-     46.2409203
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597159,
-    "building": "apartments",
-    "address": "Dečkova cesta 54",
-    "street": "Dečkova cesta",
-    "housenumber": "54",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 252,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597159"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.259441,
-     46.241134
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597160,
-    "building": "apartments",
-    "address": "Dečkova cesta 56",
-    "street": "Dečkova cesta",
-    "housenumber": "56",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 262,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597160"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2624168,
-     46.2411479
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474564538,
-    "building": "apartments",
-    "address": "Hubadova ulica 3",
-    "street": "Hubadova ulica",
-    "housenumber": "3",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 386,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474564538"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2622184,
-     46.241231
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 483599366,
-    "building": "apartments",
-    "address": "Hubadova ulica 5",
-    "street": "Hubadova ulica",
-    "housenumber": "5",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 381,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/483599366"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2624685,
-     46.2413442
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474564547,
-    "building": "apartments",
-    "address": "Hubadova ulica 7",
-    "street": "Hubadova ulica",
-    "housenumber": "7",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 404,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474564547"
+    "osm_url": "https://www.openstreetmap.org/way/484950067"
    }
   },
   {
@@ -3604,7 +3593,6 @@
     "city": "Celje",
     "levels": "9",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 120,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340592904"
    }
@@ -3627,8 +3615,7 @@
     "housenumber": "31",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 398,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211074"
    }
@@ -3651,8 +3638,7 @@
     "housenumber": "42",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 428,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211086"
    }
@@ -3675,8 +3661,7 @@
     "housenumber": "44",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 430,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/831596190"
    }
@@ -3699,8 +3684,7 @@
     "housenumber": "46A",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 434,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/831596189"
    }
@@ -3723,8 +3707,7 @@
     "housenumber": "46B",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 436,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211087"
    }
@@ -3747,8 +3730,7 @@
     "housenumber": "48",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 444,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211088"
    }
@@ -3771,8 +3753,7 @@
     "housenumber": "50",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 450,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211089"
    }
@@ -3796,7 +3777,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 120,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589589"
    }
@@ -3820,7 +3800,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 118,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589592"
    }
@@ -3843,8 +3822,7 @@
     "housenumber": "16",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Kajuh",
-    "ks_dist_m": 258,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/856536307"
    }
@@ -3867,8 +3845,7 @@
     "housenumber": "18",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 258,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875959"
    }
@@ -3891,8 +3868,7 @@
     "housenumber": "18",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 180,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875969"
    }
@@ -3915,8 +3891,7 @@
     "housenumber": "18B",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 138,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860159686"
    }
@@ -3939,8 +3914,7 @@
     "housenumber": "18C",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 126,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860159687"
    }
@@ -3963,8 +3937,7 @@
     "housenumber": "18D",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 151,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875967"
    }
@@ -3987,8 +3960,7 @@
     "housenumber": "20A",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Kajuh",
-    "ks_dist_m": 225,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875982"
    }
@@ -4011,8 +3983,7 @@
     "housenumber": "22",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 96,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/856536310"
    }
@@ -4036,7 +4007,6 @@
     "city": "Celje",
     "levels": "2",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 255,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589610"
    }
@@ -4059,8 +4029,7 @@
     "housenumber": "24",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 80,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875968"
    }
@@ -4083,8 +4052,7 @@
     "housenumber": "25",
     "city": "Celje",
     "levels": "2",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 221,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589608"
    }
@@ -4108,7 +4076,6 @@
     "city": "Celje",
     "levels": "9",
     "ks_mc": "Savinja",
-    "ks_dist_m": 0,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/407507593"
    }
@@ -4131,8 +4098,7 @@
     "housenumber": "28",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 69,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238957"
    }
@@ -4156,7 +4122,6 @@
     "city": "Celje",
     "levels": "9",
     "ks_mc": "Savinja",
-    "ks_dist_m": 56,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/407507594"
    }
@@ -4180,7 +4145,6 @@
     "city": "Celje",
     "levels": "10",
     "ks_mc": "Savinja",
-    "ks_dist_m": 113,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/483477566"
    }
@@ -4204,57 +4168,8 @@
     "city": "Celje",
     "levels": "10",
     "ks_mc": "Savinja",
-    "ks_dist_m": 170,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/483477567"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2604227,
-     46.2304309
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 860142014,
-    "building": "apartments",
-    "address": "Ljubljanska cesta 5A",
-    "street": "Ljubljanska cesta",
-    "housenumber": "5A",
-    "city": "Celje",
-    "levels": "4",
-    "ks_mc": "Kajuh",
-    "ks_dist_m": 243,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/860142014"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2603436,
-     46.2305682
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 484410262,
-    "building": "apartments",
-    "address": "Ljubljanska cesta 5B",
-    "street": "Ljubljanska cesta",
-    "housenumber": "5B",
-    "city": "Celje",
-    "levels": "4",
-    "ks_mc": "Kajuh",
-    "ks_dist_m": 232,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/484410262"
    }
   },
   {
@@ -4276,7 +4191,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 73,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860142011"
    }
@@ -4300,7 +4214,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 62,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589599"
    }
@@ -4324,7 +4237,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 57,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589597"
    }
@@ -4348,7 +4260,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 62,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860141985"
    }
@@ -4372,7 +4283,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 83,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589602"
    }
@@ -4396,7 +4306,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 149,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589603"
    }
@@ -4420,7 +4329,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 99,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860141984"
    }
@@ -4444,7 +4352,6 @@
     "city": null,
     "levels": "15",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 176,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/284898441"
    }
@@ -4468,7 +4375,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 131,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860142013"
    }
@@ -4492,7 +4398,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 121,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589607"
    }
@@ -4516,7 +4421,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 107,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860142012"
    }
@@ -4540,7 +4444,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Kajuh",
-    "ks_dist_m": 216,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/807311815"
    }
@@ -4563,8 +4466,7 @@
     "housenumber": "10",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Savinja",
-    "ks_dist_m": 102,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589593"
    }
@@ -4587,8 +4489,7 @@
     "housenumber": "11",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 213,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/807311811"
    }
@@ -4611,8 +4512,7 @@
     "housenumber": "12",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Savinja",
-    "ks_dist_m": 65,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589598"
    }
@@ -4635,8 +4535,7 @@
     "housenumber": "13",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 151,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/859805763"
    }
@@ -4659,8 +4558,7 @@
     "housenumber": "15",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 140,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589584"
    }
@@ -4683,8 +4581,7 @@
     "housenumber": "17",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Savinja",
-    "ks_dist_m": 148,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589588"
    }
@@ -4708,7 +4605,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 225,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589596"
    }
@@ -4732,7 +4628,6 @@
     "city": "Celje",
     "levels": null,
     "ks_mc": "Kajuh",
-    "ks_dist_m": 236,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589609"
    }
@@ -4755,8 +4650,7 @@
     "housenumber": "4",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 231,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589594"
    }
@@ -4779,8 +4673,7 @@
     "housenumber": "5",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 219,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589580"
    }
@@ -4803,8 +4696,7 @@
     "housenumber": "6",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Savinja",
-    "ks_dist_m": 175,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589604"
    }
@@ -4827,8 +4719,7 @@
     "housenumber": "7",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 180,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589586"
    }
@@ -4851,8 +4742,7 @@
     "housenumber": "8",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Savinja",
-    "ks_dist_m": 138,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589595"
    }
@@ -4875,8 +4765,7 @@
     "housenumber": "9",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 199,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589579"
    }
@@ -4899,8 +4788,7 @@
     "housenumber": "1",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 184,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/861192612"
    }
@@ -4923,8 +4811,7 @@
     "housenumber": "10",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 141,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/861192608"
    }
@@ -4947,8 +4834,7 @@
     "housenumber": "11",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 124,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/861192607"
    }
@@ -4971,8 +4857,7 @@
     "housenumber": "12",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 109,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875972"
    }
@@ -4995,8 +4880,7 @@
     "housenumber": "13",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 129,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875961"
    }
@@ -5019,8 +4903,7 @@
     "housenumber": "14",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 142,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875977"
    }
@@ -5043,8 +4926,7 @@
     "housenumber": "15",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 161,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/861192606"
    }
@@ -5067,8 +4949,7 @@
     "housenumber": "2",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 193,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/861192611"
    }
@@ -5091,8 +4972,7 @@
     "housenumber": "3",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 203,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/861192610"
    }
@@ -5115,8 +4995,7 @@
     "housenumber": "4",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 216,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875975"
    }
@@ -5139,8 +5018,7 @@
     "housenumber": "5",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 230,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/861192635"
    }
@@ -5163,8 +5041,7 @@
     "housenumber": "6",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 257,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/861192662"
    }
@@ -5187,8 +5064,7 @@
     "housenumber": "7",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 273,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/861192661"
    }
@@ -5211,8 +5087,7 @@
     "housenumber": "8",
     "city": "Celje",
     "levels": "14",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 266,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875957"
    }
@@ -5235,8 +5110,7 @@
     "housenumber": "9",
     "city": "Celje",
     "levels": "12",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 199,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340875956"
    }
@@ -5259,8 +5133,7 @@
     "housenumber": null,
     "city": null,
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 627,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/386897498"
    }
@@ -5284,7 +5157,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 251,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482849193"
    }
@@ -5308,7 +5180,6 @@
     "city": null,
     "levels": null,
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 259,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482849196"
    }
@@ -5318,23 +5189,137 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     15.2602322,
-     46.230721
+     15.2527274,
+     46.2426969
     ]
    },
    "properties": {
     "osm_type": "way",
-    "osm_id": 484410263,
+    "osm_id": 484950073,
     "building": "apartments",
     "address": null,
     "street": null,
     "housenumber": null,
     "city": null,
-    "levels": "4",
-    "ks_mc": "Kajuh",
-    "ks_dist_m": 219,
+    "levels": null,
+    "ks_mc": "Lava",
     "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/484410263"
+    "osm_url": "https://www.openstreetmap.org/way/484950073"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.250962,
+     46.2430279
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 485994993,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Lava",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/485994993"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2510034,
+     46.2435398
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 485994994,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Lava",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/485994994"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2684539,
+     46.2400772
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1567395566,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/1567395566"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2666903,
+     46.2398707
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386882334,
+    "building": "apartments",
+    "address": "Nušičeva ulica 12",
+    "street": "Nušičeva ulica",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/386882334"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2672474,
+     46.2397391
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386882335,
+    "building": "apartments",
+    "address": "Nušičeva ulica 14",
+    "street": "Nušičeva ulica",
+    "housenumber": "14",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/386882335"
    }
   },
   {
@@ -5355,10 +5340,32 @@
     "housenumber": "2",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 634,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/474597112"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2673742,
+     46.2395328
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484199559,
+    "building": "apartments",
+    "address": "Nušičeva ulica 41a",
+    "street": "Nušičeva ulica",
+    "housenumber": "41a",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484199559"
    }
   },
   {
@@ -5379,8 +5386,7 @@
     "housenumber": "1",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 275,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246075"
    }
@@ -5403,8 +5409,7 @@
     "housenumber": "2",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 284,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246076"
    }
@@ -5427,8 +5432,7 @@
     "housenumber": "3",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 292,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246074"
    }
@@ -5451,8 +5455,7 @@
     "housenumber": "4",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 301,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246073"
    }
@@ -5476,7 +5479,6 @@
     "city": "Celje",
     "levels": "3",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 286,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482849192"
    }
@@ -5500,33 +5502,8 @@
     "city": "Celje",
     "levels": "3",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 280,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482849191"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2592716,
-     46.2418689
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597139,
-    "building": "apartments",
-    "address": "Ribarjeva ulica 2",
-    "street": "Ribarjeva ulica",
-    "housenumber": "2",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 340,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597139"
    }
   },
   {
@@ -5547,8 +5524,7 @@
     "housenumber": "10",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 555,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/474564531"
    }
@@ -5571,8 +5547,7 @@
     "housenumber": "20",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 434,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211085"
    }
@@ -5595,8 +5570,7 @@
     "housenumber": "22",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 426,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/831596191"
    }
@@ -5619,8 +5593,7 @@
     "housenumber": "4",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 585,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/831598300"
    }
@@ -5643,8 +5616,7 @@
     "housenumber": "5",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 586,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/474344281"
    }
@@ -5667,8 +5639,7 @@
     "housenumber": "6",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 576,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211112"
    }
@@ -5691,8 +5662,7 @@
     "housenumber": "7",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 556,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/474344283"
    }
@@ -5715,8 +5685,7 @@
     "housenumber": "8",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 563,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/831598301"
    }
@@ -5740,7 +5709,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 233,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/807311812"
    }
@@ -5764,7 +5732,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 246,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/807311813"
    }
@@ -5787,8 +5754,7 @@
     "housenumber": "14",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 249,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/807311814"
    }
@@ -5811,8 +5777,7 @@
     "housenumber": "16",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 240,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589581"
    }
@@ -5835,8 +5800,7 @@
     "housenumber": "18",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 202,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/859805768"
    }
@@ -5860,7 +5824,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 142,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/807311817"
    }
@@ -5883,8 +5846,7 @@
     "housenumber": "20",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 194,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/859805767"
    }
@@ -5907,8 +5869,7 @@
     "housenumber": "22",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 186,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/859805766"
    }
@@ -5931,8 +5892,7 @@
     "housenumber": "24",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 180,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/859805765"
    }
@@ -5956,7 +5916,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 130,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860251296"
    }
@@ -5980,7 +5939,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 132,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/483477563"
    }
@@ -6004,7 +5962,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 137,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860251295"
    }
@@ -6028,7 +5985,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 75,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/856392399"
    }
@@ -6052,7 +6008,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 88,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/856392401"
    }
@@ -6076,7 +6031,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 100,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/856392400"
    }
@@ -6100,7 +6054,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 112,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/483477562"
    }
@@ -6124,7 +6077,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 148,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/859899130"
    }
@@ -6148,7 +6100,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 120,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860251293"
    }
@@ -6172,7 +6123,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 110,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/407507595"
    }
@@ -6196,7 +6146,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 101,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860251294"
    }
@@ -6220,7 +6169,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 143,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860251290"
    }
@@ -6244,7 +6192,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 154,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/855650871"
    }
@@ -6268,7 +6215,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 166,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860251289"
    }
@@ -6292,7 +6238,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 160,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860251291"
    }
@@ -6316,7 +6261,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 153,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/483477560"
    }
@@ -6339,8 +6283,7 @@
     "housenumber": "55A",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Savinja",
-    "ks_dist_m": 242,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340594696"
    }
@@ -6364,7 +6307,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 147,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860251292"
    }
@@ -6388,7 +6330,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 191,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589606"
    }
@@ -6412,7 +6353,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Kajuh",
-    "ks_dist_m": 197,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/859899131"
    }
@@ -6436,7 +6376,6 @@
     "city": "Celje",
     "levels": "2",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 169,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482849204"
    }
@@ -6459,8 +6398,7 @@
     "housenumber": "10",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 244,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246063"
    }
@@ -6484,7 +6422,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 256,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246058"
    }
@@ -6507,8 +6444,7 @@
     "housenumber": "12",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 255,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246064"
    }
@@ -6532,7 +6468,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 269,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482849210"
    }
@@ -6556,7 +6491,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 282,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246060"
    }
@@ -6580,7 +6514,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 297,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246059"
    }
@@ -6603,8 +6536,7 @@
     "housenumber": "2",
     "city": "Celje",
     "levels": "3",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 166,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482967390"
    }
@@ -6628,7 +6560,6 @@
     "city": "Celje",
     "levels": "2",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 155,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238979"
    }
@@ -6651,8 +6582,7 @@
     "housenumber": "4",
     "city": "Celje",
     "levels": "3",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 193,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482967388"
    }
@@ -6676,7 +6606,6 @@
     "city": "Celje",
     "levels": "3",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 232,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482849197"
    }
@@ -6700,7 +6629,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 222,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246061"
    }
@@ -6724,7 +6652,6 @@
     "city": "Celje",
     "levels": "3",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 224,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238976"
    }
@@ -6748,7 +6675,6 @@
     "city": "Celje",
     "levels": "5",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 233,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246062"
    }
@@ -6771,8 +6697,7 @@
     "housenumber": "1",
     "city": "Celje",
     "levels": "9",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 162,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238970"
    }
@@ -6795,8 +6720,7 @@
     "housenumber": "10",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 190,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238964"
    }
@@ -6819,8 +6743,7 @@
     "housenumber": "11",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 215,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246072"
    }
@@ -6843,8 +6766,7 @@
     "housenumber": "12",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 185,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482967395"
    }
@@ -6867,8 +6789,7 @@
     "housenumber": "13",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 228,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246071"
    }
@@ -6891,8 +6812,7 @@
     "housenumber": "14",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 181,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238966"
    }
@@ -6915,8 +6835,7 @@
     "housenumber": "15",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 241,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246069"
    }
@@ -6939,8 +6858,7 @@
     "housenumber": "16",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 179,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238965"
    }
@@ -6963,8 +6881,7 @@
     "housenumber": "17",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 257,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246070"
    }
@@ -6987,8 +6904,7 @@
     "housenumber": "2",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 126,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238961"
    }
@@ -7011,8 +6927,7 @@
     "housenumber": "3",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 192,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246065"
    }
@@ -7035,8 +6950,7 @@
     "housenumber": "4",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 139,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238962"
    }
@@ -7059,8 +6973,7 @@
     "housenumber": "5",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 202,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246066"
    }
@@ -7083,8 +6996,7 @@
     "housenumber": "6",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 153,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482967399"
    }
@@ -7107,8 +7019,7 @@
     "housenumber": "7",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 212,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246067"
    }
@@ -7131,8 +7042,7 @@
     "housenumber": "8",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 168,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238963"
    }
@@ -7155,10 +7065,32 @@
     "housenumber": "9",
     "city": "Celje",
     "levels": "5",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 223,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860246068"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2673794,
+     46.2389046
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1106325487,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 35",
+    "street": "Vrunčeva ulica",
+    "housenumber": "35",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/1106325487"
    }
   },
   {
@@ -7179,10 +7111,101 @@
     "housenumber": "35a",
     "city": "Celje",
     "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 654,
+    "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/474597113"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2674939,
+     46.2391041
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484199560,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 37",
+    "street": "Vrunčeva ulica",
+    "housenumber": "37",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484199560"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2675577,
+     46.2393761
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597114,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 39",
+    "street": "Vrunčeva ulica",
+    "housenumber": "39",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597114"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.26741,
+     46.2393806
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1106325486,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 39a",
+    "street": "Vrunčeva ulica",
+    "housenumber": "39a",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/1106325486"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2675474,
+     46.2394888
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1106325485,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 41",
+    "street": "Vrunčeva ulica",
+    "housenumber": "41",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo polje",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/1106325485"
    }
   },
   {
@@ -7204,7 +7227,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 72,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/856481151"
    }
@@ -7227,8 +7249,7 @@
     "housenumber": "12",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 146,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589591"
    }
@@ -7252,7 +7273,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 54,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/856481150"
    }
@@ -7275,8 +7295,7 @@
     "housenumber": "14",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 115,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589582"
    }
@@ -7299,8 +7318,7 @@
     "housenumber": "15",
     "city": "Celje",
     "levels": "6",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 98,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238960"
    }
@@ -7323,8 +7341,7 @@
     "housenumber": "16",
     "city": "Celje",
     "levels": "4",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 88,
+    "ks_mc": "Kajuh",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/340589585"
    }
@@ -7347,8 +7364,7 @@
     "housenumber": "25",
     "city": "Celje",
     "levels": "14",
-    "ks_mc": "Savinja",
-    "ks_dist_m": 233,
+    "ks_mc": "Slavko Šlander",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238968"
    }
@@ -7372,7 +7388,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 130,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/483477565"
    }
@@ -7396,7 +7411,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 116,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/856481153"
    }
@@ -7420,7 +7434,6 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 97,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/856481152"
    }
@@ -7444,345 +7457,8 @@
     "city": "Celje",
     "levels": "6",
     "ks_mc": "Savinja",
-    "ks_dist_m": 86,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/483477564"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2596927,
-     46.2418469
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 483599335,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 10",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "10",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 343,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/483599335"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2601368,
-     46.2413465
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 965503341,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 11",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "11",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 300,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/965503341"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2599057,
-     46.2413518
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597158,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 13",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "13",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 295,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597158"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2595675,
-     46.2415445
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 965503340,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 15",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "15",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 308,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/965503340"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2593262,
-     46.2415478
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597161,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 17",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "17",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 305,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597161"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2610069,
-     46.241846
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597146,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 6",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "6",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 379,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597146"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2612653,
-     46.2418366
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 831289491,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 6A",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "6A",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 388,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/831289491"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2607429,
-     46.2418557
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 831289492,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 6B",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "6B",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 371,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/831289492"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2621478,
-     46.24153
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 483599365,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 7",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "7",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 401,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/483599365"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2617769,
-     46.2413996
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 483599324,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 7A",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "7A",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 372,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/483599324"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.261601,
-     46.241112
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597152,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 7B",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "7B",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 339,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597152"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2611876,
-     46.2413406
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597156,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 7C",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "7C",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 339,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597156"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.260205,
-     46.2418699
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597145,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 8",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "8",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 357,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597145"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     15.2606062,
-     46.2415375
-    ]
-   },
-   "properties": {
-    "osm_type": "way",
-    "osm_id": 474597157,
-    "building": "apartments",
-    "address": "Šaranovičeva ulica 9",
-    "street": "Šaranovičeva ulica",
-    "housenumber": "9",
-    "city": "Celje",
-    "levels": null,
-    "ks_mc": "Dolgo Polje",
-    "ks_dist_m": 335,
-    "volilna_enota": 3,
-    "osm_url": "https://www.openstreetmap.org/way/474597157"
    }
   },
   {
@@ -7804,7 +7480,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 188,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238978"
    }
@@ -7828,7 +7503,6 @@
     "city": "Celje",
     "levels": "4",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 199,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/860238977"
    }
@@ -7852,7 +7526,6 @@
     "city": "Celje",
     "levels": "3",
     "ks_mc": "Slavko Šlander",
-    "ks_dist_m": 170,
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/482849177"
    }

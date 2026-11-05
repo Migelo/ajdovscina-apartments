@@ -1,0 +1,3352 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "source": "OpenStreetMap Overpass API",
+  "query": "nwr[building=apartments|apartment](around:1500,45.8888,13.9055)",
+  "center": [
+   13.9055,
+   45.8888
+  ],
+  "place": "Ajdovščina / Šturje, Slovenia",
+  "created": "2026-11-05",
+  "count": 139
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9142926,
+     45.883919
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538146,
+    "building": "apartments",
+    "address": "Bevkova ulica 1",
+    "street": "Bevkova ulica",
+    "housenumber": "1",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538146"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9156429,
+     45.8839148
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538181,
+    "building": "apartments",
+    "address": "Bevkova ulica 11",
+    "street": "Bevkova ulica",
+    "housenumber": "11",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538181"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9157645,
+     45.8836819
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538182,
+    "building": "apartments",
+    "address": "Bevkova ulica 12",
+    "street": "Bevkova ulica",
+    "housenumber": "12",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538182"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9156734,
+     45.8844778
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538130,
+    "building": "apartments",
+    "address": "Bevkova ulica 13",
+    "street": "Bevkova ulica",
+    "housenumber": "13",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538130"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9155158,
+     45.8844628
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538236,
+    "building": "apartments",
+    "address": "Bevkova ulica 13",
+    "street": "Bevkova ulica",
+    "housenumber": "13",
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538236"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9159363,
+     45.8842823
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538126,
+    "building": "apartments",
+    "address": "Bevkova ulica 14",
+    "street": "Bevkova ulica",
+    "housenumber": "14",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538126"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9160668,
+     45.8840543
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538127,
+    "building": "apartments",
+    "address": "Bevkova ulica 15",
+    "street": "Bevkova ulica",
+    "housenumber": "15",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538127"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9162056,
+     45.8838238
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538179,
+    "building": "apartments",
+    "address": "Bevkova ulica 16",
+    "street": "Bevkova ulica",
+    "housenumber": "16",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538179"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9141769,
+     45.8837042
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538123,
+    "building": "apartments",
+    "address": "Bevkova ulica 2",
+    "street": "Bevkova ulica",
+    "housenumber": "2",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538123"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9145582,
+     45.8834498
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538124,
+    "building": "apartments",
+    "address": "Bevkova ulica 3",
+    "street": "Bevkova ulica",
+    "housenumber": "3",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538124"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9148328,
+     45.8832218
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538157,
+    "building": "apartments",
+    "address": "Bevkova ulica 4",
+    "street": "Bevkova ulica",
+    "housenumber": "4",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538157"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9145272,
+     45.8841783
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538158,
+    "building": "apartments",
+    "address": "Bevkova ulica 5",
+    "street": "Bevkova ulica",
+    "housenumber": "5",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538158"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9148384,
+     45.884262
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538159,
+    "building": "apartments",
+    "address": "Bevkova ulica 6",
+    "street": "Bevkova ulica",
+    "housenumber": "6",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538159"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9151521,
+     45.8843491
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538156,
+    "building": "apartments",
+    "address": "Bevkova ulica 7",
+    "street": "Bevkova ulica",
+    "housenumber": "7",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538156"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9148963,
+     45.8839844
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538129,
+    "building": "apartments",
+    "address": "Bevkova ulica 8",
+    "street": "Bevkova ulica",
+    "housenumber": "8",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538129"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9152101,
+     45.8840701
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538128,
+    "building": "apartments",
+    "address": "Bevkova ulica 9",
+    "street": "Bevkova ulica",
+    "housenumber": "9",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538128"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9076964,
+     45.8902035
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880804709,
+    "building": "apartments",
+    "address": "Cebejeva ulica 1",
+    "street": "Cebejeva ulica",
+    "housenumber": "1",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880804709"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9078925,
+     45.8907191
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880804705,
+    "building": "apartments",
+    "address": "Cebejeva ulica 15",
+    "street": "Cebejeva ulica",
+    "housenumber": "15",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880804705"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9079986,
+     45.8905333
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880804706,
+    "building": "apartments",
+    "address": "Cebejeva ulica 16",
+    "street": "Cebejeva ulica",
+    "housenumber": "16",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880804706"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9081035,
+     45.8903328
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880804707,
+    "building": "apartments",
+    "address": "Cebejeva ulica 19",
+    "street": "Cebejeva ulica",
+    "housenumber": "19",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880804707"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.907764,
+     45.8902247
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 881438706,
+    "building": "apartments",
+    "address": "Cebejeva ulica 2",
+    "street": "Cebejeva ulica",
+    "housenumber": "2",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/881438706"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9082158,
+     45.8901362
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880804708,
+    "building": "apartments",
+    "address": "Cebejeva ulica 20",
+    "street": "Cebejeva ulica",
+    "housenumber": "20",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880804708"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9076216,
+     45.8903988
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 881438708,
+    "building": "apartments",
+    "address": "Cebejeva ulica 3",
+    "street": "Cebejeva ulica",
+    "housenumber": "3",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/881438708"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9077148,
+     45.8904184
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 650978030,
+    "building": "apartments",
+    "address": "Cebejeva ulica 3a",
+    "street": "Cebejeva ulica",
+    "housenumber": "3a",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/650978030"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.902578,
+     45.8872844
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 540518039,
+    "building": "apartments",
+    "address": "Cesta 5. maja 1",
+    "street": "Cesta 5. maja",
+    "housenumber": "1",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/540518039"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9086008,
+     45.888519
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 882049089,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 10",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "10",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/882049089"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9082053,
+     45.8896121
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880804691,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 12a",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "12a",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880804691"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9083657,
+     45.8895778
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 881441742,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 12b",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "12b",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/881441742"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9077925,
+     45.8897744
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 650978046,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 14",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "14",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "2",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/650978046"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9075144,
+     45.8899267
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 650978033,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 16",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "16",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/650978033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9074541,
+     45.8899922
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 881438712,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 18",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "18",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/881438712"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9075523,
+     45.8900442
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 881438713,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 18a",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "18a",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/881438713"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9081327,
+     45.8880014
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880804748,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 2",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "2",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880804748"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9073884,
+     45.890164
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 650978050,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 20",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "20",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/650978050"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9073269,
+     45.8902372
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 881438711,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 22",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "22",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/881438711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9072857,
+     45.890426
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 650978038,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 24",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "24",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/650978038"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9072134,
+     45.8904994
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 650978042,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 26",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "26",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/650978042"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9077923,
+     45.8885411
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 659787426,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 3",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "3",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/659787426"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9085089,
+     45.8880748
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880804747,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 4",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "4",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880804747"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9071628,
+     45.8896964
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024479,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 49",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "49",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024479"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9070578,
+     45.8898273
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024472,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 51",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "51",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024472"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9069665,
+     45.8899928
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024448,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 53",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "53",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024448"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.906937,
+     45.8900858
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024480,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 55",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "55",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024480"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9069423,
+     45.8902541
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024468,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 57",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "57",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024468"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9082768,
+     45.8883142
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 659787427,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 6",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "6",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/659787427"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9084342,
+     45.8886213
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 659787428,
+    "building": "apartments",
+    "address": "Cesta IV. Prekomorske 8",
+    "street": "Cesta IV. Prekomorske",
+    "housenumber": "8",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/659787428"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.90732,
+     45.8884302
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880388996,
+    "building": "apartments",
+    "address": "Cesta IX. korpusa 1",
+    "street": "Cesta IX. korpusa",
+    "housenumber": "1",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880388996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9082718,
+     45.8867073
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362414784,
+    "building": "apartments",
+    "address": "Goriška cesta 11",
+    "street": "Goriška cesta",
+    "housenumber": "11",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362414784"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9083834,
+     45.8864249
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362418030,
+    "building": "apartments",
+    "address": "Goriška cesta 13",
+    "street": "Goriška cesta",
+    "housenumber": "13",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362418030"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.908387,
+     45.8861124
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362418031,
+    "building": "apartments",
+    "address": "Goriška cesta 15",
+    "street": "Goriška cesta",
+    "housenumber": "15",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362418031"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9024449,
+     45.8872731
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024406,
+    "building": "apartments",
+    "address": "Goriška cesta 26",
+    "street": "Goriška cesta",
+    "housenumber": "26",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024406"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9047557,
+     45.8868535
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 878720402,
+    "building": "apartments",
+    "address": "Goriška cesta 27b",
+    "street": "Goriška cesta",
+    "housenumber": "27b",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/878720402"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9022664,
+     45.887236
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024402,
+    "building": "apartments",
+    "address": "Goriška cesta 28",
+    "street": "Goriška cesta",
+    "housenumber": "28",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024402"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.900642,
+     45.887172
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880812183,
+    "building": "apartments",
+    "address": "Goriška cesta 28",
+    "street": "Goriška cesta",
+    "housenumber": "28",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880812183"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9092246,
+     45.8867489
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362416760,
+    "building": "apartments",
+    "address": "Goriška cesta 3",
+    "street": "Goriška cesta",
+    "housenumber": "3",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362416760"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9020233,
+     45.8871941
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024405,
+    "building": "apartments",
+    "address": "Goriška cesta 30",
+    "street": "Goriška cesta",
+    "housenumber": "30",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024405"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9003678,
+     45.8871393
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880812182,
+    "building": "apartments",
+    "address": "Goriška cesta 30",
+    "street": "Goriška cesta",
+    "housenumber": "30",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880812182"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.8966985,
+     45.886847
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1044544564,
+    "building": "apartments",
+    "address": "Goriška cesta 31",
+    "street": "Goriška cesta",
+    "housenumber": "31",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": "1",
+    "name": "Fluvio",
+    "osm_url": "https://www.openstreetmap.org/way/1044544564"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.8962205,
+     45.886931
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1044544563,
+    "building": "apartments",
+    "address": "Goriška cesta 31a",
+    "street": "Goriška cesta",
+    "housenumber": "31a",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": "1",
+    "name": "Frigido",
+    "osm_url": "https://www.openstreetmap.org/way/1044544563"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9015584,
+     45.8872701
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024403,
+    "building": "apartments",
+    "address": "Goriška cesta 32",
+    "street": "Goriška cesta",
+    "housenumber": "32",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024403"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9013216,
+     45.8872046
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024401,
+    "building": "apartments",
+    "address": "Goriška cesta 34",
+    "street": "Goriška cesta",
+    "housenumber": "34",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024401"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9008919,
+     45.8872389
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880812184,
+    "building": "apartments",
+    "address": "Goriška cesta 36",
+    "street": "Goriška cesta",
+    "housenumber": "36",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880812184"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9091117,
+     45.8864736
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362418032,
+    "building": "apartments",
+    "address": "Goriška cesta 5",
+    "street": "Goriška cesta",
+    "housenumber": "5",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362418032"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9087776,
+     45.8862426
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362418033,
+    "building": "apartments",
+    "address": "Goriška cesta 7",
+    "street": "Goriška cesta",
+    "housenumber": "7",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362418033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9087971,
+     45.8866692
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362416746,
+    "building": "apartments",
+    "address": "Goriška cesta 9",
+    "street": "Goriška cesta",
+    "housenumber": "9",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362416746"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9039685,
+     45.8883294
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 884855087,
+    "building": "apartments",
+    "address": "Gregorčičeva ulica 10",
+    "street": "Gregorčičeva ulica",
+    "housenumber": "10",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "2",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/884855087"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9036362,
+     45.8882912
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 884370006,
+    "building": "apartments",
+    "address": "Gregorčičeva ulica 14b",
+    "street": "Gregorčičeva ulica",
+    "housenumber": "14b",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "2",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/884370006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9035046,
+     45.8882789
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 884370008,
+    "building": "apartments",
+    "address": "Gregorčičeva ulica 16",
+    "street": "Gregorčičeva ulica",
+    "housenumber": "16",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "2",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/884370008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9042197,
+     45.8884727
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 884851125,
+    "building": "apartments",
+    "address": "Gregorčičeva ulica 2",
+    "street": "Gregorčičeva ulica",
+    "housenumber": "2",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/884851125"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9041019,
+     45.8883582
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 884855089,
+    "building": "apartments",
+    "address": "Gregorčičeva ulica 8",
+    "street": "Gregorčičeva ulica",
+    "housenumber": "8",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "2",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/884855089"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9122222,
+     45.8867097
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880369286,
+    "building": "apartments",
+    "address": "Idrijska cesta 3",
+    "street": "Idrijska cesta",
+    "housenumber": "3",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "2",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880369286"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.90303,
+     45.8876096
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362425889,
+    "building": "apartments",
+    "address": "Lokarjev drevored 5",
+    "street": "Lokarjev drevored",
+    "housenumber": "5",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362425889"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9035427,
+     45.8876745
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362425890,
+    "building": "apartments",
+    "address": "Lokarjev drevored 6",
+    "street": "Lokarjev drevored",
+    "housenumber": "6",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362425890"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9112892,
+     45.886998
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 878722225,
+    "building": "apartments",
+    "address": "Na Livadi 1",
+    "street": "Na Livadi",
+    "housenumber": "1",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/878722225"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9116056,
+     45.8868978
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 878722223,
+    "building": "apartments",
+    "address": "Na Livadi 2",
+    "street": "Na Livadi",
+    "housenumber": "2",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/878722223"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9118224,
+     45.8865592
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880369285,
+    "building": "apartments",
+    "address": "Na Livadi 3",
+    "street": "Na Livadi",
+    "housenumber": "3",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880369285"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9120733,
+     45.886385
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880369284,
+    "building": "apartments",
+    "address": "Na Livadi 4",
+    "street": "Na Livadi",
+    "housenumber": "4",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880369284"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9119868,
+     45.8860864
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1343023416,
+    "building": "apartments",
+    "address": "Na Livadi 5",
+    "street": "Na Livadi",
+    "housenumber": "5",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/1343023416"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9117358,
+     45.8862391
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880369282,
+    "building": "apartments",
+    "address": "Na Livadi 6",
+    "street": "Na Livadi",
+    "housenumber": "6",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880369282"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.911506,
+     45.8864102
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880369281,
+    "building": "apartments",
+    "address": "Na Livadi 7",
+    "street": "Na Livadi",
+    "housenumber": "7",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880369281"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9090832,
+     45.883392
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413202835,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413202835"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9050983,
+     45.8905717
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413866536,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": "2",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413866536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.904824,
+     45.8907165
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413867016,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": "2",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413867016"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9185606,
+     45.883952
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538231,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538231"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9190792,
+     45.8841069
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538233,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538233"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.918878,
+     45.8837156
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538234,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538234"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.90202,
+     45.8867819
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024407,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024407"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9035615,
+     45.8868218
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024409,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024409"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9028159,
+     45.8867362
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024410,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024410"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9039034,
+     45.8867529
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024411,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024411"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9046979,
+     45.8882745
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 577548564,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/577548564"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9048291,
+     45.8881003
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 577548568,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/577548568"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9047723,
+     45.8879611
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 577548570,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": "Ajdovska knjižnica",
+    "osm_url": "https://www.openstreetmap.org/way/577548570"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9058307,
+     45.887345
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 624202029,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "postcode": null,
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/624202029"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9064276,
+     45.8915736
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1278884076,
+    "building": "apartments",
+    "address": "Ob Hublju 10",
+    "street": "Ob Hublju",
+    "housenumber": "10",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/1278884076"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9064861,
+     45.8895754
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024439,
+    "building": "apartments",
+    "address": "Ob Hublju 2",
+    "street": "Ob Hublju",
+    "housenumber": "2",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024439"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9062864,
+     45.8897352
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024478,
+    "building": "apartments",
+    "address": "Ob Hublju 3",
+    "street": "Ob Hublju",
+    "housenumber": "3",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024478"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9062441,
+     45.8899044
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024451,
+    "building": "apartments",
+    "address": "Ob Hublju 4",
+    "street": "Ob Hublju",
+    "housenumber": "4",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024451"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9062145,
+     45.8901836
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024442,
+    "building": "apartments",
+    "address": "Ob Hublju 5",
+    "street": "Ob Hublju",
+    "housenumber": "5",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024442"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9064615,
+     45.8901854
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024463,
+    "building": "apartments",
+    "address": "Ob Hublju 6",
+    "street": "Ob Hublju",
+    "housenumber": "6",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024463"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9064062,
+     45.8907215
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 494024454,
+    "building": "apartments",
+    "address": "Ob Hublju 7",
+    "street": "Ob Hublju",
+    "housenumber": "7",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/494024454"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9063921,
+     45.8908908
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 881438714,
+    "building": "apartments",
+    "address": "Ob Hublju 8",
+    "street": "Ob Hublju",
+    "housenumber": "8",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/881438714"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9064714,
+     45.8912225
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1278884077,
+    "building": "apartments",
+    "address": "Ob Hublju 9",
+    "street": "Ob Hublju",
+    "housenumber": "9",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/1278884077"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9173129,
+     45.8843926
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538147,
+    "building": "apartments",
+    "address": "Pot v Žapuže 15",
+    "street": "Pot v Žapuže",
+    "housenumber": "15",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538147"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9174821,
+     45.8842763
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538148,
+    "building": "apartments",
+    "address": "Pot v Žapuže 16",
+    "street": "Pot v Žapuže",
+    "housenumber": "16",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538148"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9177369,
+     45.8842281
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538153,
+    "building": "apartments",
+    "address": "Pot v Žapuže 17",
+    "street": "Pot v Žapuže",
+    "housenumber": "17",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9179804,
+     45.8842096
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538154,
+    "building": "apartments",
+    "address": "Pot v Žapuže 18",
+    "street": "Pot v Žapuže",
+    "housenumber": "18",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9179339,
+     45.8844632
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538155,
+    "building": "apartments",
+    "address": "Pot v Žapuže 19",
+    "street": "Pot v Žapuže",
+    "housenumber": "19",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538155"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9182118,
+     45.8843761
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 878850798,
+    "building": "apartments",
+    "address": "Pot v Žapuže 20",
+    "street": "Pot v Žapuže",
+    "housenumber": "20",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/878850798"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9183176,
+     45.8843295
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538149,
+    "building": "apartments",
+    "address": "Pot v Žapuže 20a",
+    "street": "Pot v Žapuže",
+    "housenumber": "20a",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538149"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9181294,
+     45.8840106
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538151,
+    "building": "apartments",
+    "address": "Pot v Žapuže 22",
+    "street": "Pot v Žapuže",
+    "housenumber": "22",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538151"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9183629,
+     45.8839776
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538152,
+    "building": "apartments",
+    "address": "Pot v Žapuže 23",
+    "street": "Pot v Žapuže",
+    "housenumber": "23",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538152"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9186395,
+     45.883897
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538144,
+    "building": "apartments",
+    "address": "Pot v Žapuže 24",
+    "street": "Pot v Žapuže",
+    "housenumber": "24",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538144"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9187241,
+     45.8837398
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538145,
+    "building": "apartments",
+    "address": "Pot v Žapuže 25",
+    "street": "Pot v Žapuže",
+    "housenumber": "25",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538145"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9039121,
+     45.8858987
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880369253,
+    "building": "apartments",
+    "address": "Tovarniška cesta 10",
+    "street": "Tovarniška cesta",
+    "housenumber": "10",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880369253"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9039444,
+     45.8857043
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 881448369,
+    "building": "apartments",
+    "address": "Tovarniška cesta 12",
+    "street": "Tovarniška cesta",
+    "housenumber": "12",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/881448369"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9038062,
+     45.8862027
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 881448368,
+    "building": "apartments",
+    "address": "Tovarniška cesta 2",
+    "street": "Tovarniška cesta",
+    "housenumber": "2",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/881448368"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9046458,
+     45.8859511
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880289476,
+    "building": "apartments",
+    "address": "Tovarniška cesta 3a",
+    "street": "Tovarniška cesta",
+    "housenumber": "3a",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880289476"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.905014,
+     45.8856167
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880289475,
+    "building": "apartments",
+    "address": "Tovarniška cesta 3b",
+    "street": "Tovarniška cesta",
+    "housenumber": "3b",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880289475"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9045116,
+     45.8857615
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 881448367,
+    "building": "apartments",
+    "address": "Tovarniška cesta 3c",
+    "street": "Tovarniška cesta",
+    "housenumber": "3c",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "4",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/881448367"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9048658,
+     45.8854363
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880289474,
+    "building": "apartments",
+    "address": "Tovarniška cesta 3č",
+    "street": "Tovarniška cesta",
+    "housenumber": "3č",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "5",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880289474"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9035354,
+     45.8861854
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880369252,
+    "building": "apartments",
+    "address": "Tovarniška cesta 4",
+    "street": "Tovarniška cesta",
+    "housenumber": "4",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880369252"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9190076,
+     45.8840181
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 477538139,
+    "building": "apartments",
+    "address": "Ulica Ivana Kosovela 31",
+    "street": "Ulica Ivana Kosovela",
+    "housenumber": "31",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/477538139"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.912964,
+     45.8826399
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 878844085,
+    "building": "apartments",
+    "address": "Ulica Milana Klemenčiča 2",
+    "street": "Ulica Milana Klemenčiča",
+    "housenumber": "2",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/878844085"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9127311,
+     45.8827966
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413192660,
+    "building": "apartments",
+    "address": "Ulica Milana Klemenčiča 3",
+    "street": "Ulica Milana Klemenčiča",
+    "housenumber": "3",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413192660"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9124626,
+     45.8826716
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413192657,
+    "building": "apartments",
+    "address": "Ulica Milana Klemenčiča 4",
+    "street": "Ulica Milana Klemenčiča",
+    "housenumber": "4",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413192657"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9123212,
+     45.8824623
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413192658,
+    "building": "apartments",
+    "address": "Ulica Milana Klemenčiča 5",
+    "street": "Ulica Milana Klemenčiča",
+    "housenumber": "5",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413192658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9126605,
+     45.8823511
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413192659,
+    "building": "apartments",
+    "address": "Ulica Milana Klemenčiča 6",
+    "street": "Ulica Milana Klemenčiča",
+    "housenumber": "6",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413192659"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9010317,
+     45.889786
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 956083555,
+    "building": "apartments",
+    "address": "Ulica Quiliano 6a",
+    "street": "Ulica Quiliano",
+    "housenumber": "6a",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "1",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/956083555"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9051523,
+     45.8909591
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413866532,
+    "building": "apartments",
+    "address": "Vilharjeva ulica 26b",
+    "street": "Vilharjeva ulica",
+    "housenumber": "26b",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413866532"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9052622,
+     45.8908518
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413866533,
+    "building": "apartments",
+    "address": "Vilharjeva ulica 26c",
+    "street": "Vilharjeva ulica",
+    "housenumber": "26c",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413866533"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9056306,
+     45.8908279
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413866534,
+    "building": "apartments",
+    "address": "Vilharjeva ulica 28a",
+    "street": "Vilharjeva ulica",
+    "housenumber": "28a",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413866534"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9054653,
+     45.8905364
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 413866535,
+    "building": "apartments",
+    "address": "Vilharjeva ulica 28b",
+    "street": "Vilharjeva ulica",
+    "housenumber": "28b",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "3",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/413866535"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9033763,
+     45.88951
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 367148040,
+    "building": "apartments",
+    "address": "Šibeniška ulica 28",
+    "street": "Šibeniška ulica",
+    "housenumber": "28",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": "2",
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/367148040"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.8997608,
+     45.8871076
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 880714470,
+    "building": "apartments",
+    "address": "Župančičeva ulica 3",
+    "street": "Župančičeva ulica",
+    "housenumber": "3",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/880714470"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.8994214,
+     45.8870918
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362441937,
+    "building": "apartments",
+    "address": "Župančičeva ulica 3a",
+    "street": "Župančičeva ulica",
+    "housenumber": "3a",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362441937"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.8992296,
+     45.8870688
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 362441938,
+    "building": "apartments",
+    "address": "Župančičeva ulica 3b",
+    "street": "Župančičeva ulica",
+    "housenumber": "3b",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/362441938"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.9024282,
+     45.8864515
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 878720398,
+    "building": "apartments",
+    "address": "Župančičeva ulica 4",
+    "street": "Župančičeva ulica",
+    "housenumber": "4",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/878720398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.899745,
+     45.8874283
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 884370857,
+    "building": "apartments",
+    "address": "Župančičeva ulica 5",
+    "street": "Župančičeva ulica",
+    "housenumber": "5",
+    "city": "Ajdovščina",
+    "postcode": "5270",
+    "levels": null,
+    "flats": null,
+    "name": null,
+    "osm_url": "https://www.openstreetmap.org/way/884370857"
+   }
+  }
+ ]
+}

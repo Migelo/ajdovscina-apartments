@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="omp-task" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Ajdovscina apartments walking route</name><desc>Optimized loop: Gori&#353;ka cesta start, all 139 multi-apartment buildings, ~13.9 km / ~3 h on foot. Straight-line TSP order, foot-routed on OSM paths.</desc><time>2026-11-05T00:00:00Z</time></metadata>
+ <rte><name>Ajdovscina apartments loop</name>
+  <rtept lat="45.888770" lon="13.905550"><name>0 START Goriska cesta</name></rtept>
+  <rtept lat="45.888430" lon="13.907320"><name>1 Cesta IX. korpusa 1</name><link href="https://www.openstreetmap.org/way/880388996"><text>OSM</text></link></rtept>
+  <rtept lat="45.888541" lon="13.907792"><name>2 Cesta IV. Prekomorske 3</name><link href="https://www.openstreetmap.org/way/659787426"><text>OSM</text></link></rtept>
+  <rtept lat="45.888314" lon="13.908277"><name>3 Cesta IV. Prekomorske 6</name><link href="https://www.openstreetmap.org/way/659787427"><text>OSM</text></link></rtept>
+  <rtept lat="45.888001" lon="13.908133"><name>4 Cesta IV. Prekomorske 2</name><link href="https://www.openstreetmap.org/way/880804748"><text>OSM</text></link></rtept>
+  <rtept lat="45.888075" lon="13.908509"><name>5 Cesta IV. Prekomorske 4</name><link href="https://www.openstreetmap.org/way/880804747"><text>OSM</text></link></rtept>
+  <rtept lat="45.888519" lon="13.908601"><name>6 Cesta IV. Prekomorske 10</name><link href="https://www.openstreetmap.org/way/882049089"><text>OSM</text></link></rtept>
+  <rtept lat="45.888621" lon="13.908434"><name>7 Cesta IV. Prekomorske 8</name><link href="https://www.openstreetmap.org/way/659787428"><text>OSM</text></link></rtept>
+  <rtept lat="45.889578" lon="13.908366"><name>8 Cesta IV. Prekomorske 12b</name><link href="https://www.openstreetmap.org/way/881441742"><text>OSM</text></link></rtept>
+  <rtept lat="45.889612" lon="13.908205"><name>9 Cesta IV. Prekomorske 12a</name><link href="https://www.openstreetmap.org/way/880804691"><text>OSM</text></link></rtept>
+  <rtept lat="45.889774" lon="13.907792"><name>10 Cesta IV. Prekomorske 14</name><link href="https://www.openstreetmap.org/way/650978046"><text>OSM</text></link></rtept>
+  <rtept lat="45.889927" lon="13.907514"><name>11 Cesta IV. Prekomorske 16</name><link href="https://www.openstreetmap.org/way/650978033"><text>OSM</text></link></rtept>
+  <rtept lat="45.889992" lon="13.907454"><name>12 Cesta IV. Prekomorske 18</name><link href="https://www.openstreetmap.org/way/881438712"><text>OSM</text></link></rtept>
+  <rtept lat="45.890044" lon="13.907552"><name>13 Cesta IV. Prekomorske 18a</name><link href="https://www.openstreetmap.org/way/881438713"><text>OSM</text></link></rtept>
+  <rtept lat="45.890164" lon="13.907388"><name>14 Cesta IV. Prekomorske 20</name><link href="https://www.openstreetmap.org/way/650978050"><text>OSM</text></link></rtept>
+  <rtept lat="45.890237" lon="13.907327"><name>15 Cesta IV. Prekomorske 22</name><link href="https://www.openstreetmap.org/way/881438711"><text>OSM</text></link></rtept>
+  <rtept lat="45.890203" lon="13.907696"><name>16 Cebejeva ulica 1</name><link href="https://www.openstreetmap.org/way/880804709"><text>OSM</text></link></rtept>
+  <rtept lat="45.890225" lon="13.907764"><name>17 Cebejeva ulica 2</name><link href="https://www.openstreetmap.org/way/881438706"><text>OSM</text></link></rtept>
+  <rtept lat="45.890136" lon="13.908216"><name>18 Cebejeva ulica 20</name><link href="https://www.openstreetmap.org/way/880804708"><text>OSM</text></link></rtept>
+  <rtept lat="45.890333" lon="13.908103"><name>19 Cebejeva ulica 19</name><link href="https://www.openstreetmap.org/way/880804707"><text>OSM</text></link></rtept>
+  <rtept lat="45.890533" lon="13.907999"><name>20 Cebejeva ulica 16</name><link href="https://www.openstreetmap.org/way/880804706"><text>OSM</text></link></rtept>
+  <rtept lat="45.890719" lon="13.907893"><name>21 Cebejeva ulica 15</name><link href="https://www.openstreetmap.org/way/880804705"><text>OSM</text></link></rtept>
+  <rtept lat="45.890418" lon="13.907715"><name>22 Cebejeva ulica 3a</name><link href="https://www.openstreetmap.org/way/650978030"><text>OSM</text></link></rtept>
+  <rtept lat="45.890399" lon="13.907622"><name>23 Cebejeva ulica 3</name><link href="https://www.openstreetmap.org/way/881438708"><text>OSM</text></link></rtept>
+  <rtept lat="45.890426" lon="13.907286"><name>24 Cesta IV. Prekomorske 24</name><link href="https://www.openstreetmap.org/way/650978038"><text>OSM</text></link></rtept>
+  <rtept lat="45.890499" lon="13.907213"><name>25 Cesta IV. Prekomorske 26</name><link href="https://www.openstreetmap.org/way/650978042"><text>OSM</text></link></rtept>
+  <rtept lat="45.890254" lon="13.906942"><name>26 Cesta IV. Prekomorske 57</name><link href="https://www.openstreetmap.org/way/494024468"><text>OSM</text></link></rtept>
+  <rtept lat="45.890086" lon="13.906937"><name>27 Cesta IV. Prekomorske 55</name><link href="https://www.openstreetmap.org/way/494024480"><text>OSM</text></link></rtept>
+  <rtept lat="45.889993" lon="13.906966"><name>28 Cesta IV. Prekomorske 53</name><link href="https://www.openstreetmap.org/way/494024448"><text>OSM</text></link></rtept>
+  <rtept lat="45.889827" lon="13.907058"><name>29 Cesta IV. Prekomorske 51</name><link href="https://www.openstreetmap.org/way/494024472"><text>OSM</text></link></rtept>
+  <rtept lat="45.889696" lon="13.907163"><name>30 Cesta IV. Prekomorske 49</name><link href="https://www.openstreetmap.org/way/494024479"><text>OSM</text></link></rtept>
+  <rtept lat="45.889575" lon="13.906486"><name>31 Ob Hublju 2</name><link href="https://www.openstreetmap.org/way/494024439"><text>OSM</text></link></rtept>
+  <rtept lat="45.889735" lon="13.906286"><name>32 Ob Hublju 3</name><link href="https://www.openstreetmap.org/way/494024478"><text>OSM</text></link></rtept>
+  <rtept lat="45.889904" lon="13.906244"><name>33 Ob Hublju 4</name><link href="https://www.openstreetmap.org/way/494024451"><text>OSM</text></link></rtept>
+  <rtept lat="45.890184" lon="13.906215"><name>34 Ob Hublju 5</name><link href="https://www.openstreetmap.org/way/494024442"><text>OSM</text></link></rtept>
+  <rtept lat="45.890185" lon="13.906462"><name>35 Ob Hublju 6</name><link href="https://www.openstreetmap.org/way/494024463"><text>OSM</text></link></rtept>
+  <rtept lat="45.890721" lon="13.906406"><name>36 Ob Hublju 7</name><link href="https://www.openstreetmap.org/way/494024454"><text>OSM</text></link></rtept>
+  <rtept lat="45.890891" lon="13.906392"><name>37 Ob Hublju 8</name><link href="https://www.openstreetmap.org/way/881438714"><text>OSM</text></link></rtept>
+  <rtept lat="45.891222" lon="13.906471"><name>38 Ob Hublju 9</name><link href="https://www.openstreetmap.org/way/1278884077"><text>OSM</text></link></rtept>
+  <rtept lat="45.891574" lon="13.906428"><name>39 Ob Hublju 10</name><link href="https://www.openstreetmap.org/way/1278884076"><text>OSM</text></link></rtept>
+  <rtept lat="45.890828" lon="13.905631"><name>40 Vilharjeva ulica 28a</name><link href="https://www.openstreetmap.org/way/413866534"><text>OSM</text></link></rtept>
+  <rtept lat="45.890959" lon="13.905152"><name>41 Vilharjeva ulica 26b</name><link href="https://www.openstreetmap.org/way/413866532"><text>OSM</text></link></rtept>
+  <rtept lat="45.890852" lon="13.905262"><name>42 Vilharjeva ulica 26c</name><link href="https://www.openstreetmap.org/way/413866533"><text>OSM</text></link></rtept>
+  <rtept lat="45.890536" lon="13.905465"><name>43 Vilharjeva ulica 28b</name><link href="https://www.openstreetmap.org/way/413866535"><text>OSM</text></link></rtept>
+  <rtept lat="45.890572" lon="13.905098"><name>44 45.890572,13.905098</name><link href="https://www.openstreetmap.org/way/413866536"><text>OSM</text></link></rtept>
+  <rtept lat="45.890717" lon="13.904824"><name>45 45.890717,13.904824</name><link href="https://www.openstreetmap.org/way/413867016"><text>OSM</text></link></rtept>
+  <rtept lat="45.889510" lon="13.903376"><name>46 Šibeniška ulica 28</name><link href="https://www.openstreetmap.org/way/367148040"><text>OSM</text></link></rtept>
+  <rtept lat="45.889786" lon="13.901032"><name>47 Ulica Quiliano 6a</name><link href="https://www.openstreetmap.org/way/956083555"><text>OSM</text></link></rtept>
+  <rtept lat="45.887428" lon="13.899745"><name>48 Župančičeva ulica 5</name><link href="https://www.openstreetmap.org/way/884370857"><text>OSM</text></link></rtept>
+  <rtept lat="45.886931" lon="13.896221"><name>49 Goriška cesta 31a</name><link href="https://www.openstreetmap.org/way/1044544563"><text>OSM</text></link></rtept>
+  <rtept lat="45.886847" lon="13.896698"><name>50 Goriška cesta 31</name><link href="https://www.openstreetmap.org/way/1044544564"><text>OSM</text></link></rtept>
+  <rtept lat="45.887069" lon="13.899230"><name>51 Župančičeva ulica 3b</name><link href="https://www.openstreetmap.org/way/362441938"><text>OSM</text></link></rtept>
+  <rtept lat="45.887092" lon="13.899421"><name>52 Župančičeva ulica 3a</name><link href="https://www.openstreetmap.org/way/362441937"><text>OSM</text></link></rtept>
+  <rtept lat="45.887108" lon="13.899761"><name>53 Župančičeva ulica 3</name><link href="https://www.openstreetmap.org/way/880714470"><text>OSM</text></link></rtept>
+  <rtept lat="45.887139" lon="13.900368"><name>54 Goriška cesta 30</name><link href="https://www.openstreetmap.org/way/880812182"><text>OSM</text></link></rtept>
+  <rtept lat="45.887172" lon="13.900642"><name>55 Goriška cesta 28</name><link href="https://www.openstreetmap.org/way/880812183"><text>OSM</text></link></rtept>
+  <rtept lat="45.887239" lon="13.900892"><name>56 Goriška cesta 36</name><link href="https://www.openstreetmap.org/way/880812184"><text>OSM</text></link></rtept>
+  <rtept lat="45.887205" lon="13.901322"><name>57 Goriška cesta 34</name><link href="https://www.openstreetmap.org/way/494024401"><text>OSM</text></link></rtept>
+  <rtept lat="45.887270" lon="13.901558"><name>58 Goriška cesta 32</name><link href="https://www.openstreetmap.org/way/494024403"><text>OSM</text></link></rtept>
+  <rtept lat="45.888279" lon="13.903505"><name>59 Gregorčičeva ulica 16</name><link href="https://www.openstreetmap.org/way/884370008"><text>OSM</text></link></rtept>
+  <rtept lat="45.888291" lon="13.903636"><name>60 Gregorčičeva ulica 14b</name><link href="https://www.openstreetmap.org/way/884370006"><text>OSM</text></link></rtept>
+  <rtept lat="45.888329" lon="13.903968"><name>61 Gregorčičeva ulica 10</name><link href="https://www.openstreetmap.org/way/884855087"><text>OSM</text></link></rtept>
+  <rtept lat="45.888358" lon="13.904102"><name>62 Gregorčičeva ulica 8</name><link href="https://www.openstreetmap.org/way/884855089"><text>OSM</text></link></rtept>
+  <rtept lat="45.888473" lon="13.904220"><name>63 Gregorčičeva ulica 2</name><link href="https://www.openstreetmap.org/way/884851125"><text>OSM</text></link></rtept>
+  <rtept lat="45.888275" lon="13.904698"><name>64 45.888275,13.904698</name><link href="https://www.openstreetmap.org/way/577548564"><text>OSM</text></link></rtept>
+  <rtept lat="45.888100" lon="13.904829"><name>65 45.888100,13.904829</name><link href="https://www.openstreetmap.org/way/577548568"><text>OSM</text></link></rtept>
+  <rtept lat="45.887961" lon="13.904772"><name>66 45.887961,13.904772</name><link href="https://www.openstreetmap.org/way/577548570"><text>OSM</text></link></rtept>
+  <rtept lat="45.887675" lon="13.903543"><name>67 Lokarjev drevored 6</name><link href="https://www.openstreetmap.org/way/362425890"><text>OSM</text></link></rtept>
+  <rtept lat="45.887610" lon="13.903030"><name>68 Lokarjev drevored 5</name><link href="https://www.openstreetmap.org/way/362425889"><text>OSM</text></link></rtept>
+  <rtept lat="45.887284" lon="13.902578"><name>69 Cesta 5. maja 1</name><link href="https://www.openstreetmap.org/way/540518039"><text>OSM</text></link></rtept>
+  <rtept lat="45.887273" lon="13.902445"><name>70 Goriška cesta 26</name><link href="https://www.openstreetmap.org/way/494024406"><text>OSM</text></link></rtept>
+  <rtept lat="45.887236" lon="13.902266"><name>71 Goriška cesta 28</name><link href="https://www.openstreetmap.org/way/494024402"><text>OSM</text></link></rtept>
+  <rtept lat="45.887194" lon="13.902023"><name>72 Goriška cesta 30</name><link href="https://www.openstreetmap.org/way/494024405"><text>OSM</text></link></rtept>
+  <rtept lat="45.886782" lon="13.902020"><name>73 45.886782,13.902020</name><link href="https://www.openstreetmap.org/way/494024407"><text>OSM</text></link></rtept>
+  <rtept lat="45.886451" lon="13.902428"><name>74 Župančičeva ulica 4</name><link href="https://www.openstreetmap.org/way/878720398"><text>OSM</text></link></rtept>
+  <rtept lat="45.886736" lon="13.902816"><name>75 45.886736,13.902816</name><link href="https://www.openstreetmap.org/way/494024410"><text>OSM</text></link></rtept>
+  <rtept lat="45.886822" lon="13.903562"><name>76 45.886822,13.903562</name><link href="https://www.openstreetmap.org/way/494024409"><text>OSM</text></link></rtept>
+  <rtept lat="45.886753" lon="13.903903"><name>77 45.886753,13.903903</name><link href="https://www.openstreetmap.org/way/494024411"><text>OSM</text></link></rtept>
+  <rtept lat="45.886185" lon="13.903535"><name>78 Tovarniška cesta 4</name><link href="https://www.openstreetmap.org/way/880369252"><text>OSM</text></link></rtept>
+  <rtept lat="45.886203" lon="13.903806"><name>79 Tovarniška cesta 2</name><link href="https://www.openstreetmap.org/way/881448368"><text>OSM</text></link></rtept>
+  <rtept lat="45.885899" lon="13.903912"><name>80 Tovarniška cesta 10</name><link href="https://www.openstreetmap.org/way/880369253"><text>OSM</text></link></rtept>
+  <rtept lat="45.885704" lon="13.903944"><name>81 Tovarniška cesta 12</name><link href="https://www.openstreetmap.org/way/881448369"><text>OSM</text></link></rtept>
+  <rtept lat="45.885436" lon="13.904866"><name>82 Tovarniška cesta 3č</name><link href="https://www.openstreetmap.org/way/880289474"><text>OSM</text></link></rtept>
+  <rtept lat="45.885617" lon="13.905014"><name>83 Tovarniška cesta 3b</name><link href="https://www.openstreetmap.org/way/880289475"><text>OSM</text></link></rtept>
+  <rtept lat="45.885762" lon="13.904512"><name>84 Tovarniška cesta 3c</name><link href="https://www.openstreetmap.org/way/881448367"><text>OSM</text></link></rtept>
+  <rtept lat="45.885951" lon="13.904646"><name>85 Tovarniška cesta 3a</name><link href="https://www.openstreetmap.org/way/880289476"><text>OSM</text></link></rtept>
+  <rtept lat="45.886854" lon="13.904756"><name>86 Goriška cesta 27b</name><link href="https://www.openstreetmap.org/way/878720402"><text>OSM</text></link></rtept>
+  <rtept lat="45.887345" lon="13.905831"><name>87 45.887345,13.905831</name><link href="https://www.openstreetmap.org/way/624202029"><text>OSM</text></link></rtept>
+  <rtept lat="45.886707" lon="13.908272"><name>88 Goriška cesta 11</name><link href="https://www.openstreetmap.org/way/362414784"><text>OSM</text></link></rtept>
+  <rtept lat="45.886425" lon="13.908383"><name>89 Goriška cesta 13</name><link href="https://www.openstreetmap.org/way/362418030"><text>OSM</text></link></rtept>
+  <rtept lat="45.886112" lon="13.908387"><name>90 Goriška cesta 15</name><link href="https://www.openstreetmap.org/way/362418031"><text>OSM</text></link></rtept>
+  <rtept lat="45.886243" lon="13.908778"><name>91 Goriška cesta 7</name><link href="https://www.openstreetmap.org/way/362418033"><text>OSM</text></link></rtept>
+  <rtept lat="45.886474" lon="13.909112"><name>92 Goriška cesta 5</name><link href="https://www.openstreetmap.org/way/362418032"><text>OSM</text></link></rtept>
+  <rtept lat="45.886669" lon="13.908797"><name>93 Goriška cesta 9</name><link href="https://www.openstreetmap.org/way/362416746"><text>OSM</text></link></rtept>
+  <rtept lat="45.886749" lon="13.909225"><name>94 Goriška cesta 3</name><link href="https://www.openstreetmap.org/way/362416760"><text>OSM</text></link></rtept>
+  <rtept lat="45.886998" lon="13.911289"><name>95 Na Livadi 1</name><link href="https://www.openstreetmap.org/way/878722225"><text>OSM</text></link></rtept>
+  <rtept lat="45.886898" lon="13.911606"><name>96 Na Livadi 2</name><link href="https://www.openstreetmap.org/way/878722223"><text>OSM</text></link></rtept>
+  <rtept lat="45.886559" lon="13.911822"><name>97 Na Livadi 3</name><link href="https://www.openstreetmap.org/way/880369285"><text>OSM</text></link></rtept>
+  <rtept lat="45.886410" lon="13.911506"><name>98 Na Livadi 7</name><link href="https://www.openstreetmap.org/way/880369281"><text>OSM</text></link></rtept>
+  <rtept lat="45.886239" lon="13.911736"><name>99 Na Livadi 6</name><link href="https://www.openstreetmap.org/way/880369282"><text>OSM</text></link></rtept>
+  <rtept lat="45.886710" lon="13.912222"><name>100 Idrijska cesta 3</name><link href="https://www.openstreetmap.org/way/880369286"><text>OSM</text></link></rtept>
+  <rtept lat="45.886385" lon="13.912073"><name>101 Na Livadi 4</name><link href="https://www.openstreetmap.org/way/880369284"><text>OSM</text></link></rtept>
+  <rtept lat="45.886086" lon="13.911987"><name>102 Na Livadi 5</name><link href="https://www.openstreetmap.org/way/1343023416"><text>OSM</text></link></rtept>
+  <rtept lat="45.883392" lon="13.909083"><name>103 45.883392,13.909083</name><link href="https://www.openstreetmap.org/way/413202835"><text>OSM</text></link></rtept>
+  <rtept lat="45.882462" lon="13.912321"><name>104 Ulica Milana Klemenčiča 5</name><link href="https://www.openstreetmap.org/way/413192658"><text>OSM</text></link></rtept>
+  <rtept lat="45.882351" lon="13.912660"><name>105 Ulica Milana Klemenčiča 6</name><link href="https://www.openstreetmap.org/way/413192659"><text>OSM</text></link></rtept>
+  <rtept lat="45.882672" lon="13.912463"><name>106 Ulica Milana Klemenčiča 4</name><link href="https://www.openstreetmap.org/way/413192657"><text>OSM</text></link></rtept>
+  <rtept lat="45.882797" lon="13.912731"><name>107 Ulica Milana Klemenčiča 3</name><link href="https://www.openstreetmap.org/way/413192660"><text>OSM</text></link></rtept>
+  <rtept lat="45.882640" lon="13.912964"><name>108 Ulica Milana Klemenčiča 2</name><link href="https://www.openstreetmap.org/way/878844085"><text>OSM</text></link></rtept>
+  <rtept lat="45.883222" lon="13.914833"><name>109 Bevkova ulica 4</name><link href="https://www.openstreetmap.org/way/477538157"><text>OSM</text></link></rtept>
+  <rtept lat="45.883450" lon="13.914558"><name>110 Bevkova ulica 3</name><link href="https://www.openstreetmap.org/way/477538124"><text>OSM</text></link></rtept>
+  <rtept lat="45.883704" lon="13.914177"><name>111 Bevkova ulica 2</name><link href="https://www.openstreetmap.org/way/477538123"><text>OSM</text></link></rtept>
+  <rtept lat="45.883919" lon="13.914293"><name>112 Bevkova ulica 1</name><link href="https://www.openstreetmap.org/way/477538146"><text>OSM</text></link></rtept>
+  <rtept lat="45.884178" lon="13.914527"><name>113 Bevkova ulica 5</name><link href="https://www.openstreetmap.org/way/477538158"><text>OSM</text></link></rtept>
+  <rtept lat="45.884262" lon="13.914838"><name>114 Bevkova ulica 6</name><link href="https://www.openstreetmap.org/way/477538159"><text>OSM</text></link></rtept>
+  <rtept lat="45.883984" lon="13.914896"><name>115 Bevkova ulica 8</name><link href="https://www.openstreetmap.org/way/477538129"><text>OSM</text></link></rtept>
+  <rtept lat="45.884070" lon="13.915210"><name>116 Bevkova ulica 9</name><link href="https://www.openstreetmap.org/way/477538128"><text>OSM</text></link></rtept>
+  <rtept lat="45.884349" lon="13.915152"><name>117 Bevkova ulica 7</name><link href="https://www.openstreetmap.org/way/477538156"><text>OSM</text></link></rtept>
+  <rtept lat="45.884463" lon="13.915516"><name>118 Bevkova ulica 13</name><link href="https://www.openstreetmap.org/way/477538236"><text>OSM</text></link></rtept>
+  <rtept lat="45.884478" lon="13.915673"><name>119 Bevkova ulica 13</name><link href="https://www.openstreetmap.org/way/477538130"><text>OSM</text></link></rtept>
+  <rtept lat="45.884282" lon="13.915936"><name>120 Bevkova ulica 14</name><link href="https://www.openstreetmap.org/way/477538126"><text>OSM</text></link></rtept>
+  <rtept lat="45.883915" lon="13.915643"><name>121 Bevkova ulica 11</name><link href="https://www.openstreetmap.org/way/477538181"><text>OSM</text></link></rtept>
+  <rtept lat="45.883682" lon="13.915764"><name>122 Bevkova ulica 12</name><link href="https://www.openstreetmap.org/way/477538182"><text>OSM</text></link></rtept>
+  <rtept lat="45.883824" lon="13.916206"><name>123 Bevkova ulica 16</name><link href="https://www.openstreetmap.org/way/477538179"><text>OSM</text></link></rtept>
+  <rtept lat="45.884054" lon="13.916067"><name>124 Bevkova ulica 15</name><link href="https://www.openstreetmap.org/way/477538127"><text>OSM</text></link></rtept>
+  <rtept lat="45.884393" lon="13.917313"><name>125 Pot v Žapuže 15</name><link href="https://www.openstreetmap.org/way/477538147"><text>OSM</text></link></rtept>
+  <rtept lat="45.884276" lon="13.917482"><name>126 Pot v Žapuže 16</name><link href="https://www.openstreetmap.org/way/477538148"><text>OSM</text></link></rtept>
+  <rtept lat="45.884228" lon="13.917737"><name>127 Pot v Žapuže 17</name><link href="https://www.openstreetmap.org/way/477538153"><text>OSM</text></link></rtept>
+  <rtept lat="45.884210" lon="13.917980"><name>128 Pot v Žapuže 18</name><link href="https://www.openstreetmap.org/way/477538154"><text>OSM</text></link></rtept>
+  <rtept lat="45.884011" lon="13.918129"><name>129 Pot v Žapuže 22</name><link href="https://www.openstreetmap.org/way/477538151"><text>OSM</text></link></rtept>
+  <rtept lat="45.883978" lon="13.918363"><name>130 Pot v Žapuže 23</name><link href="https://www.openstreetmap.org/way/477538152"><text>OSM</text></link></rtept>
+  <rtept lat="45.883952" lon="13.918561"><name>131 45.883952,13.918561</name><link href="https://www.openstreetmap.org/way/477538231"><text>OSM</text></link></rtept>
+  <rtept lat="45.883897" lon="13.918639"><name>132 Pot v Žapuže 24</name><link href="https://www.openstreetmap.org/way/477538144"><text>OSM</text></link></rtept>
+  <rtept lat="45.883740" lon="13.918724"><name>133 Pot v Žapuže 25</name><link href="https://www.openstreetmap.org/way/477538145"><text>OSM</text></link></rtept>
+  <rtept lat="45.883716" lon="13.918878"><name>134 45.883716,13.918878</name><link href="https://www.openstreetmap.org/way/477538234"><text>OSM</text></link></rtept>
+  <rtept lat="45.884018" lon="13.919008"><name>135 Ulica Ivana Kosovela 31</name><link href="https://www.openstreetmap.org/way/477538139"><text>OSM</text></link></rtept>
+  <rtept lat="45.884107" lon="13.919079"><name>136 45.884107,13.919079</name><link href="https://www.openstreetmap.org/way/477538233"><text>OSM</text></link></rtept>
+  <rtept lat="45.884329" lon="13.918318"><name>137 Pot v Žapuže 20a</name><link href="https://www.openstreetmap.org/way/477538149"><text>OSM</text></link></rtept>
+  <rtept lat="45.884376" lon="13.918212"><name>138 Pot v Žapuže 20</name><link href="https://www.openstreetmap.org/way/878850798"><text>OSM</text></link></rtept>
+  <rtept lat="45.884463" lon="13.917934"><name>139 Pot v Žapuže 19</name><link href="https://www.openstreetmap.org/way/477538155"><text>OSM</text></link></rtept>
+ </rte><trk><name>walking path</name><trkseg>
+  <trkpt lat="45.888770" lon="13.905550"/>
+  <trkpt lat="45.888742" lon="13.905882"/>
+  <trkpt lat="45.888771" lon="13.906224"/>
+  <trkpt lat="45.888772" lon="13.906354"/>
+  <trkpt lat="45.888783" lon="13.906553"/>
+  <trkpt lat="45.888777" lon="13.906557"/>
+  <trkpt lat="45.888660" lon="13.906634"/>
+  <trkpt lat="45.888523" lon="13.906732"/>
+  <trkpt lat="45.888470" lon="13.906769"/>
+  <trkpt lat="45.888440" lon="13.906791"/>
+  <trkpt lat="45.888427" lon="13.906798"/>
+  <trkpt lat="45.888240" lon="13.906892"/>
+  <trkpt lat="45.888141" lon="13.906959"/>
+  <trkpt lat="45.888086" lon="13.907115"/>
+  <trkpt lat="45.887969" lon="13.907156"/>
+  <trkpt lat="45.887936" lon="13.907218"/>
+  <trkpt lat="45.887829" lon="13.907652"/>
+  <trkpt lat="45.887915" lon="13.907713"/>
+  <trkpt lat="45.888206" lon="13.907911"/>
+  <trkpt lat="45.888218" lon="13.907919"/>
+  <trkpt lat="45.888252" lon="13.907941"/>
+  <trkpt lat="45.888296" lon="13.907833"/>
+  <trkpt lat="45.888459" lon="13.907605"/>
+  <trkpt lat="45.888436" lon="13.907637"/>
+  <trkpt lat="45.888296" lon="13.907833"/>
+  <trkpt lat="45.888252" lon="13.907941"/>
+  <trkpt lat="45.888475" lon="13.908088"/>
+  <trkpt lat="45.888476" lon="13.908243"/>
+  <trkpt lat="45.888397" lon="13.908378"/>
+  <trkpt lat="45.888338" lon="13.908477"/>
+  <trkpt lat="45.888273" lon="13.908492"/>
+  <trkpt lat="45.888102" lon="13.908278"/>
+  <trkpt lat="45.888121" lon="13.908227"/>
+  <trkpt lat="45.888102" lon="13.908278"/>
+  <trkpt lat="45.888166" lon="13.908358"/>
+  <trkpt lat="45.888273" lon="13.908492"/>
+  <trkpt lat="45.888338" lon="13.908477"/>
+  <trkpt lat="45.888476" lon="13.908243"/>
+  <trkpt lat="45.888475" lon="13.908088"/>
+  <trkpt lat="45.888618" lon="13.908182"/>
+  <trkpt lat="45.888796" lon="13.908291"/>
+  <trkpt lat="45.888854" lon="13.908325"/>
+  <trkpt lat="45.888892" lon="13.908697"/>
+  <trkpt lat="45.888860" lon="13.908705"/>
+  <trkpt lat="45.888828" lon="13.908713"/>
+  <trkpt lat="45.888616" lon="13.908835"/>
+  <trkpt lat="45.888828" lon="13.908713"/>
+  <trkpt lat="45.888860" lon="13.908705"/>
+  <trkpt lat="45.888892" lon="13.908697"/>
+  <trkpt lat="45.888854" lon="13.908325"/>
+  <trkpt lat="45.888796" lon="13.908291"/>
+  <trkpt lat="45.888684" lon="13.908222"/>
+  <trkpt lat="45.888796" lon="13.908291"/>
+  <trkpt lat="45.888854" lon="13.908325"/>
+  <trkpt lat="45.888909" lon="13.908357"/>
+  <trkpt lat="45.889016" lon="13.908291"/>
+  <trkpt lat="45.889044" lon="13.908272"/>
+  <trkpt lat="45.889098" lon="13.908236"/>
+  <trkpt lat="45.889154" lon="13.908198"/>
+  <trkpt lat="45.889350" lon="13.908057"/>
+  <trkpt lat="45.889485" lon="13.907917"/>
+  <trkpt lat="45.889520" lon="13.907944"/>
+  <trkpt lat="45.889534" lon="13.907955"/>
+  <trkpt lat="45.889610" lon="13.908012"/>
+  <trkpt lat="45.889679" lon="13.908059"/>
+  <trkpt lat="45.889664" lon="13.908049"/>
+  <trkpt lat="45.889610" lon="13.908012"/>
+  <trkpt lat="45.889534" lon="13.907955"/>
+  <trkpt lat="45.889520" lon="13.907944"/>
+  <trkpt lat="45.889485" lon="13.907917"/>
+  <trkpt lat="45.889521" lon="13.907868"/>
+  <trkpt lat="45.889649" lon="13.907644"/>
+  <trkpt lat="45.889700" lon="13.907555"/>
+  <trkpt lat="45.889747" lon="13.907491"/>
+  <trkpt lat="45.889780" lon="13.907443"/>
+  <trkpt lat="45.889848" lon="13.907367"/>
+  <trkpt lat="45.889874" lon="13.907338"/>
+  <trkpt lat="45.889932" lon="13.907293"/>
+  <trkpt lat="45.889943" lon="13.907284"/>
+  <trkpt lat="45.890017" lon="13.907227"/>
+  <trkpt lat="45.890096" lon="13.907175"/>
+  <trkpt lat="45.890131" lon="13.907152"/>
+  <trkpt lat="45.890182" lon="13.907124"/>
+  <trkpt lat="45.890239" lon="13.907092"/>
+  <trkpt lat="45.890504" lon="13.906941"/>
+  <trkpt lat="45.890549" lon="13.906894"/>
+  <trkpt lat="45.890748" lon="13.907615"/>
+  <trkpt lat="45.890708" lon="13.907655"/>
+  <trkpt lat="45.890434" lon="13.907822"/>
+  <trkpt lat="45.890264" lon="13.907918"/>
+  <trkpt lat="45.890267" lon="13.907917"/>
+  <trkpt lat="45.890088" lon="13.908018"/>
+  <trkpt lat="45.889967" lon="13.908084"/>
+  <trkpt lat="45.889934" lon="13.908262"/>
+  <trkpt lat="45.890021" lon="13.908339"/>
+  <trkpt lat="45.890090" lon="13.908426"/>
+  <trkpt lat="45.890128" lon="13.908404"/>
+  <trkpt lat="45.890179" lon="13.908375"/>
+  <trkpt lat="45.890377" lon="13.908264"/>
+  <trkpt lat="45.890575" lon="13.908153"/>
+  <trkpt lat="45.890804" lon="13.908024"/>
+  <trkpt lat="45.890841" lon="13.907991"/>
+  <trkpt lat="45.890869" lon="13.907967"/>
+  <trkpt lat="45.890818" lon="13.907822"/>
+  <trkpt lat="45.890808" lon="13.907792"/>
+  <trkpt lat="45.890748" lon="13.907615"/>
+  <trkpt lat="45.890708" lon="13.907655"/>
+  <trkpt lat="45.890447" lon="13.907814"/>
+  <trkpt lat="45.890454" lon="13.907810"/>
+  <trkpt lat="45.890708" lon="13.907655"/>
+  <trkpt lat="45.890748" lon="13.907615"/>
+  <trkpt lat="45.890549" lon="13.906894"/>
+  <trkpt lat="45.890504" lon="13.906941"/>
+  <trkpt lat="45.890354" lon="13.907026"/>
+  <trkpt lat="45.890504" lon="13.906941"/>
+  <trkpt lat="45.890549" lon="13.906894"/>
+  <trkpt lat="45.890618" lon="13.907145"/>
+  <trkpt lat="45.890549" lon="13.906894"/>
+  <trkpt lat="45.890504" lon="13.906941"/>
+  <trkpt lat="45.890288" lon="13.907064"/>
+  <trkpt lat="45.890239" lon="13.907092"/>
+  <trkpt lat="45.890142" lon="13.907146"/>
+  <trkpt lat="45.890131" lon="13.907152"/>
+  <trkpt lat="45.890066" lon="13.907195"/>
+  <trkpt lat="45.890017" lon="13.907227"/>
+  <trkpt lat="45.889919" lon="13.907303"/>
+  <trkpt lat="45.889874" lon="13.907338"/>
+  <trkpt lat="45.889780" lon="13.907443"/>
+  <trkpt lat="45.889753" lon="13.907410"/>
+  <trkpt lat="45.889700" lon="13.907314"/>
+  <trkpt lat="45.889639" lon="13.907218"/>
+  <trkpt lat="45.889634" lon="13.907177"/>
+  <trkpt lat="45.889627" lon="13.907111"/>
+  <trkpt lat="45.889622" lon="13.906943"/>
+  <trkpt lat="45.889605" lon="13.906796"/>
+  <trkpt lat="45.889622" lon="13.906943"/>
+  <trkpt lat="45.889627" lon="13.907111"/>
+  <trkpt lat="45.889639" lon="13.907218"/>
+  <trkpt lat="45.889700" lon="13.907314"/>
+  <trkpt lat="45.889753" lon="13.907410"/>
+  <trkpt lat="45.889780" lon="13.907443"/>
+  <trkpt lat="45.889874" lon="13.907338"/>
+  <trkpt lat="45.890017" lon="13.907227"/>
+  <trkpt lat="45.890131" lon="13.907152"/>
+  <trkpt lat="45.890239" lon="13.907092"/>
+  <trkpt lat="45.890504" lon="13.906941"/>
+  <trkpt lat="45.890549" lon="13.906894"/>
+  <trkpt lat="45.890550" lon="13.906830"/>
+  <trkpt lat="45.890553" lon="13.906682"/>
+  <trkpt lat="45.890559" lon="13.906630"/>
+  <trkpt lat="45.890588" lon="13.906323"/>
+  <trkpt lat="45.890613" lon="13.906267"/>
+  <trkpt lat="45.890643" lon="13.906133"/>
+  <trkpt lat="45.890167" lon="13.906070"/>
+  <trkpt lat="45.890010" lon="13.906073"/>
+  <trkpt lat="45.889716" lon="13.906114"/>
+  <trkpt lat="45.889713" lon="13.906115"/>
+  <trkpt lat="45.889716" lon="13.906114"/>
+  <trkpt lat="45.889894" lon="13.906089"/>
+  <trkpt lat="45.890010" lon="13.906073"/>
+  <trkpt lat="45.890167" lon="13.906070"/>
+  <trkpt lat="45.890193" lon="13.906073"/>
+  <trkpt lat="45.890643" lon="13.906133"/>
+  <trkpt lat="45.890613" lon="13.906267"/>
+  <trkpt lat="45.890588" lon="13.906323"/>
+  <trkpt lat="45.890589" lon="13.906240"/>
+  <trkpt lat="45.890314" lon="13.906214"/>
+  <trkpt lat="45.890309" lon="13.906467"/>
+  <trkpt lat="45.890314" lon="13.906214"/>
+  <trkpt lat="45.890589" lon="13.906240"/>
+  <trkpt lat="45.890588" lon="13.906323"/>
+  <trkpt lat="45.890583" lon="13.906379"/>
+  <trkpt lat="45.890588" lon="13.906323"/>
+  <trkpt lat="45.890613" lon="13.906267"/>
+  <trkpt lat="45.890643" lon="13.906133"/>
+  <trkpt lat="45.890918" lon="13.906224"/>
+  <trkpt lat="45.891002" lon="13.906252"/>
+  <trkpt lat="45.891239" lon="13.906304"/>
+  <trkpt lat="45.891239" lon="13.906304"/>
+  <trkpt lat="45.891458" lon="13.906321"/>
+  <trkpt lat="45.891569" lon="13.906311"/>
+  <trkpt lat="45.891458" lon="13.906321"/>
+  <trkpt lat="45.891239" lon="13.906304"/>
+  <trkpt lat="45.891002" lon="13.906252"/>
+  <trkpt lat="45.890643" lon="13.906133"/>
+  <trkpt lat="45.890657" lon="13.906070"/>
+  <trkpt lat="45.890664" lon="13.905981"/>
+  <trkpt lat="45.890652" lon="13.905618"/>
+  <trkpt lat="45.890694" lon="13.905481"/>
+  <trkpt lat="45.890722" lon="13.905380"/>
+  <trkpt lat="45.890875" lon="13.905477"/>
+  <trkpt lat="45.890722" lon="13.905380"/>
+  <trkpt lat="45.890712" lon="13.905373"/>
+  <trkpt lat="45.890798" lon="13.905055"/>
+  <trkpt lat="45.890841" lon="13.905082"/>
+  <trkpt lat="45.890798" lon="13.905055"/>
+  <trkpt lat="45.890756" lon="13.905209"/>
+  <trkpt lat="45.890712" lon="13.905373"/>
+  <trkpt lat="45.890588" lon="13.905295"/>
+  <trkpt lat="45.890712" lon="13.905373"/>
+  <trkpt lat="45.890798" lon="13.905055"/>
+  <trkpt lat="45.890619" lon="13.904943"/>
+  <trkpt lat="45.890671" lon="13.904976"/>
+  <trkpt lat="45.890460" lon="13.904844"/>
+  <trkpt lat="45.890417" lon="13.904820"/>
+  <trkpt lat="45.890392" lon="13.904806"/>
+  <trkpt lat="45.890427" lon="13.904591"/>
+  <trkpt lat="45.890447" lon="13.904506"/>
+  <trkpt lat="45.890273" lon="13.904414"/>
+  <trkpt lat="45.890131" lon="13.904371"/>
+  <trkpt lat="45.890059" lon="13.904374"/>
+  <trkpt lat="45.890014" lon="13.904387"/>
+  <trkpt lat="45.889921" lon="13.904357"/>
+  <trkpt lat="45.889887" lon="13.904343"/>
+  <trkpt lat="45.889844" lon="13.904483"/>
+  <trkpt lat="45.889776" lon="13.904574"/>
+  <trkpt lat="45.889485" lon="13.904558"/>
+  <trkpt lat="45.889397" lon="13.904166"/>
+  <trkpt lat="45.889378" lon="13.904176"/>
+  <trkpt lat="45.889335" lon="13.903950"/>
+  <trkpt lat="45.889369" lon="13.903939"/>
+  <trkpt lat="45.889368" lon="13.903834"/>
+  <trkpt lat="45.889329" lon="13.903829"/>
+  <trkpt lat="45.889273" lon="13.903763"/>
+  <trkpt lat="45.889329" lon="13.903692"/>
+  <trkpt lat="45.889453" lon="13.903515"/>
+  <trkpt lat="45.889453" lon="13.903376"/>
+  <trkpt lat="45.889453" lon="13.903316"/>
+  <trkpt lat="45.889473" lon="13.903182"/>
+  <trkpt lat="45.889533" lon="13.902700"/>
+  <trkpt lat="45.889536" lon="13.902593"/>
+  <trkpt lat="45.889542" lon="13.902201"/>
+  <trkpt lat="45.889577" lon="13.901968"/>
+  <trkpt lat="45.889587" lon="13.901921"/>
+  <trkpt lat="45.889593" lon="13.901895"/>
+  <trkpt lat="45.889602" lon="13.901867"/>
+  <trkpt lat="45.889616" lon="13.901821"/>
+  <trkpt lat="45.889630" lon="13.901699"/>
+  <trkpt lat="45.889638" lon="13.901625"/>
+  <trkpt lat="45.889648" lon="13.901446"/>
+  <trkpt lat="45.889669" lon="13.901036"/>
+  <trkpt lat="45.889669" lon="13.901036"/>
+  <trkpt lat="45.889648" lon="13.900886"/>
+  <trkpt lat="45.889238" lon="13.901105"/>
+  <trkpt lat="45.889117" lon="13.901157"/>
+  <trkpt lat="45.889009" lon="13.901218"/>
+  <trkpt lat="45.888989" lon="13.901238"/>
+  <trkpt lat="45.888870" lon="13.901361"/>
+  <trkpt lat="45.888652" lon="13.901592"/>
+  <trkpt lat="45.888339" lon="13.901924"/>
+  <trkpt lat="45.888258" lon="13.901977"/>
+  <trkpt lat="45.888157" lon="13.902044"/>
+  <trkpt lat="45.888122" lon="13.902067"/>
+  <trkpt lat="45.888092" lon="13.902087"/>
+  <trkpt lat="45.887784" lon="13.901346"/>
+  <trkpt lat="45.887741" lon="13.901105"/>
+  <trkpt lat="45.887689" lon="13.900724"/>
+  <trkpt lat="45.887637" lon="13.900104"/>
+  <trkpt lat="45.887630" lon="13.900013"/>
+  <trkpt lat="45.887542" lon="13.900027"/>
+  <trkpt lat="45.887507" lon="13.900032"/>
+  <trkpt lat="45.887306" lon="13.900062"/>
+  <trkpt lat="45.887285" lon="13.899763"/>
+  <trkpt lat="45.887285" lon="13.899763"/>
+  <trkpt lat="45.887285" lon="13.899763"/>
+  <trkpt lat="45.887306" lon="13.900062"/>
+  <trkpt lat="45.887228" lon="13.900076"/>
+  <trkpt lat="45.887008" lon="13.900110"/>
+  <trkpt lat="45.886970" lon="13.900116"/>
+  <trkpt lat="45.886968" lon="13.900058"/>
+  <trkpt lat="45.886962" lon="13.899977"/>
+  <trkpt lat="45.886926" lon="13.899178"/>
+  <trkpt lat="45.886923" lon="13.899073"/>
+  <trkpt lat="45.886922" lon="13.898986"/>
+  <trkpt lat="45.886923" lon="13.898868"/>
+  <trkpt lat="45.886932" lon="13.898609"/>
+  <trkpt lat="45.886942" lon="13.898475"/>
+  <trkpt lat="45.886954" lon="13.898349"/>
+  <trkpt lat="45.886979" lon="13.898155"/>
+  <trkpt lat="45.887011" lon="13.897954"/>
+  <trkpt lat="45.887043" lon="13.897771"/>
+  <trkpt lat="45.887068" lon="13.897665"/>
+  <trkpt lat="45.887092" lon="13.897571"/>
+  <trkpt lat="45.887064" lon="13.897562"/>
+  <trkpt lat="45.887045" lon="13.897554"/>
+  <trkpt lat="45.887074" lon="13.897463"/>
+  <trkpt lat="45.887099" lon="13.897406"/>
+  <trkpt lat="45.887126" lon="13.897388"/>
+  <trkpt lat="45.887148" lon="13.897361"/>
+  <trkpt lat="45.887164" lon="13.897329"/>
+  <trkpt lat="45.887174" lon="13.897293"/>
+  <trkpt lat="45.887177" lon="13.897254"/>
+  <trkpt lat="45.887173" lon="13.897215"/>
+  <trkpt lat="45.887166" lon="13.897186"/>
+  <trkpt lat="45.887155" lon="13.897160"/>
+  <trkpt lat="45.887141" lon="13.897137"/>
+  <trkpt lat="45.887141" lon="13.897076"/>
+  <trkpt lat="45.887145" lon="13.896968"/>
+  <trkpt lat="45.887127" lon="13.896962"/>
+  <trkpt lat="45.887108" lon="13.896955"/>
+  <trkpt lat="45.887092" lon="13.896949"/>
+  <trkpt lat="45.887072" lon="13.896942"/>
+  <trkpt lat="45.887053" lon="13.896936"/>
+  <trkpt lat="45.887100" lon="13.896756"/>
+  <trkpt lat="45.887183" lon="13.896319"/>
+  <trkpt lat="45.887100" lon="13.896756"/>
+  <trkpt lat="45.887053" lon="13.896936"/>
+  <trkpt lat="45.887035" lon="13.896976"/>
+  <trkpt lat="45.887016" lon="13.897013"/>
+  <trkpt lat="45.886996" lon="13.897041"/>
+  <trkpt lat="45.886977" lon="13.897059"/>
+  <trkpt lat="45.886953" lon="13.897077"/>
+  <trkpt lat="45.886923" lon="13.897090"/>
+  <trkpt lat="45.886892" lon="13.897100"/>
+  <trkpt lat="45.886871" lon="13.897103"/>
+  <trkpt lat="45.886869" lon="13.897119"/>
+  <trkpt lat="45.886865" lon="13.897153"/>
+  <trkpt lat="45.886766" lon="13.897174"/>
+  <trkpt lat="45.886663" lon="13.897184"/>
+  <trkpt lat="45.886663" lon="13.896964"/>
+  <trkpt lat="45.886850" lon="13.896960"/>
+  <trkpt lat="45.886663" lon="13.896964"/>
+  <trkpt lat="45.886663" lon="13.897184"/>
+  <trkpt lat="45.886766" lon="13.897174"/>
+  <trkpt lat="45.886856" lon="13.897236"/>
+  <trkpt lat="45.886853" lon="13.897267"/>
+  <trkpt lat="45.886851" lon="13.897289"/>
+  <trkpt lat="45.886911" lon="13.897354"/>
+  <trkpt lat="45.886924" lon="13.897376"/>
+  <trkpt lat="45.886934" lon="13.897401"/>
+  <trkpt lat="45.886941" lon="13.897429"/>
+  <trkpt lat="45.886945" lon="13.897462"/>
+  <trkpt lat="45.886945" lon="13.897488"/>
+  <trkpt lat="45.886945" lon="13.897518"/>
+  <trkpt lat="45.886967" lon="13.897527"/>
+  <trkpt lat="45.886986" lon="13.897533"/>
+  <trkpt lat="45.887006" lon="13.897539"/>
+  <trkpt lat="45.887027" lon="13.897548"/>
+  <trkpt lat="45.887045" lon="13.897554"/>
+  <trkpt lat="45.887064" lon="13.897562"/>
+  <trkpt lat="45.887092" lon="13.897571"/>
+  <trkpt lat="45.887068" lon="13.897665"/>
+  <trkpt lat="45.887043" lon="13.897771"/>
+  <trkpt lat="45.887011" lon="13.897954"/>
+  <trkpt lat="45.886979" lon="13.898155"/>
+  <trkpt lat="45.886954" lon="13.898349"/>
+  <trkpt lat="45.886942" lon="13.898475"/>
+  <trkpt lat="45.886932" lon="13.898609"/>
+  <trkpt lat="45.886923" lon="13.898868"/>
+  <trkpt lat="45.886922" lon="13.898986"/>
+  <trkpt lat="45.886923" lon="13.899073"/>
+  <trkpt lat="45.886926" lon="13.899178"/>
+  <trkpt lat="45.886929" lon="13.899243"/>
+  <trkpt lat="45.886962" lon="13.899977"/>
+  <trkpt lat="45.886968" lon="13.900058"/>
+  <trkpt lat="45.886970" lon="13.900116"/>
+  <trkpt lat="45.887008" lon="13.900110"/>
+  <trkpt lat="45.887228" lon="13.900076"/>
+  <trkpt lat="45.887306" lon="13.900062"/>
+  <trkpt lat="45.887285" lon="13.899763"/>
+  <trkpt lat="45.887252" lon="13.899694"/>
+  <trkpt lat="45.887238" lon="13.899407"/>
+  <trkpt lat="45.887252" lon="13.899694"/>
+  <trkpt lat="45.887252" lon="13.899694"/>
+  <trkpt lat="45.887285" lon="13.899763"/>
+  <trkpt lat="45.887306" lon="13.900062"/>
+  <trkpt lat="45.887228" lon="13.900076"/>
+  <trkpt lat="45.887233" lon="13.900128"/>
+  <trkpt lat="45.887255" lon="13.900344"/>
+  <trkpt lat="45.887280" lon="13.900600"/>
+  <trkpt lat="45.887280" lon="13.900600"/>
+  <trkpt lat="45.887299" lon="13.900676"/>
+  <trkpt lat="45.887347" lon="13.900814"/>
+  <trkpt lat="45.887360" lon="13.900851"/>
+  <trkpt lat="45.887385" lon="13.901011"/>
+  <trkpt lat="45.887384" lon="13.901323"/>
+  <trkpt lat="45.887384" lon="13.901367"/>
+  <trkpt lat="45.887386" lon="13.901556"/>
+  <trkpt lat="45.887386" lon="13.901589"/>
+  <trkpt lat="45.887376" lon="13.901778"/>
+  <trkpt lat="45.887353" lon="13.901864"/>
+  <trkpt lat="45.887350" lon="13.902052"/>
+  <trkpt lat="45.887383" lon="13.902386"/>
+  <trkpt lat="45.887396" lon="13.902640"/>
+  <trkpt lat="45.887396" lon="13.902721"/>
+  <trkpt lat="45.887397" lon="13.902783"/>
+  <trkpt lat="45.887476" lon="13.902782"/>
+  <trkpt lat="45.887519" lon="13.902782"/>
+  <trkpt lat="45.887765" lon="13.902778"/>
+  <trkpt lat="45.888034" lon="13.902766"/>
+  <trkpt lat="45.888117" lon="13.902761"/>
+  <trkpt lat="45.888146" lon="13.902760"/>
+  <trkpt lat="45.888146" lon="13.902834"/>
+  <trkpt lat="45.888146" lon="13.902902"/>
+  <trkpt lat="45.888146" lon="13.903286"/>
+  <trkpt lat="45.888203" lon="13.903540"/>
+  <trkpt lat="45.888231" lon="13.903664"/>
+  <trkpt lat="45.888254" lon="13.903765"/>
+  <trkpt lat="45.888291" lon="13.903981"/>
+  <trkpt lat="45.888314" lon="13.904116"/>
+  <trkpt lat="45.888318" lon="13.904128"/>
+  <trkpt lat="45.888381" lon="13.904332"/>
+  <trkpt lat="45.888398" lon="13.904364"/>
+  <trkpt lat="45.888489" lon="13.904338"/>
+  <trkpt lat="45.888398" lon="13.904364"/>
+  <trkpt lat="45.888419" lon="13.904792"/>
+  <trkpt lat="45.888361" lon="13.904856"/>
+  <trkpt lat="45.888307" lon="13.904876"/>
+  <trkpt lat="45.888121" lon="13.904945"/>
+  <trkpt lat="45.888075" lon="13.904962"/>
+  <trkpt lat="45.887992" lon="13.904987"/>
+  <trkpt lat="45.887708" lon="13.905072"/>
+  <trkpt lat="45.887785" lon="13.904483"/>
+  <trkpt lat="45.887788" lon="13.904411"/>
+  <trkpt lat="45.887820" lon="13.904289"/>
+  <trkpt lat="45.887830" lon="13.903942"/>
+  <trkpt lat="45.887816" lon="13.903805"/>
+  <trkpt lat="45.887806" lon="13.903707"/>
+  <trkpt lat="45.887802" lon="13.903619"/>
+  <trkpt lat="45.887798" lon="13.903531"/>
+  <trkpt lat="45.887789" lon="13.903333"/>
+  <trkpt lat="45.887658" lon="13.903305"/>
+  <trkpt lat="45.887638" lon="13.903246"/>
+  <trkpt lat="45.887474" lon="13.903221"/>
+  <trkpt lat="45.887474" lon="13.903030"/>
+  <trkpt lat="45.887474" lon="13.902834"/>
+  <trkpt lat="45.887476" lon="13.902782"/>
+  <trkpt lat="45.887397" lon="13.902783"/>
+  <trkpt lat="45.887396" lon="13.902721"/>
+  <trkpt lat="45.887396" lon="13.902640"/>
+  <trkpt lat="45.887392" lon="13.902567"/>
+  <trkpt lat="45.887385" lon="13.902433"/>
+  <trkpt lat="45.887383" lon="13.902386"/>
+  <trkpt lat="45.887368" lon="13.902239"/>
+  <trkpt lat="45.887383" lon="13.902386"/>
+  <trkpt lat="45.887396" lon="13.902640"/>
+  <trkpt lat="45.887396" lon="13.902721"/>
+  <trkpt lat="45.887397" lon="13.902783"/>
+  <trkpt lat="45.887163" lon="13.902784"/>
+  <trkpt lat="45.887127" lon="13.902783"/>
+  <trkpt lat="45.887067" lon="13.902782"/>
+  <trkpt lat="45.887061" lon="13.902611"/>
+  <trkpt lat="45.887039" lon="13.902035"/>
+  <trkpt lat="45.887033" lon="13.901887"/>
+  <trkpt lat="45.886968" lon="13.901894"/>
+  <trkpt lat="45.886883" lon="13.901903"/>
+  <trkpt lat="45.886887" lon="13.902012"/>
+  <trkpt lat="45.886910" lon="13.902620"/>
+  <trkpt lat="45.886916" lon="13.902775"/>
+  <trkpt lat="45.886940" lon="13.902936"/>
+  <trkpt lat="45.886935" lon="13.903992"/>
+  <trkpt lat="45.886931" lon="13.904040"/>
+  <trkpt lat="45.886925" lon="13.904081"/>
+  <trkpt lat="45.886342" lon="13.904089"/>
+  <trkpt lat="45.886346" lon="13.904063"/>
+  <trkpt lat="45.886355" lon="13.904013"/>
+  <trkpt lat="45.886394" lon="13.903942"/>
+  <trkpt lat="45.886468" lon="13.903936"/>
+  <trkpt lat="45.886552" lon="13.903934"/>
+  <trkpt lat="45.886578" lon="13.903880"/>
+  <trkpt lat="45.886559" lon="13.903709"/>
+  <trkpt lat="45.886379" lon="13.902624"/>
+  <trkpt lat="45.886351" lon="13.902464"/>
+  <trkpt lat="45.886379" lon="13.902624"/>
+  <trkpt lat="45.886559" lon="13.903709"/>
+  <trkpt lat="45.886578" lon="13.903880"/>
+  <trkpt lat="45.886552" lon="13.903934"/>
+  <trkpt lat="45.886468" lon="13.903936"/>
+  <trkpt lat="45.886394" lon="13.903942"/>
+  <trkpt lat="45.886355" lon="13.904013"/>
+  <trkpt lat="45.886346" lon="13.904063"/>
+  <trkpt lat="45.886342" lon="13.904089"/>
+  <trkpt lat="45.886925" lon="13.904081"/>
+  <trkpt lat="45.886931" lon="13.904040"/>
+  <trkpt lat="45.886935" lon="13.903992"/>
+  <trkpt lat="45.886940" lon="13.902936"/>
+  <trkpt lat="45.886916" lon="13.902775"/>
+  <trkpt lat="45.886916" lon="13.902775"/>
+  <trkpt lat="45.886916" lon="13.902775"/>
+  <trkpt lat="45.886940" lon="13.902936"/>
+  <trkpt lat="45.886937" lon="13.903563"/>
+  <trkpt lat="45.886935" lon="13.903992"/>
+  <trkpt lat="45.886931" lon="13.904040"/>
+  <trkpt lat="45.886925" lon="13.904081"/>
+  <trkpt lat="45.886754" lon="13.904083"/>
+  <trkpt lat="45.886342" lon="13.904089"/>
+  <trkpt lat="45.886344" lon="13.904203"/>
+  <trkpt lat="45.886245" lon="13.904200"/>
+  <trkpt lat="45.886177" lon="13.904198"/>
+  <trkpt lat="45.886127" lon="13.904199"/>
+  <trkpt lat="45.886122" lon="13.904087"/>
+  <trkpt lat="45.886106" lon="13.903757"/>
+  <trkpt lat="45.886097" lon="13.903578"/>
+  <trkpt lat="45.886106" lon="13.903757"/>
+  <trkpt lat="45.886109" lon="13.903815"/>
+  <trkpt lat="45.886106" lon="13.903757"/>
+  <trkpt lat="45.885890" lon="13.903791"/>
+  <trkpt lat="45.885767" lon="13.903810"/>
+  <trkpt lat="45.885767" lon="13.903810"/>
+  <trkpt lat="45.886106" lon="13.903757"/>
+  <trkpt lat="45.886122" lon="13.904087"/>
+  <trkpt lat="45.886127" lon="13.904199"/>
+  <trkpt lat="45.886177" lon="13.904198"/>
+  <trkpt lat="45.886175" lon="13.904308"/>
+  <trkpt lat="45.886174" lon="13.904339"/>
+  <trkpt lat="45.886168" lon="13.904624"/>
+  <trkpt lat="45.886170" lon="13.904657"/>
+  <trkpt lat="45.886191" lon="13.904696"/>
+  <trkpt lat="45.886223" lon="13.904722"/>
+  <trkpt lat="45.886135" lon="13.904842"/>
+  <trkpt lat="45.886039" lon="13.904973"/>
+  <trkpt lat="45.885925" lon="13.905129"/>
+  <trkpt lat="45.885710" lon="13.905424"/>
+  <trkpt lat="45.885368" lon="13.905017"/>
+  <trkpt lat="45.885368" lon="13.905017"/>
+  <trkpt lat="45.885710" lon="13.905424"/>
+  <trkpt lat="45.885925" lon="13.905129"/>
+  <trkpt lat="45.885879" lon="13.905007"/>
+  <trkpt lat="45.885696" lon="13.904837"/>
+  <trkpt lat="45.885879" lon="13.905007"/>
+  <trkpt lat="45.885925" lon="13.905129"/>
+  <trkpt lat="45.886039" lon="13.904973"/>
+  <trkpt lat="45.885693" lon="13.904681"/>
+  <trkpt lat="45.886039" lon="13.904973"/>
+  <trkpt lat="45.886135" lon="13.904842"/>
+  <trkpt lat="45.886223" lon="13.904722"/>
+  <trkpt lat="45.886191" lon="13.904696"/>
+  <trkpt lat="45.886170" lon="13.904657"/>
+  <trkpt lat="45.886168" lon="13.904624"/>
+  <trkpt lat="45.886103" lon="13.904614"/>
+  <trkpt lat="45.886033" lon="13.904520"/>
+  <trkpt lat="45.886103" lon="13.904614"/>
+  <trkpt lat="45.886168" lon="13.904624"/>
+  <trkpt lat="45.886174" lon="13.904339"/>
+  <trkpt lat="45.886175" lon="13.904308"/>
+  <trkpt lat="45.886177" lon="13.904198"/>
+  <trkpt lat="45.886245" lon="13.904200"/>
+  <trkpt lat="45.886344" lon="13.904203"/>
+  <trkpt lat="45.886755" lon="13.904230"/>
+  <trkpt lat="45.886836" lon="13.904271"/>
+  <trkpt lat="45.886836" lon="13.904292"/>
+  <trkpt lat="45.886839" lon="13.904340"/>
+  <trkpt lat="45.886875" lon="13.904358"/>
+  <trkpt lat="45.886901" lon="13.904382"/>
+  <trkpt lat="45.886924" lon="13.904415"/>
+  <trkpt lat="45.886940" lon="13.904461"/>
+  <trkpt lat="45.886947" lon="13.904521"/>
+  <trkpt lat="45.886949" lon="13.904754"/>
+  <trkpt lat="45.886954" lon="13.905268"/>
+  <trkpt lat="45.886952" lon="13.905389"/>
+  <trkpt lat="45.887009" lon="13.905387"/>
+  <trkpt lat="45.886999" lon="13.906274"/>
+  <trkpt lat="45.887051" lon="13.906234"/>
+  <trkpt lat="45.887083" lon="13.906204"/>
+  <trkpt lat="45.887094" lon="13.906181"/>
+  <trkpt lat="45.887300" lon="13.905783"/>
+  <trkpt lat="45.887094" lon="13.906181"/>
+  <trkpt lat="45.887083" lon="13.906204"/>
+  <trkpt lat="45.887051" lon="13.906234"/>
+  <trkpt lat="45.886999" lon="13.906274"/>
+  <trkpt lat="45.886995" lon="13.906497"/>
+  <trkpt lat="45.886966" lon="13.906497"/>
+  <trkpt lat="45.886940" lon="13.906497"/>
+  <trkpt lat="45.886940" lon="13.906547"/>
+  <trkpt lat="45.886960" lon="13.906729"/>
+  <trkpt lat="45.886964" lon="13.906786"/>
+  <trkpt lat="45.886962" lon="13.907030"/>
+  <trkpt lat="45.886958" lon="13.907048"/>
+  <trkpt lat="45.886951" lon="13.907108"/>
+  <trkpt lat="45.886943" lon="13.907127"/>
+  <trkpt lat="45.886933" lon="13.907140"/>
+  <trkpt lat="45.886930" lon="13.907153"/>
+  <trkpt lat="45.886929" lon="13.907194"/>
+  <trkpt lat="45.886927" lon="13.907239"/>
+  <trkpt lat="45.886913" lon="13.907799"/>
+  <trkpt lat="45.886908" lon="13.907925"/>
+  <trkpt lat="45.886909" lon="13.907983"/>
+  <trkpt lat="45.886873" lon="13.907984"/>
+  <trkpt lat="45.886846" lon="13.907987"/>
+  <trkpt lat="45.886843" lon="13.908275"/>
+  <trkpt lat="45.886846" lon="13.907987"/>
+  <trkpt lat="45.886488" lon="13.908098"/>
+  <trkpt lat="45.886339" lon="13.908154"/>
+  <trkpt lat="45.886331" lon="13.908376"/>
+  <trkpt lat="45.886339" lon="13.908154"/>
+  <trkpt lat="45.886239" lon="13.908226"/>
+  <trkpt lat="45.886102" lon="13.908246"/>
+  <trkpt lat="45.886239" lon="13.908226"/>
+  <trkpt lat="45.886339" lon="13.908154"/>
+  <trkpt lat="45.886320" lon="13.908657"/>
+  <trkpt lat="45.886246" lon="13.908653"/>
+  <trkpt lat="45.886320" lon="13.908657"/>
+  <trkpt lat="45.886838" lon="13.908691"/>
+  <trkpt lat="45.886839" lon="13.909020"/>
+  <trkpt lat="45.886477" lon="13.909003"/>
+  <trkpt lat="45.886839" lon="13.909020"/>
+  <trkpt lat="45.886838" lon="13.908691"/>
+  <trkpt lat="45.886673" lon="13.908680"/>
+  <trkpt lat="45.886838" lon="13.908691"/>
+  <trkpt lat="45.886839" lon="13.909020"/>
+  <trkpt lat="45.886836" lon="13.909227"/>
+  <trkpt lat="45.886839" lon="13.909020"/>
+  <trkpt lat="45.886838" lon="13.908691"/>
+  <trkpt lat="45.886846" lon="13.907987"/>
+  <trkpt lat="45.886873" lon="13.907984"/>
+  <trkpt lat="45.886909" lon="13.907983"/>
+  <trkpt lat="45.886910" lon="13.908057"/>
+  <trkpt lat="45.886911" lon="13.908153"/>
+  <trkpt lat="45.886905" lon="13.908286"/>
+  <trkpt lat="45.886898" lon="13.908647"/>
+  <trkpt lat="45.886891" lon="13.908970"/>
+  <trkpt lat="45.886886" lon="13.909154"/>
+  <trkpt lat="45.886887" lon="13.909317"/>
+  <trkpt lat="45.886893" lon="13.909389"/>
+  <trkpt lat="45.886891" lon="13.909509"/>
+  <trkpt lat="45.886883" lon="13.909625"/>
+  <trkpt lat="45.886866" lon="13.909700"/>
+  <trkpt lat="45.886888" lon="13.909711"/>
+  <trkpt lat="45.886917" lon="13.909726"/>
+  <trkpt lat="45.886900" lon="13.909802"/>
+  <trkpt lat="45.886873" lon="13.909889"/>
+  <trkpt lat="45.886919" lon="13.909944"/>
+  <trkpt lat="45.886953" lon="13.909983"/>
+  <trkpt lat="45.887242" lon="13.910332"/>
+  <trkpt lat="45.887270" lon="13.910381"/>
+  <trkpt lat="45.887296" lon="13.910433"/>
+  <trkpt lat="45.887321" lon="13.910510"/>
+  <trkpt lat="45.887342" lon="13.910593"/>
+  <trkpt lat="45.887348" lon="13.910657"/>
+  <trkpt lat="45.887352" lon="13.910722"/>
+  <trkpt lat="45.887340" lon="13.910866"/>
+  <trkpt lat="45.887333" lon="13.910917"/>
+  <trkpt lat="45.887292" lon="13.910917"/>
+  <trkpt lat="45.887271" lon="13.910917"/>
+  <trkpt lat="45.887251" lon="13.910916"/>
+  <trkpt lat="45.887153" lon="13.910954"/>
+  <trkpt lat="45.886989" lon="13.911097"/>
+  <trkpt lat="45.886933" lon="13.911153"/>
+  <trkpt lat="45.886903" lon="13.911182"/>
+  <trkpt lat="45.886753" lon="13.911404"/>
+  <trkpt lat="45.886744" lon="13.911417"/>
+  <trkpt lat="45.886599" lon="13.911603"/>
+  <trkpt lat="45.886501" lon="13.911729"/>
+  <trkpt lat="45.886528" lon="13.911695"/>
+  <trkpt lat="45.886353" lon="13.911919"/>
+  <trkpt lat="45.886599" lon="13.911603"/>
+  <trkpt lat="45.886734" lon="13.911909"/>
+  <trkpt lat="45.886613" lon="13.912048"/>
+  <trkpt lat="45.886734" lon="13.911909"/>
+  <trkpt lat="45.886599" lon="13.911603"/>
+  <trkpt lat="45.886331" lon="13.911948"/>
+  <trkpt lat="45.886319" lon="13.911963"/>
+  <trkpt lat="45.886176" lon="13.912138"/>
+  <trkpt lat="45.886331" lon="13.911948"/>
+  <trkpt lat="45.886599" lon="13.911603"/>
+  <trkpt lat="45.886744" lon="13.911417"/>
+  <trkpt lat="45.886903" lon="13.911182"/>
+  <trkpt lat="45.886989" lon="13.911097"/>
+  <trkpt lat="45.887153" lon="13.910954"/>
+  <trkpt lat="45.887251" lon="13.910916"/>
+  <trkpt lat="45.887271" lon="13.910917"/>
+  <trkpt lat="45.887292" lon="13.910917"/>
+  <trkpt lat="45.887333" lon="13.910917"/>
+  <trkpt lat="45.887340" lon="13.910866"/>
+  <trkpt lat="45.887352" lon="13.910722"/>
+  <trkpt lat="45.887348" lon="13.910657"/>
+  <trkpt lat="45.887342" lon="13.910593"/>
+  <trkpt lat="45.887321" lon="13.910510"/>
+  <trkpt lat="45.887296" lon="13.910433"/>
+  <trkpt lat="45.887270" lon="13.910381"/>
+  <trkpt lat="45.887242" lon="13.910332"/>
+  <trkpt lat="45.886953" lon="13.909983"/>
+  <trkpt lat="45.886919" lon="13.909944"/>
+  <trkpt lat="45.886889" lon="13.910001"/>
+  <trkpt lat="45.886859" lon="13.910051"/>
+  <trkpt lat="45.886855" lon="13.910064"/>
+  <trkpt lat="45.886834" lon="13.910075"/>
+  <trkpt lat="45.886802" lon="13.910101"/>
+  <trkpt lat="45.886772" lon="13.910135"/>
+  <trkpt lat="45.886723" lon="13.910204"/>
+  <trkpt lat="45.886659" lon="13.910287"/>
+  <trkpt lat="45.886598" lon="13.910356"/>
+  <trkpt lat="45.886560" lon="13.910390"/>
+  <trkpt lat="45.886550" lon="13.910370"/>
+  <trkpt lat="45.886533" lon="13.910332"/>
+  <trkpt lat="45.886515" lon="13.910292"/>
+  <trkpt lat="45.886506" lon="13.910271"/>
+  <trkpt lat="45.886488" lon="13.910287"/>
+  <trkpt lat="45.886410" lon="13.910343"/>
+  <trkpt lat="45.886349" lon="13.910377"/>
+  <trkpt lat="45.886279" lon="13.910416"/>
+  <trkpt lat="45.886180" lon="13.910468"/>
+  <trkpt lat="45.886139" lon="13.910491"/>
+  <trkpt lat="45.886092" lon="13.910517"/>
+  <trkpt lat="45.885577" lon="13.910790"/>
+  <trkpt lat="45.885463" lon="13.910839"/>
+  <trkpt lat="45.885350" lon="13.910892"/>
+  <trkpt lat="45.885314" lon="13.910913"/>
+  <trkpt lat="45.885267" lon="13.910935"/>
+  <trkpt lat="45.885207" lon="13.910956"/>
+  <trkpt lat="45.885148" lon="13.910972"/>
+  <trkpt lat="45.885070" lon="13.910991"/>
+  <trkpt lat="45.884992" lon="13.911011"/>
+  <trkpt lat="45.884900" lon="13.911031"/>
+  <trkpt lat="45.884846" lon="13.911042"/>
+  <trkpt lat="45.884764" lon="13.911058"/>
+  <trkpt lat="45.884686" lon="13.911075"/>
+  <trkpt lat="45.884668" lon="13.911079"/>
+  <trkpt lat="45.884595" lon="13.911095"/>
+  <trkpt lat="45.884500" lon="13.911117"/>
+  <trkpt lat="45.884426" lon="13.911133"/>
+  <trkpt lat="45.884391" lon="13.911139"/>
+  <trkpt lat="45.884375" lon="13.911139"/>
+  <trkpt lat="45.884364" lon="13.911134"/>
+  <trkpt lat="45.884356" lon="13.911123"/>
+  <trkpt lat="45.884344" lon="13.911118"/>
+  <trkpt lat="45.884280" lon="13.911129"/>
+  <trkpt lat="45.884252" lon="13.911022"/>
+  <trkpt lat="45.884164" lon="13.910898"/>
+  <trkpt lat="45.884089" lon="13.910753"/>
+  <trkpt lat="45.883172" lon="13.909389"/>
+  <trkpt lat="45.884089" lon="13.910753"/>
+  <trkpt lat="45.884164" lon="13.910898"/>
+  <trkpt lat="45.884167" lon="13.911082"/>
+  <trkpt lat="45.884168" lon="13.911150"/>
+  <trkpt lat="45.884121" lon="13.911157"/>
+  <trkpt lat="45.884095" lon="13.911166"/>
+  <trkpt lat="45.884067" lon="13.911186"/>
+  <trkpt lat="45.884040" lon="13.911204"/>
+  <trkpt lat="45.883983" lon="13.911228"/>
+  <trkpt lat="45.883942" lon="13.911236"/>
+  <trkpt lat="45.883513" lon="13.911332"/>
+  <trkpt lat="45.883085" lon="13.911435"/>
+  <trkpt lat="45.883024" lon="13.911451"/>
+  <trkpt lat="45.882976" lon="13.911459"/>
+  <trkpt lat="45.882932" lon="13.911465"/>
+  <trkpt lat="45.882943" lon="13.911492"/>
+  <trkpt lat="45.882953" lon="13.911517"/>
+  <trkpt lat="45.882961" lon="13.911541"/>
+  <trkpt lat="45.882972" lon="13.911580"/>
+  <trkpt lat="45.882977" lon="13.911604"/>
+  <trkpt lat="45.882981" lon="13.911627"/>
+  <trkpt lat="45.882987" lon="13.911664"/>
+  <trkpt lat="45.882977" lon="13.911674"/>
+  <trkpt lat="45.882956" lon="13.911704"/>
+  <trkpt lat="45.882944" lon="13.911735"/>
+  <trkpt lat="45.882940" lon="13.911774"/>
+  <trkpt lat="45.882944" lon="13.911806"/>
+  <trkpt lat="45.882958" lon="13.911850"/>
+  <trkpt lat="45.882947" lon="13.911884"/>
+  <trkpt lat="45.882938" lon="13.911907"/>
+  <trkpt lat="45.882928" lon="13.911926"/>
+  <trkpt lat="45.882914" lon="13.911949"/>
+  <trkpt lat="45.882902" lon="13.911966"/>
+  <trkpt lat="45.882885" lon="13.911990"/>
+  <trkpt lat="45.882874" lon="13.912004"/>
+  <trkpt lat="45.882927" lon="13.912064"/>
+  <trkpt lat="45.882968" lon="13.912111"/>
+  <trkpt lat="45.882998" lon="13.912144"/>
+  <trkpt lat="45.883036" lon="13.912191"/>
+  <trkpt lat="45.883088" lon="13.912263"/>
+  <trkpt lat="45.883123" lon="13.912329"/>
+  <trkpt lat="45.883153" lon="13.912397"/>
+  <trkpt lat="45.883241" lon="13.912570"/>
+  <trkpt lat="45.883218" lon="13.912629"/>
+  <trkpt lat="45.883153" lon="13.912733"/>
+  <trkpt lat="45.883117" lon="13.912764"/>
+  <trkpt lat="45.883080" lon="13.912824"/>
+  <trkpt lat="45.883013" lon="13.912732"/>
+  <trkpt lat="45.882607" lon="13.913329"/>
+  <trkpt lat="45.882033" lon="13.912559"/>
+  <trkpt lat="45.882316" lon="13.912125"/>
+  <trkpt lat="45.882033" lon="13.912559"/>
+  <trkpt lat="45.882238" lon="13.912834"/>
+  <trkpt lat="45.882607" lon="13.913329"/>
+  <trkpt lat="45.883013" lon="13.912732"/>
+  <trkpt lat="45.883089" lon="13.912617"/>
+  <trkpt lat="45.882818" lon="13.912244"/>
+  <trkpt lat="45.883089" lon="13.912617"/>
+  <trkpt lat="45.883013" lon="13.912732"/>
+  <trkpt lat="45.882908" lon="13.912887"/>
+  <trkpt lat="45.882750" lon="13.913119"/>
+  <trkpt lat="45.883013" lon="13.912732"/>
+  <trkpt lat="45.883080" lon="13.912824"/>
+  <trkpt lat="45.883120" lon="13.912880"/>
+  <trkpt lat="45.883286" lon="13.912638"/>
+  <trkpt lat="45.883333" lon="13.912576"/>
+  <trkpt lat="45.883637" lon="13.913017"/>
+  <trkpt lat="45.883947" lon="13.913438"/>
+  <trkpt lat="45.883897" lon="13.913471"/>
+  <trkpt lat="45.883755" lon="13.913674"/>
+  <trkpt lat="45.883365" lon="13.914229"/>
+  <trkpt lat="45.883088" lon="13.914650"/>
+  <trkpt lat="45.883291" lon="13.914342"/>
+  <trkpt lat="45.883365" lon="13.914229"/>
+  <trkpt lat="45.883554" lon="13.913960"/>
+  <trkpt lat="45.883755" lon="13.913674"/>
+  <trkpt lat="45.883781" lon="13.913711"/>
+  <trkpt lat="45.884038" lon="13.914071"/>
+  <trkpt lat="45.884060" lon="13.914259"/>
+  <trkpt lat="45.884094" lon="13.914547"/>
+  <trkpt lat="45.884132" lon="13.914870"/>
+  <trkpt lat="45.884131" lon="13.914860"/>
+  <trkpt lat="45.884170" lon="13.915186"/>
+  <trkpt lat="45.884194" lon="13.915390"/>
+  <trkpt lat="45.884372" lon="13.915347"/>
+  <trkpt lat="45.884566" lon="13.915301"/>
+  <trkpt lat="45.884586" lon="13.915489"/>
+  <trkpt lat="45.884603" lon="13.915645"/>
+  <trkpt lat="45.884627" lon="13.915868"/>
+  <trkpt lat="45.884431" lon="13.916090"/>
+  <trkpt lat="45.884431" lon="13.916090"/>
+  <trkpt lat="45.884431" lon="13.916090"/>
+  <trkpt lat="45.884627" lon="13.915868"/>
+  <trkpt lat="45.884566" lon="13.915301"/>
+  <trkpt lat="45.884194" lon="13.915390"/>
+  <trkpt lat="45.884171" lon="13.915491"/>
+  <trkpt lat="45.884112" lon="13.915651"/>
+  <trkpt lat="45.883977" lon="13.915778"/>
+  <trkpt lat="45.884112" lon="13.915651"/>
+  <trkpt lat="45.884171" lon="13.915491"/>
+  <trkpt lat="45.884194" lon="13.915390"/>
+  <trkpt lat="45.883717" lon="13.915509"/>
+  <trkpt lat="45.883610" lon="13.915614"/>
+  <trkpt lat="45.883363" lon="13.915857"/>
+  <trkpt lat="45.883345" lon="13.915878"/>
+  <trkpt lat="45.883564" lon="13.916179"/>
+  <trkpt lat="45.883618" lon="13.916117"/>
+  <trkpt lat="45.883734" lon="13.916008"/>
+  <trkpt lat="45.883939" lon="13.915815"/>
+  <trkpt lat="45.883618" lon="13.916117"/>
+  <trkpt lat="45.883564" lon="13.916179"/>
+  <trkpt lat="45.883913" lon="13.916663"/>
+  <trkpt lat="45.883973" lon="13.916594"/>
+  <trkpt lat="45.884241" lon="13.916356"/>
+  <trkpt lat="45.884427" lon="13.916191"/>
+  <trkpt lat="45.884505" lon="13.916307"/>
+  <trkpt lat="45.884528" lon="13.916340"/>
+  <trkpt lat="45.884196" lon="13.917145"/>
+  <trkpt lat="45.884114" lon="13.917344"/>
+  <trkpt lat="45.884065" lon="13.917462"/>
+  <trkpt lat="45.883898" lon="13.917859"/>
+  <trkpt lat="45.884246" lon="13.918162"/>
+  <trkpt lat="45.884327" lon="13.917979"/>
+  <trkpt lat="45.884327" lon="13.917979"/>
+  <trkpt lat="45.884246" lon="13.918162"/>
+  <trkpt lat="45.884164" lon="13.918090"/>
+  <trkpt lat="45.884064" lon="13.918003"/>
+  <trkpt lat="45.884246" lon="13.918162"/>
+  <trkpt lat="45.884183" lon="13.918317"/>
+  <trkpt lat="45.884183" lon="13.918317"/>
+  <trkpt lat="45.884183" lon="13.918317"/>
+  <trkpt lat="45.884246" lon="13.918162"/>
+  <trkpt lat="45.883898" lon="13.917859"/>
+  <trkpt lat="45.883821" lon="13.918040"/>
+  <trkpt lat="45.883664" lon="13.918362"/>
+  <trkpt lat="45.883664" lon="13.918362"/>
+  <trkpt lat="45.883571" lon="13.918525"/>
+  <trkpt lat="45.883521" lon="13.918613"/>
+  <trkpt lat="45.883664" lon="13.918362"/>
+  <trkpt lat="45.883821" lon="13.918040"/>
+  <trkpt lat="45.883898" lon="13.917859"/>
+  <trkpt lat="45.884065" lon="13.917462"/>
+  <trkpt lat="45.884528" lon="13.916340"/>
+  <trkpt lat="45.884592" lon="13.916186"/>
+  <trkpt lat="45.884850" lon="13.915616"/>
+  <trkpt lat="45.884935" lon="13.915454"/>
+  <trkpt lat="45.884990" lon="13.915349"/>
+  <trkpt lat="45.885112" lon="13.915145"/>
+  <trkpt lat="45.885157" lon="13.915101"/>
+  <trkpt lat="45.885264" lon="13.915237"/>
+  <trkpt lat="45.885500" lon="13.915538"/>
+  <trkpt lat="45.885832" lon="13.916006"/>
+  <trkpt lat="45.885700" lon="13.916239"/>
+  <trkpt lat="45.885252" lon="13.917322"/>
+  <trkpt lat="45.885222" lon="13.917394"/>
+  <trkpt lat="45.885086" lon="13.917709"/>
+  <trkpt lat="45.885002" lon="13.917907"/>
+  <trkpt lat="45.884865" lon="13.918153"/>
+  <trkpt lat="45.884514" lon="13.918678"/>
+  <trkpt lat="45.884236" lon="13.919097"/>
+  <trkpt lat="45.884169" lon="13.919204"/>
+  <trkpt lat="45.884184" lon="13.919179"/>
+  <trkpt lat="45.884236" lon="13.919097"/>
+  <trkpt lat="45.884514" lon="13.918678"/>
+  <trkpt lat="45.884865" lon="13.918153"/>
+  <trkpt lat="45.885002" lon="13.917907"/>
+  <trkpt lat="45.885086" lon="13.917709"/>
+  <trkpt lat="45.885222" lon="13.917394"/>
+  <trkpt lat="45.885252" lon="13.917322"/>
+  <trkpt lat="45.885700" lon="13.916239"/>
+  <trkpt lat="45.885832" lon="13.916006"/>
+  <trkpt lat="45.885500" lon="13.915538"/>
+  <trkpt lat="45.885264" lon="13.915237"/>
+  <trkpt lat="45.885157" lon="13.915101"/>
+  <trkpt lat="45.885112" lon="13.915145"/>
+  <trkpt lat="45.884990" lon="13.915349"/>
+  <trkpt lat="45.884935" lon="13.915454"/>
+  <trkpt lat="45.884850" lon="13.915616"/>
+  <trkpt lat="45.884592" lon="13.916186"/>
+  <trkpt lat="45.884528" lon="13.916340"/>
+  <trkpt lat="45.884065" lon="13.917462"/>
+  <trkpt lat="45.883898" lon="13.917859"/>
+  <trkpt lat="45.884246" lon="13.918162"/>
+  <trkpt lat="45.884220" lon="13.918226"/>
+  <trkpt lat="45.884246" lon="13.918162"/>
+  <trkpt lat="45.884268" lon="13.918113"/>
+  <trkpt lat="45.884327" lon="13.917979"/>
+ </trkseg></trk></gpx>

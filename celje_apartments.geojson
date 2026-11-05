@@ -1,0 +1,7861 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "source": "OpenStreetMap Overpass API",
+  "query": "nwr[building=apartments|apartment](area:3601676306) Celje",
+  "method": "nearest of 19 decree KS/MC anchors; Otok/Dolgo-Polje-case fixed",
+  "created": "2026-11-05",
+  "count": 327,
+  "volilna_enota_def": "https://pisrs.si/api/datoteke/integracije/606135216 (Odlok MOC Celje 1994): VE1=Smartno v Rozni dolini, Skofja vas, Ljubecna, Ostrozno, Lava, Hudinja, Trnovlje, Teharje; VE2=Center, Aljazev hrib, Gaberje, Nova vas, Deckovo naselje; VE3=Savinja, Kajuh, S. Slander, Medlog, Dolgo polje, Pod gradom"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2516077,
+     46.2437434
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484950067,
+    "building": "apartments",
+    "address": "Goriška ulica 1",
+    "street": "Goriška ulica",
+    "housenumber": "1",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Lava",
+    "ks_dist_m": 95,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/484950067"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2745331,
+     46.2460229
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 402962359,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": "8",
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 497,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/402962359"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.273803,
+     46.2459909
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 402966470,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": "4",
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 514,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/402966470"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2527274,
+     46.2426969
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484950073,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Lava",
+    "ks_dist_m": 238,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/484950073"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2752522,
+     46.2457287
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484967958,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": "8",
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 524,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/484967958"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.250962,
+     46.2430279
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 485994993,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Lava",
+    "ks_dist_m": 146,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/485994993"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2510034,
+     46.2435398
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 485994994,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Lava",
+    "ks_dist_m": 90,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/485994994"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2775552,
+     46.2502244
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965166120,
+    "building": "apartments",
+    "address": "Ulica Frankolovskih žrtev 11",
+    "street": "Ulica Frankolovskih žrtev",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 149,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/965166120"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.277452,
+     46.2506103
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965166118,
+    "building": "apartments",
+    "address": "Ulica Frankolovskih žrtev 11A",
+    "street": "Ulica Frankolovskih žrtev",
+    "housenumber": "11A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 140,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/965166118"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2788147,
+     46.2505517
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965166117,
+    "building": "apartments",
+    "address": "Ulica Frankolovskih žrtev 1A",
+    "street": "Ulica Frankolovskih žrtev",
+    "housenumber": "1A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 244,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/965166117"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2785329,
+     46.2507981
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 489763500,
+    "building": "apartments",
+    "address": "Ulica Frankolovskih žrtev 3",
+    "street": "Ulica Frankolovskih žrtev",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 226,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/489763500"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2789461,
+     46.2501919
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965166116,
+    "building": "apartments",
+    "address": "Ulica Frankolovskih žrtev 5",
+    "street": "Ulica Frankolovskih žrtev",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 255,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/965166116"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2785661,
+     46.2498855
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 489763527,
+    "building": "apartments",
+    "address": "Ulica Frankolovskih žrtev 5A",
+    "street": "Ulica Frankolovskih žrtev",
+    "housenumber": "5A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 233,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/489763527"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2783118,
+     46.2504618
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965166115,
+    "building": "apartments",
+    "address": "Ulica Frankolovskih žrtev 7",
+    "street": "Ulica Frankolovskih žrtev",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 205,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/965166115"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.27799,
+     46.2500027
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965166119,
+    "building": "apartments",
+    "address": "Ulica Frankolovskih žrtev 9",
+    "street": "Ulica Frankolovskih žrtev",
+    "housenumber": "9",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Hudinja",
+    "ks_dist_m": 187,
+    "volilna_enota": 1,
+    "osm_url": "https://www.openstreetmap.org/way/965166119"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2637909,
+     46.2278579
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484398066,
+    "building": "apartments",
+    "address": "2",
+    "street": null,
+    "housenumber": "2",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 127,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484398066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2657215,
+     46.229715
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474344229,
+    "building": "apartments",
+    "address": "4",
+    "street": null,
+    "housenumber": "4",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 142,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474344229"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2632997,
+     46.2414992
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474564542,
+    "building": "apartments",
+    "address": "Adamičeva ulica 14",
+    "street": "Adamičeva ulica",
+    "housenumber": "14",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 381,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474564542"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2660271,
+     46.2398823
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386882336,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 28",
+    "street": "Brodarjeva ulica",
+    "housenumber": "28",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 562,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/386882336"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2653603,
+     46.2445722
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474600420,
+    "building": "apartments",
+    "address": "Celovška ulica 11",
+    "street": "Celovška ulica",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 72,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474600420"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2653431,
+     46.2442677
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484168358,
+    "building": "apartments",
+    "address": "Celovška ulica 9",
+    "street": "Celovška ulica",
+    "housenumber": "9",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 90,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484168358"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2675569,
+     46.240037
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211115,
+    "building": "apartments",
+    "address": "Cesta na Dobrovo 1",
+    "street": "Cesta na Dobrovo",
+    "housenumber": "1",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 582,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484211115"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2670361,
+     46.2401488
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211114,
+    "building": "apartments",
+    "address": "Dečkova cesta 26",
+    "street": "Dečkova cesta",
+    "housenumber": "26",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 555,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484211114"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2648273,
+     46.2404157
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484188931,
+    "building": "apartments",
+    "address": "Dečkova cesta 38",
+    "street": "Dečkova cesta",
+    "housenumber": "38",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 491,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484188931"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2606867,
+     46.2422884
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599338,
+    "building": "apartments",
+    "address": "Drapšinova ulica 11",
+    "street": "Drapšinova ulica",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 339,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599338"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.260677,
+     46.2421064
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831289494,
+    "building": "apartments",
+    "address": "Drapšinova ulica 13",
+    "street": "Drapšinova ulica",
+    "housenumber": "13",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 358,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/831289494"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2602401,
+     46.2423239
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599328,
+    "building": "apartments",
+    "address": "Drapšinova ulica 15",
+    "street": "Drapšinova ulica",
+    "housenumber": "15",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 325,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599328"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.259693,
+     46.2423421
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599332,
+    "building": "apartments",
+    "address": "Drapšinova ulica 17",
+    "street": "Drapšinova ulica",
+    "housenumber": "17",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 314,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599332"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2622797,
+     46.2420314
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1426288135,
+    "building": "apartments",
+    "address": "Drapšinova ulica 5",
+    "street": "Drapšinova ulica",
+    "housenumber": "5",
+    "city": null,
+    "levels": "6",
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 354,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1426288135"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2618411,
+     46.2422636
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599342,
+    "building": "apartments",
+    "address": "Drapšinova ulica 5A",
+    "street": "Drapšinova ulica",
+    "housenumber": "5A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 351,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599342"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2618289,
+     46.2420816
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831289493,
+    "building": "apartments",
+    "address": "Drapšinova ulica 5B",
+    "street": "Drapšinova ulica",
+    "housenumber": "5B",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 368,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/831289493"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2614161,
+     46.2422873
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599340,
+    "building": "apartments",
+    "address": "Drapšinova ulica 7",
+    "street": "Drapšinova ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 364,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599340"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2611086,
+     46.2420891
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599339,
+    "building": "apartments",
+    "address": "Drapšinova ulica 9",
+    "street": "Drapšinova ulica",
+    "housenumber": "9",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 372,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599339"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2649889,
+     46.2282852
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553943,
+    "building": "apartments",
+    "address": "Glavni trg",
+    "street": "Glavni trg",
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 94,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553943"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2641886,
+     46.2276811
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484398065,
+    "building": "apartments",
+    "address": "Glavni trg 13",
+    "street": "Glavni trg",
+    "housenumber": "13",
+    "city": null,
+    "levels": "3",
+    "ks_mc": "Center",
+    "ks_dist_m": 142,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484398065"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2650065,
+     46.228127
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553942,
+    "building": "apartments",
+    "address": "Glavni trg 3",
+    "street": "Glavni trg",
+    "housenumber": "3",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 109,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553942"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2650268,
+     46.2279282
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553941,
+    "building": "apartments",
+    "address": "Glavni trg 6",
+    "street": "Glavni trg",
+    "housenumber": "6",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 129,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553941"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2649812,
+     46.2277127
+    ]
+   },
+   "properties": {
+    "osm_type": "relation",
+    "osm_id": 7128105,
+    "building": "apartments",
+    "address": "Glavni trg 8",
+    "street": "Glavni trg",
+    "housenumber": "8",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 149,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/relation/7128105"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2647821,
+     46.2275147
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553939,
+    "building": "apartments",
+    "address": "Glavni trg 9",
+    "street": "Glavni trg",
+    "housenumber": "9",
+    "city": null,
+    "levels": "3",
+    "ks_mc": "Center",
+    "ks_dist_m": 165,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553939"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2639628,
+     46.2277669
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484398067,
+    "building": "apartments",
+    "address": "Gosposka ulica 2",
+    "street": "Gosposka ulica",
+    "housenumber": "2",
+    "city": null,
+    "levels": "2",
+    "ks_mc": "Center",
+    "ks_dist_m": 134,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484398067"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.262011,
+     46.2282868
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553929,
+    "building": "apartments",
+    "address": "Gosposka ulica 23",
+    "street": "Gosposka ulica",
+    "housenumber": "23",
+    "city": "Celje",
+    "levels": "3",
+    "ks_mc": "Center",
+    "ks_dist_m": 187,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553929"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2634691,
+     46.2280043
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484398071,
+    "building": "apartments",
+    "address": "Gosposka ulica 4",
+    "street": "Gosposka ulica",
+    "housenumber": "4",
+    "city": null,
+    "levels": "3",
+    "ks_mc": "Center",
+    "ks_dist_m": 121,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484398071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2652025,
+     46.2453826
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474604293,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 11",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 82,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474604293"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2649426,
+     46.2442578
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484168357,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 20",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "20",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 72,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484168357"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2648596,
+     46.2447095
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484168356,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 22",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "22",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 31,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484168356"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2648892,
+     46.2450175
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484168355,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 24",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "24",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 37,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484168355"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2651451,
+     46.2449709
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1422545679,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 26",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "26",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 52,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1422545679"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2654264,
+     46.2449545
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474600421,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 28",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "28",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 73,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474600421"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2656759,
+     46.2449093
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1422545678,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 30",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "30",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 91,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1422545678"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2659142,
+     46.2445701
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484168343,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 32",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "32",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 112,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484168343"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2636682,
+     46.2448543
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474604300,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 6",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 64,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474604300"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2638157,
+     46.2454763
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162861,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 7",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 90,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2645492,
+     46.2455499
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474604292,
+    "building": "apartments",
+    "address": "Kraigherjeva ulica 9",
+    "street": "Kraigherjeva ulica",
+    "housenumber": "9",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 81,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474604292"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2738265,
+     46.2395576
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484206825,
+    "building": "apartments",
+    "address": "Mariborska cesta 53",
+    "street": "Mariborska cesta",
+    "housenumber": "53",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Gaberje",
+    "ks_dist_m": 322,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484206825"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2742324,
+     46.2398041
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484206826,
+    "building": "apartments",
+    "address": "Mariborska cesta 57",
+    "street": "Mariborska cesta",
+    "housenumber": "57",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Gaberje",
+    "ks_dist_m": 340,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484206826"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2744129,
+     46.2400114
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484206827,
+    "building": "apartments",
+    "address": "Mariborska cesta 61",
+    "street": "Mariborska cesta",
+    "housenumber": "61",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Gaberje",
+    "ks_dist_m": 360,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484206827"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2746114,
+     46.2402745
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484206828,
+    "building": "apartments",
+    "address": "Mariborska cesta 63",
+    "street": "Mariborska cesta",
+    "housenumber": "63",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Gaberje",
+    "ks_dist_m": 387,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484206828"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2652939,
+     46.2294319
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474344233,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 97,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474344233"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2658446,
+     46.2314625
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474344240,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 305,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474344240"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2631752,
+     46.2281324
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553918,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 123,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553918"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2627096,
+     46.2280663
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553930,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": "3",
+    "ks_mc": "Center",
+    "ks_dist_m": 153,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553930"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.263423,
+     46.227762
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553934,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 147,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553934"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2637764,
+     46.2276371
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553935,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 151,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553935"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2641155,
+     46.2274211
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553936,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 171,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553936"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2657338,
+     46.2269402
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553950,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 252,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553950"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.26626,
+     46.2281113
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553952,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 182,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553952"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2660623,
+     46.2269556
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484347684,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 263,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484347684"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2661558,
+     46.2273561
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484347689,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 231,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484347689"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2643897,
+     46.2280047
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484398064,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 106,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484398064"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2636626,
+     46.2279559
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484398069,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 119,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484398069"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2624286,
+     46.228459
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484398074,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 150,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484398074"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2618453,
+     46.2291412
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484398091,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 185,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484398091"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2629857,
+     46.2279581
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484410253,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 147,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484410253"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2645305,
+     46.2287587
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484410268,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 31,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484410268"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2647196,
+     46.2290831
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484410269,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 40,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484410269"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2648703,
+     46.2293152
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484410272,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 63,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484410272"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2652836,
+     46.2269716
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484410276,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 235,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484410276"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2684539,
+     46.2400772
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1567395566,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 609,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1567395566"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2662543,
+     46.2283307
+    ]
+   },
+   "properties": {
+    "osm_type": "relation",
+    "osm_id": 7128104,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 170,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/relation/7128104"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2666903,
+     46.2398707
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386882334,
+    "building": "apartments",
+    "address": "Nušičeva ulica 12",
+    "street": "Nušičeva ulica",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 576,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/386882334"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2672474,
+     46.2397391
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386882335,
+    "building": "apartments",
+    "address": "Nušičeva ulica 14",
+    "street": "Nušičeva ulica",
+    "housenumber": "14",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 604,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/386882335"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2673742,
+     46.2395328
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484199559,
+    "building": "apartments",
+    "address": "Nušičeva ulica 41a",
+    "street": "Nušičeva ulica",
+    "housenumber": "41a",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 629,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484199559"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2667545,
+     46.2420326
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386880450,
+    "building": "apartments",
+    "address": "Okrogarjeva ulica 3",
+    "street": "Okrogarjeva ulica",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 356,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/386880450"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2670811,
+     46.2417121
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386880451,
+    "building": "apartments",
+    "address": "Okrogarjeva ulica 5",
+    "street": "Okrogarjeva ulica",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 399,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/386880451"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2660595,
+     46.2417321
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386880452,
+    "building": "apartments",
+    "address": "Okrogarjeva ulica 7",
+    "street": "Okrogarjeva ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 364,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/386880452"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2668558,
+     46.2272999
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484347710,
+    "building": "apartments",
+    "address": "Peteršnikova 1",
+    "street": "Peteršnikova",
+    "housenumber": "1",
+    "city": null,
+    "levels": "5",
+    "ks_mc": "Center",
+    "ks_dist_m": 273,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484347710"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2662728,
+     46.2405485
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386882094,
+    "building": "apartments",
+    "address": "Pohorska ulica 4",
+    "street": "Pohorska ulica",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 495,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/386882094"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2660864,
+     46.2409072
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484188943,
+    "building": "apartments",
+    "address": "Pohorska ulica 4",
+    "street": "Pohorska ulica",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 452,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484188943"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2669464,
+     46.2406575
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386882096,
+    "building": "apartments",
+    "address": "Pohorska ulica 6",
+    "street": "Pohorska ulica",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 500,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/386882096"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2651394,
+     46.2284152
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553944,
+    "building": "apartments",
+    "address": "Prešernova ulica 5",
+    "street": "Prešernova ulica",
+    "housenumber": "5",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 92,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553944"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2643817,
+     46.2284067
+    ]
+   },
+   "properties": {
+    "osm_type": "relation",
+    "osm_id": 7128895,
+    "building": "apartments",
+    "address": "Prešernova ulica 7",
+    "street": "Prešernova ulica",
+    "housenumber": "7",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 62,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/relation/7128895"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2651147,
+     46.2286986
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553954,
+    "building": "apartments",
+    "address": "Prešernova ulica 8",
+    "street": "Prešernova ulica",
+    "housenumber": "8",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 73,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553954"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2665182,
+     46.2278994
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484347717,
+    "building": "apartments",
+    "address": "Razlagova ulica 3",
+    "street": "Razlagova ulica",
+    "housenumber": "3",
+    "city": null,
+    "levels": "4",
+    "ks_mc": "Center",
+    "ks_dist_m": 211,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484347717"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2662006,
+     46.2276936
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474553953,
+    "building": "apartments",
+    "address": "Razlagova ulica 4",
+    "street": "Razlagova ulica",
+    "housenumber": "4",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 206,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474553953"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2664818,
+     46.2276365
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484347716,
+    "building": "apartments",
+    "address": "Razlagova ulica 5",
+    "street": "Razlagova ulica",
+    "housenumber": "5",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 226,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484347716"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2665424,
+     46.2273304
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484347715,
+    "building": "apartments",
+    "address": "Razlagova ulica 9",
+    "street": "Razlagova ulica",
+    "housenumber": "9",
+    "city": null,
+    "levels": "4",
+    "ks_mc": "Center",
+    "ks_dist_m": 253,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484347715"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2592543,
+     46.2422034
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597140,
+    "building": "apartments",
+    "address": "Ribarjeva ulica 4",
+    "street": "Ribarjeva ulica",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 326,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597140"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2593708,
+     46.2468406
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1426288146,
+    "building": "apartments",
+    "address": "Singenska ulica 10, 9",
+    "street": "Singenska ulica",
+    "housenumber": "10, 9",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 191,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1426288146"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2586216,
+     46.2468669
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1426288144,
+    "building": "apartments",
+    "address": "Singenska ulica 12, 11",
+    "street": "Singenska ulica",
+    "housenumber": "12, 11",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 196,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1426288144"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.259306,
+     46.2461081
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1426288142,
+    "building": "apartments",
+    "address": "Singenska ulica 2, 1",
+    "street": "Singenska ulica",
+    "housenumber": "2, 1",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 109,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1426288142"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2585666,
+     46.2461343
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1426288141,
+    "building": "apartments",
+    "address": "Singenska ulica 4,  3",
+    "street": "Singenska ulica",
+    "housenumber": "4,  3",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 118,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1426288141"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2593384,
+     46.2464674
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1426288145,
+    "building": "apartments",
+    "address": "Singenska ulica 6, 5",
+    "street": "Singenska ulica",
+    "housenumber": "6, 5",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 149,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1426288145"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2585879,
+     46.2464943
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1426288143,
+    "building": "apartments",
+    "address": "Singenska ulica 8, 7",
+    "street": "Singenska ulica",
+    "housenumber": "8, 7",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Dečkovo naselje",
+    "ks_dist_m": 156,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1426288143"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2648427,
+     46.2268137
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484347697,
+    "building": "apartments",
+    "address": "Slomškov trg 7",
+    "street": "Slomškov trg",
+    "housenumber": "7",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 242,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484347697"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2666385,
+     46.2469004
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 485049588,
+    "building": "apartments",
+    "address": "Spominska ulica 3",
+    "street": "Spominska ulica",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 283,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/485049588"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2668326,
+     46.2469585
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965236946,
+    "building": "apartments",
+    "address": "Spominska ulica 4",
+    "street": "Spominska ulica",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 297,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/965236946"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2670267,
+     46.2470165
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965236945,
+    "building": "apartments",
+    "address": "Spominska ulica 5",
+    "street": "Spominska ulica",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 312,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/965236945"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2651718,
+     46.2290566
+    ]
+   },
+   "properties": {
+    "osm_type": "relation",
+    "osm_id": 7129084,
+    "building": "apartments",
+    "address": "Stanetova ulica 2",
+    "street": "Stanetova ulica",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 73,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/relation/7129084"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2620879,
+     46.2279517
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 402786560,
+    "building": "apartments",
+    "address": "Ulica Ivanke Uranjekove 3",
+    "street": "Ulica Ivanke Uranjekove",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": "3",
+    "ks_mc": "Center",
+    "ks_dist_m": 199,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/402786560"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.266745,
+     46.2267962
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484347692,
+    "building": "apartments",
+    "address": "Ulica XIV. divizije 8",
+    "street": "Ulica XIV. divizije",
+    "housenumber": "8",
+    "city": null,
+    "levels": null,
+    "ks_mc": "Center",
+    "ks_dist_m": 308,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484347692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2644748,
+     46.2407073
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484188937,
+    "building": "apartments",
+    "address": "Ulica mesta Grevenbroich 2",
+    "street": "Ulica mesta Grevenbroich",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 458,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484188937"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2640168,
+     46.2409074
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599368,
+    "building": "apartments",
+    "address": "Ulica mesta Grevenbroich 3",
+    "street": "Ulica mesta Grevenbroich",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 437,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599368"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2645006,
+     46.2408926
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597129,
+    "building": "apartments",
+    "address": "Ulica mesta Grevenbroich 4",
+    "street": "Ulica mesta Grevenbroich",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 437,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597129"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.264027,
+     46.2411637
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474564550,
+    "building": "apartments",
+    "address": "Ulica mesta Grevenbroich 5",
+    "street": "Ulica mesta Grevenbroich",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 409,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474564550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2640523,
+     46.2414805
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474564543,
+    "building": "apartments",
+    "address": "Ulica mesta Grevenbroich 7",
+    "street": "Ulica mesta Grevenbroich",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 373,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474564543"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2673794,
+     46.2389046
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1106325487,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 35",
+    "street": "Vrunčeva ulica",
+    "housenumber": "35",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Gaberje",
+    "ks_dist_m": 642,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1106325487"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2674939,
+     46.2391041
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484199560,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 37",
+    "street": "Vrunčeva ulica",
+    "housenumber": "37",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Gaberje",
+    "ks_dist_m": 642,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484199560"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2675577,
+     46.2393761
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597114,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 39",
+    "street": "Vrunčeva ulica",
+    "housenumber": "39",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 650,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474597114"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.26741,
+     46.2393806
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1106325486,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 39a",
+    "street": "Vrunčeva ulica",
+    "housenumber": "39a",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 645,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1106325486"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2675474,
+     46.2394888
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1106325485,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 41",
+    "street": "Vrunčeva ulica",
+    "housenumber": "41",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 638,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1106325485"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2638981,
+     46.2417703
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599349,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 2",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 343,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599349"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2618006,
+     46.2418012
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599341,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 4",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 395,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/483599341"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2625801,
+     46.241521
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965503337,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 5A",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "5A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 396,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/965503337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2624325,
+     46.2415232
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474564544,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 5B",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "5B",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "ks_dist_m": 400,
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/474564544"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2655382,
+     46.2384955
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474344285,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 12",
+    "street": "Brodarjeva ulica",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 530,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474344285"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2656061,
+     46.2388335
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831598302,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 14",
+    "street": "Brodarjeva ulica",
+    "housenumber": "14",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 534,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831598302"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2656186,
+     46.2389319
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474564527,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 16",
+    "street": "Brodarjeva ulica",
+    "housenumber": "16",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 535,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474564527"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2656409,
+     46.2391098
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211095,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 18",
+    "street": "Brodarjeva ulica",
+    "housenumber": "18",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 538,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211095"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2656833,
+     46.2392785
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831598303,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 20",
+    "street": "Brodarjeva ulica",
+    "housenumber": "20",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 542,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831598303"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2656918,
+     46.2393638
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474344312,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 22",
+    "street": "Brodarjeva ulica",
+    "housenumber": "22",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 544,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474344312"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2652504,
+     46.2390701
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965303165,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 23",
+    "street": "Brodarjeva ulica",
+    "housenumber": "23",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 508,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/965303165"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2657109,
+     46.2395176
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831598304,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 24",
+    "street": "Brodarjeva ulica",
+    "housenumber": "24",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 547,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831598304"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2652631,
+     46.239147
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474344310,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 25",
+    "street": "Brodarjeva ulica",
+    "housenumber": "25",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 509,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474344310"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2657217,
+     46.2396135
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474344311,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 26",
+    "street": "Brodarjeva ulica",
+    "housenumber": "26",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 550,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474344311"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2647024,
+     46.239196
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211080,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 29",
+    "street": "Brodarjeva ulica",
+    "housenumber": "29",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 466,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211080"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2648643,
+     46.239584
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211081,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 31",
+    "street": "Brodarjeva ulica",
+    "housenumber": "31",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 484,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211081"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2653282,
+     46.23952
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965302203,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 33",
+    "street": "Brodarjeva ulica",
+    "housenumber": "33",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 518,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/965302203"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.26534,
+     46.2396037
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965302204,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 35",
+    "street": "Brodarjeva ulica",
+    "housenumber": "35",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 521,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/965302204"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.265373,
+     46.2397474
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211090,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 37",
+    "street": "Brodarjeva ulica",
+    "housenumber": "37",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 526,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211090"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2653861,
+     46.239825
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831598305,
+    "building": "apartments",
+    "address": "Brodarjeva ulica 39",
+    "street": "Brodarjeva ulica",
+    "housenumber": "39",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 529,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831598305"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2644696,
+     46.2404657
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484188932,
+    "building": "apartments",
+    "address": "Dečkova cesta 40",
+    "street": "Dečkova cesta",
+    "housenumber": "40",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 482,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484188932"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2617302,
+     46.240876
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597153,
+    "building": "apartments",
+    "address": "Dečkova cesta 48",
+    "street": "Dečkova cesta",
+    "housenumber": "48",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 327,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2611471,
+     46.2408918
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597154,
+    "building": "apartments",
+    "address": "Dečkova cesta 50",
+    "street": "Dečkova cesta",
+    "housenumber": "50",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 297,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2605823,
+     46.2410885
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597155,
+    "building": "apartments",
+    "address": "Dečkova cesta 52",
+    "street": "Dečkova cesta",
+    "housenumber": "52",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 290,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597155"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.259988,
+     46.2409203
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597159,
+    "building": "apartments",
+    "address": "Dečkova cesta 54",
+    "street": "Dečkova cesta",
+    "housenumber": "54",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 252,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597159"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.259441,
+     46.241134
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597160,
+    "building": "apartments",
+    "address": "Dečkova cesta 56",
+    "street": "Dečkova cesta",
+    "housenumber": "56",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 262,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597160"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2624168,
+     46.2411479
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474564538,
+    "building": "apartments",
+    "address": "Hubadova ulica 3",
+    "street": "Hubadova ulica",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 386,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474564538"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2622184,
+     46.241231
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599366,
+    "building": "apartments",
+    "address": "Hubadova ulica 5",
+    "street": "Hubadova ulica",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 381,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483599366"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2624685,
+     46.2413442
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474564547,
+    "building": "apartments",
+    "address": "Hubadova ulica 7",
+    "street": "Hubadova ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 404,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474564547"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2581254,
+     46.230295
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340592904,
+    "building": "apartments",
+    "address": "Kajuhova ulica 7",
+    "street": "Kajuhova ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": "9",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 120,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340592904"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2638216,
+     46.2391086
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211074,
+    "building": "apartments",
+    "address": "Kersnikova ulica 31",
+    "street": "Kersnikova ulica",
+    "housenumber": "31",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 398,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211074"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2642139,
+     46.2391076
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211086,
+    "building": "apartments",
+    "address": "Kersnikova ulica 42",
+    "street": "Kersnikova ulica",
+    "housenumber": "42",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 428,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211086"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2642277,
+     46.2391994
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831596190,
+    "building": "apartments",
+    "address": "Kersnikova ulica 44",
+    "street": "Kersnikova ulica",
+    "housenumber": "44",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 430,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831596190"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2642564,
+     46.239348
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831596189,
+    "building": "apartments",
+    "address": "Kersnikova ulica 46A",
+    "street": "Kersnikova ulica",
+    "housenumber": "46A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 434,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831596189"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2642675,
+     46.2394169
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211087,
+    "building": "apartments",
+    "address": "Kersnikova ulica 46B",
+    "street": "Kersnikova ulica",
+    "housenumber": "46B",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 436,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211087"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.264327,
+     46.2396078
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211088,
+    "building": "apartments",
+    "address": "Kersnikova ulica 48",
+    "street": "Kersnikova ulica",
+    "housenumber": "48",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 444,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211088"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2643483,
+     46.2398018
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211089,
+    "building": "apartments",
+    "address": "Kersnikova ulica 50",
+    "street": "Kersnikova ulica",
+    "housenumber": "50",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 450,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211089"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.258544,
+     46.232094
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589589,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 13",
+    "street": "Ljubljanska cesta",
+    "housenumber": "13",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 120,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589589"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2583082,
+     46.2321911
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589592,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 15",
+    "street": "Ljubljanska cesta",
+    "housenumber": "15",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 118,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.256933,
+     46.2335686
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 856536307,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 16",
+    "street": "Ljubljanska cesta",
+    "housenumber": "16",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 258,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/856536307"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2563069,
+     46.2339685
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875959,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 18",
+    "street": "Ljubljanska cesta",
+    "housenumber": "18",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 258,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875959"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2553352,
+     46.2342537
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875969,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 18",
+    "street": "Ljubljanska cesta",
+    "housenumber": "18",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 180,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875969"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2547879,
+     46.2344426
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860159686,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 18B",
+    "street": "Ljubljanska cesta",
+    "housenumber": "18B",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 138,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860159686"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2546163,
+     46.2344974
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860159687,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 18C",
+    "street": "Ljubljanska cesta",
+    "housenumber": "18C",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 126,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860159687"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2549629,
+     46.2343855
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875967,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 18D",
+    "street": "Ljubljanska cesta",
+    "housenumber": "18D",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 151,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875967"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2578866,
+     46.2332907
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875982,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 20A",
+    "street": "Ljubljanska cesta",
+    "housenumber": "20A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 225,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875982"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2541875,
+     46.2346183
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 856536310,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 22",
+    "street": "Ljubljanska cesta",
+    "housenumber": "22",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 96,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/856536310"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2562387,
+     46.2334042
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589610,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 23",
+    "street": "Ljubljanska cesta",
+    "housenumber": "23",
+    "city": "Celje",
+    "levels": "2",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 255,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589610"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2539162,
+     46.2346834
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875968,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 24",
+    "street": "Ljubljanska cesta",
+    "housenumber": "24",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 80,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875968"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2557051,
+     46.2336773
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589608,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 25",
+    "street": "Ljubljanska cesta",
+    "housenumber": "25",
+    "city": "Celje",
+    "levels": "2",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 221,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2529991,
+     46.2343472
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 407507593,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 27",
+    "street": "Ljubljanska cesta",
+    "housenumber": "27",
+    "city": "Celje",
+    "levels": "9",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 0,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/407507593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2528141,
+     46.2349576
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238957,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 28",
+    "street": "Ljubljanska cesta",
+    "housenumber": "28",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 69,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238957"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2522824,
+     46.234449
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 407507594,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 29",
+    "street": "Ljubljanska cesta",
+    "housenumber": "29",
+    "city": "Celje",
+    "levels": "9",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 56,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/407507594"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2515513,
+     46.2345134
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483477566,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 31",
+    "street": "Ljubljanska cesta",
+    "housenumber": "31",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 113,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483477566"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2508112,
+     46.234566
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483477567,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 33",
+    "street": "Ljubljanska cesta",
+    "housenumber": "33",
+    "city": "Celje",
+    "levels": "10",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 170,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483477567"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2604227,
+     46.2304309
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860142014,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 5A",
+    "street": "Ljubljanska cesta",
+    "housenumber": "5A",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 243,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860142014"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2603436,
+     46.2305682
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484410262,
+    "building": "apartments",
+    "address": "Ljubljanska cesta 5B",
+    "street": "Ljubljanska cesta",
+    "housenumber": "5B",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 232,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484410262"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2583999,
+     46.2315064
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860142011,
+    "building": "apartments",
+    "address": "Malgajeva ulica 10",
+    "street": "Malgajeva ulica",
+    "housenumber": "10",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 73,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860142011"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2581697,
+     46.2315999
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589599,
+    "building": "apartments",
+    "address": "Malgajeva ulica 12",
+    "street": "Malgajeva ulica",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 62,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589599"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.257816,
+     46.2317498
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589597,
+    "building": "apartments",
+    "address": "Malgajeva ulica 14",
+    "street": "Malgajeva ulica",
+    "housenumber": "14",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 57,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589597"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2575806,
+     46.2318451
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860141985,
+    "building": "apartments",
+    "address": "Malgajeva ulica 16",
+    "street": "Malgajeva ulica",
+    "housenumber": "16",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 62,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860141985"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2572101,
+     46.2320058
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589602,
+    "building": "apartments",
+    "address": "Malgajeva ulica 18",
+    "street": "Malgajeva ulica",
+    "housenumber": "18",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 83,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589602"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2594242,
+     46.231086
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589603,
+    "building": "apartments",
+    "address": "Malgajeva ulica 2",
+    "street": "Malgajeva ulica",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 149,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589603"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2569757,
+     46.2321005
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860141984,
+    "building": "apartments",
+    "address": "Malgajeva ulica 20",
+    "street": "Malgajeva ulica",
+    "housenumber": "20",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 99,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860141984"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2597739,
+     46.2310451
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 284898441,
+    "building": "apartments",
+    "address": "Malgajeva ulica 2A",
+    "street": "Malgajeva ulica",
+    "housenumber": "2A",
+    "city": null,
+    "levels": "15",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 176,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/284898441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.259202,
+     46.2311763
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860142013,
+    "building": "apartments",
+    "address": "Malgajeva ulica 4",
+    "street": "Malgajeva ulica",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 131,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860142013"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2590633,
+     46.2314623
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589607,
+    "building": "apartments",
+    "address": "Malgajeva ulica 6",
+    "street": "Malgajeva ulica",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 121,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589607"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2588409,
+     46.2315591
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860142012,
+    "building": "apartments",
+    "address": "Malgajeva ulica 8",
+    "street": "Malgajeva ulica",
+    "housenumber": "8",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 107,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860142012"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2554419,
+     46.2326008
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 807311815,
+    "building": "apartments",
+    "address": "Na Otoku 1",
+    "street": "Na Otoku",
+    "housenumber": "1",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 216,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/807311815"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2542517,
+     46.2340597
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589593,
+    "building": "apartments",
+    "address": "Na Otoku 10",
+    "street": "Na Otoku",
+    "housenumber": "10",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Savinja",
+    "ks_dist_m": 102,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2545966,
+     46.2327873
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 807311811,
+    "building": "apartments",
+    "address": "Na Otoku 11",
+    "street": "Na Otoku",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 213,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/807311811"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2538104,
+     46.2341828
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589598,
+    "building": "apartments",
+    "address": "Na Otoku 12",
+    "street": "Na Otoku",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Savinja",
+    "ks_dist_m": 65,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589598"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.254276,
+     46.2333106
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 859805763,
+    "building": "apartments",
+    "address": "Na Otoku 13",
+    "street": "Na Otoku",
+    "housenumber": "13",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 151,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/859805763"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2543573,
+     46.2335148
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589584,
+    "building": "apartments",
+    "address": "Na Otoku 15",
+    "street": "Na Otoku",
+    "housenumber": "15",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 140,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2537736,
+     46.2331308
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589588,
+    "building": "apartments",
+    "address": "Na Otoku 17",
+    "street": "Na Otoku",
+    "housenumber": "17",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Savinja",
+    "ks_dist_m": 148,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589588"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2558958,
+     46.2329786
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589596,
+    "building": "apartments",
+    "address": "Na Otoku 2",
+    "street": "Na Otoku",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 225,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589596"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2551641,
+     46.2326519
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589609,
+    "building": "apartments",
+    "address": "Na Otoku 3",
+    "street": "Na Otoku",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 236,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589609"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2556239,
+     46.2333386
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589594,
+    "building": "apartments",
+    "address": "Na Otoku 4",
+    "street": "Na Otoku",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 231,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589594"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.255189,
+     46.2330922
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589580,
+    "building": "apartments",
+    "address": "Na Otoku 5",
+    "street": "Na Otoku",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 219,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589580"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2551241,
+     46.2337743
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589604,
+    "building": "apartments",
+    "address": "Na Otoku 6",
+    "street": "Na Otoku",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Savinja",
+    "ks_dist_m": 175,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589604"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2548626,
+     46.2333678
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589586,
+    "building": "apartments",
+    "address": "Na Otoku 7",
+    "street": "Na Otoku",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 180,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589586"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2546887,
+     46.2339288
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589595,
+    "building": "apartments",
+    "address": "Na Otoku 8",
+    "street": "Na Otoku",
+    "housenumber": "8",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Savinja",
+    "ks_dist_m": 138,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589595"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2546746,
+     46.2329883
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589579,
+    "building": "apartments",
+    "address": "Na Otoku 9",
+    "street": "Na Otoku",
+    "housenumber": "9",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 199,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589579"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2552359,
+     46.2349251
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 861192612,
+    "building": "apartments",
+    "address": "Na Zelenici 1",
+    "street": "Na Zelenici",
+    "housenumber": "1",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 184,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/861192612"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2540762,
+     46.2353681
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 861192608,
+    "building": "apartments",
+    "address": "Na Zelenici 10",
+    "street": "Na Zelenici",
+    "housenumber": "10",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 141,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/861192608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2540633,
+     46.235184
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 861192607,
+    "building": "apartments",
+    "address": "Na Zelenici 11",
+    "street": "Na Zelenici",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 124,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/861192607"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2540505,
+     46.2349999
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875972,
+    "building": "apartments",
+    "address": "Na Zelenici 12",
+    "street": "Na Zelenici",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 109,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875972"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2544683,
+     46.234915
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875961,
+    "building": "apartments",
+    "address": "Na Zelenici 13",
+    "street": "Na Zelenici",
+    "housenumber": "13",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 129,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875961"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2547012,
+     46.2348532
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875977,
+    "building": "apartments",
+    "address": "Na Zelenici 14",
+    "street": "Na Zelenici",
+    "housenumber": "14",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 142,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875977"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2549672,
+     46.2348427
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 861192606,
+    "building": "apartments",
+    "address": "Na Zelenici 15",
+    "street": "Na Zelenici",
+    "housenumber": "15",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 161,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/861192606"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2552487,
+     46.2351092
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 861192611,
+    "building": "apartments",
+    "address": "Na Zelenici 2",
+    "street": "Na Zelenici",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 193,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/861192611"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2552616,
+     46.2352933
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 861192610,
+    "building": "apartments",
+    "address": "Na Zelenici 3",
+    "street": "Na Zelenici",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 203,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/861192610"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2551649,
+     46.2355819
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875975,
+    "building": "apartments",
+    "address": "Na Zelenici 4",
+    "street": "Na Zelenici",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 216,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875975"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2551783,
+     46.2357669
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 861192635,
+    "building": "apartments",
+    "address": "Na Zelenici 5",
+    "street": "Na Zelenici",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 230,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/861192635"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2553099,
+     46.2360173
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 861192662,
+    "building": "apartments",
+    "address": "Na Zelenici 6",
+    "street": "Na Zelenici",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 257,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/861192662"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2553232,
+     46.2362023
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 861192661,
+    "building": "apartments",
+    "address": "Na Zelenici 7",
+    "street": "Na Zelenici",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 273,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/861192661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2547718,
+     46.2363997
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875957,
+    "building": "apartments",
+    "address": "Na Zelenici 8",
+    "street": "Na Zelenici",
+    "housenumber": "8",
+    "city": "Celje",
+    "levels": "14",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 266,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875957"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2542834,
+     46.2358976
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340875956,
+    "building": "apartments",
+    "address": "Na Zelenici 9",
+    "street": "Na Zelenici",
+    "housenumber": "9",
+    "city": "Celje",
+    "levels": "12",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 199,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340875956"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2667831,
+     46.2393299
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 386897498,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 627,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/386897498"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2495071,
+     46.2363646
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482849193,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 251,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482849193"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2498995,
+     46.2363479
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482849196,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 259,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482849196"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2602322,
+     46.230721
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484410263,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 219,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484410263"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2669053,
+     46.2388489
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597112,
+    "building": "apartments",
+    "address": "Nušičeva ulica 2",
+    "street": "Nušičeva ulica",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 634,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597112"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2514062,
+     46.2365654
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246075,
+    "building": "apartments",
+    "address": "Ob železnici 1",
+    "street": "Ob železnici",
+    "housenumber": "1",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 275,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246075"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2511943,
+     46.2365736
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246076,
+    "building": "apartments",
+    "address": "Ob železnici 2",
+    "street": "Ob železnici",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 284,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246076"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2509997,
+     46.2365819
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246074,
+    "building": "apartments",
+    "address": "Ob železnici 3",
+    "street": "Ob železnici",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 292,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246074"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2508006,
+     46.2365905
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246073,
+    "building": "apartments",
+    "address": "Ob železnici 4",
+    "street": "Ob železnici",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 301,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246073"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2498404,
+     46.2366269
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482849192,
+    "building": "apartments",
+    "address": "Ob železnici 5",
+    "street": "Ob železnici",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": "3",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 286,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482849192"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2494618,
+     46.2366441
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482849191,
+    "building": "apartments",
+    "address": "Ob železnici 6",
+    "street": "Ob železnici",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": "3",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 280,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482849191"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2592716,
+     46.2418689
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597139,
+    "building": "apartments",
+    "address": "Ribarjeva ulica 2",
+    "street": "Ribarjeva ulica",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 340,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597139"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2658738,
+     46.2388192
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474564531,
+    "building": "apartments",
+    "address": "Stritarjeva ulica 10",
+    "street": "Stritarjeva ulica",
+    "housenumber": "10",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 555,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474564531"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.264296,
+     46.2388761
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211085,
+    "building": "apartments",
+    "address": "Stritarjeva ulica 20",
+    "street": "Stritarjeva ulica",
+    "housenumber": "20",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 434,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211085"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2641971,
+     46.2389175
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831596191,
+    "building": "apartments",
+    "address": "Stritarjeva ulica 22",
+    "street": "Stritarjeva ulica",
+    "housenumber": "22",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 426,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831596191"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2662612,
+     46.2388002
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831598300,
+    "building": "apartments",
+    "address": "Stritarjeva ulica 4",
+    "street": "Stritarjeva ulica",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 585,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831598300"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2662633,
+     46.2385367
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474344281,
+    "building": "apartments",
+    "address": "Stritarjeva ulica 5",
+    "street": "Stritarjeva ulica",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 586,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474344281"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2661535,
+     46.2388033
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484211112,
+    "building": "apartments",
+    "address": "Stritarjeva ulica 6",
+    "street": "Stritarjeva ulica",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 576,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484211112"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2658806,
+     46.2385465
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474344283,
+    "building": "apartments",
+    "address": "Stritarjeva ulica 7",
+    "street": "Stritarjeva ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 556,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474344283"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2659809,
+     46.2388162
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831598301,
+    "building": "apartments",
+    "address": "Stritarjeva ulica 8",
+    "street": "Stritarjeva ulica",
+    "housenumber": "8",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 563,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831598301"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2548667,
+     46.2323191
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 807311812,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 10",
+    "street": "Trubarjeva ulica",
+    "housenumber": "10",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 233,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/807311812"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2546967,
+     46.2323485
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 807311813,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 12",
+    "street": "Trubarjeva ulica",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 246,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/807311813"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2545267,
+     46.2323778
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 807311814,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 14",
+    "street": "Trubarjeva ulica",
+    "housenumber": "14",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 249,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/807311814"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2543566,
+     46.2324071
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589581,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 16",
+    "street": "Trubarjeva ulica",
+    "housenumber": "16",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 240,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589581"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2540317,
+     46.2326774
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 859805768,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 18",
+    "street": "Trubarjeva ulica",
+    "housenumber": "18",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 202,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/859805768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2558464,
+     46.2318475
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 807311817,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 2",
+    "street": "Trubarjeva ulica",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 142,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/807311817"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2538627,
+     46.2327095
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 859805767,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 20",
+    "street": "Trubarjeva ulica",
+    "housenumber": "20",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 194,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/859805767"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2536938,
+     46.2327416
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 859805766,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 22",
+    "street": "Trubarjeva ulica",
+    "housenumber": "22",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 186,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/859805766"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2535248,
+     46.2327737
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 859805765,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 24",
+    "street": "Trubarjeva ulica",
+    "housenumber": "24",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 180,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/859805765"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.252353,
+     46.2332715
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860251296,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 26",
+    "street": "Trubarjeva ulica",
+    "housenumber": "26",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 130,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860251296"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2521584,
+     46.2333077
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483477563,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 28",
+    "street": "Trubarjeva ulica",
+    "housenumber": "28",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 132,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483477563"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2519643,
+     46.2333437
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860251295,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 30",
+    "street": "Trubarjeva ulica",
+    "housenumber": "30",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 137,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860251295"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2521395,
+     46.2340291
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 856392399,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 32",
+    "street": "Trubarjeva ulica",
+    "housenumber": "32",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 75,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/856392399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.252082,
+     46.2338799
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 856392401,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 34",
+    "street": "Trubarjeva ulica",
+    "housenumber": "34",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 88,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/856392401"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2520269,
+     46.2337481
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 856392400,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 36",
+    "street": "Trubarjeva ulica",
+    "housenumber": "36",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 100,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/856392400"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2519817,
+     46.2336282
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483477562,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 38",
+    "street": "Trubarjeva ulica",
+    "housenumber": "38",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 112,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483477562"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2559237,
+     46.2320471
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 859899130,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 4",
+    "street": "Trubarjeva ulica",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 148,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/859899130"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2516228,
+     46.233843
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860251293,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 40",
+    "street": "Trubarjeva ulica",
+    "housenumber": "40",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 120,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860251293"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2516756,
+     46.233976
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 407507595,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 42",
+    "street": "Trubarjeva ulica",
+    "housenumber": "42",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 110,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/407507595"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2517325,
+     46.234122
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860251294,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 44",
+    "street": "Trubarjeva ulica",
+    "housenumber": "44",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 101,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860251294"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2513955,
+     46.233704
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860251290,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 46",
+    "street": "Trubarjeva ulica",
+    "housenumber": "46",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 143,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860251290"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2511992,
+     46.2337406
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 855650871,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 48",
+    "street": "Trubarjeva ulica",
+    "housenumber": "48",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 154,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/855650871"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2509991,
+     46.2337774
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860251289,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 50",
+    "street": "Trubarjeva ulica",
+    "housenumber": "50",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 166,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860251289"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2509907,
+     46.2339705
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860251291,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 52",
+    "street": "Trubarjeva ulica",
+    "housenumber": "52",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 160,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860251291"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2510389,
+     46.2340995
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483477560,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 54",
+    "street": "Trubarjeva ulica",
+    "housenumber": "54",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 153,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483477560"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2534278,
+     46.2321931
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340594696,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 55A",
+    "street": "Trubarjeva ulica",
+    "housenumber": "55A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Savinja",
+    "ks_dist_m": 242,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340594696"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.251093,
+     46.2342423
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860251292,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 56",
+    "street": "Trubarjeva ulica",
+    "housenumber": "56",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 147,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860251292"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2552973,
+     46.2320716
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589606,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 6",
+    "street": "Trubarjeva ulica",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 191,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589606"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2553706,
+     46.2322581
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 859899131,
+    "building": "apartments",
+    "address": "Trubarjeva ulica 8",
+    "street": "Trubarjeva ulica",
+    "housenumber": "8",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Kajuh",
+    "ks_dist_m": 197,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/859899131"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2499094,
+     46.235415
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482849204,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 1",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "1",
+    "city": "Celje",
+    "levels": "2",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 169,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482849204"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2506966,
+     46.2358531
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246063,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 10",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "10",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 244,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246063"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2503427,
+     46.2361567
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246058,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 11",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 256,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246058"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2507079,
+     46.2359989
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246064,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 12",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 255,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246064"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2503539,
+     46.2362909
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482849210,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 13",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "13",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 269,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482849210"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2503658,
+     46.2364248
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246060,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 15",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "15",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 282,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246060"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.250377,
+     46.2365705
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246059,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 17",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "17",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 297,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246059"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2510903,
+     46.2350531
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482967390,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 2",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": "3",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 166,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482967390"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2495658,
+     46.2354277
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238979,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 3",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": "2",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 155,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238979"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2509332,
+     46.2353324
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482967388,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 4",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": "3",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 193,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482967388"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.249949,
+     46.2360702
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482849197,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 5",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": "3",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 232,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482849197"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2506736,
+     46.2355849
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246061,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 6",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 222,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246061"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2496205,
+     46.2360848
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238976,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 7",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": "3",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 224,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238976"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2506848,
+     46.2357192
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246062,
+    "building": "apartments",
+    "address": "Ulica V. Prekmorske brigade 8",
+    "street": "Ulica V. Prekmorske brigade",
+    "housenumber": "8",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 233,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246062"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.251664,
+     46.2354717
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238970,
+    "building": "apartments",
+    "address": "Vojkova ulica 1",
+    "street": "Vojkova ulica",
+    "housenumber": "1",
+    "city": "Celje",
+    "levels": "9",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 162,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238970"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2522688,
+     46.2359813
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238964,
+    "building": "apartments",
+    "address": "Vojkova ulica 10",
+    "street": "Vojkova ulica",
+    "housenumber": "10",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 190,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238964"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2517661,
+     46.2360808
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246072,
+    "building": "apartments",
+    "address": "Vojkova ulica 11",
+    "street": "Vojkova ulica",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 215,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246072"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2524691,
+     46.2359712
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482967395,
+    "building": "apartments",
+    "address": "Vojkova ulica 12",
+    "street": "Vojkova ulica",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 185,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482967395"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2517764,
+     46.2362157
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246071,
+    "building": "apartments",
+    "address": "Vojkova ulica 13",
+    "street": "Vojkova ulica",
+    "housenumber": "13",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 228,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2526772,
+     46.2359616
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238966,
+    "building": "apartments",
+    "address": "Vojkova ulica 14",
+    "street": "Vojkova ulica",
+    "housenumber": "14",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 181,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238966"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2517886,
+     46.2363489
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246069,
+    "building": "apartments",
+    "address": "Vojkova ulica 15",
+    "street": "Vojkova ulica",
+    "housenumber": "15",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 241,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246069"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2528917,
+     46.2359542
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238965,
+    "building": "apartments",
+    "address": "Vojkova ulica 16",
+    "street": "Vojkova ulica",
+    "housenumber": "16",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 179,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238965"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2518012,
+     46.236502
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246070,
+    "building": "apartments",
+    "address": "Vojkova ulica 17",
+    "street": "Vojkova ulica",
+    "housenumber": "17",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 257,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246070"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2521841,
+     46.2353266
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238961,
+    "building": "apartments",
+    "address": "Vojkova ulica 2",
+    "street": "Vojkova ulica",
+    "housenumber": "2",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 126,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238961"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2516942,
+     46.2358237
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246065,
+    "building": "apartments",
+    "address": "Vojkova ulica 3",
+    "street": "Vojkova ulica",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 192,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246065"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2521968,
+     46.2354684
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238962,
+    "building": "apartments",
+    "address": "Vojkova ulica 4",
+    "street": "Vojkova ulica",
+    "housenumber": "4",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 139,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238962"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2514837,
+     46.2358324
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246066,
+    "building": "apartments",
+    "address": "Vojkova ulica 5",
+    "street": "Vojkova ulica",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 202,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2522095,
+     46.2356116
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482967399,
+    "building": "apartments",
+    "address": "Vojkova ulica 6",
+    "street": "Vojkova ulica",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 153,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482967399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.25129,
+     46.2358413
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246067,
+    "building": "apartments",
+    "address": "Vojkova ulica 7",
+    "street": "Vojkova ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 212,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246067"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.252221,
+     46.2357559
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238963,
+    "building": "apartments",
+    "address": "Vojkova ulica 8",
+    "street": "Vojkova ulica",
+    "housenumber": "8",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 168,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238963"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2510895,
+     46.2358513
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860246068,
+    "building": "apartments",
+    "address": "Vojkova ulica 9",
+    "street": "Vojkova ulica",
+    "housenumber": "9",
+    "city": "Celje",
+    "levels": "5",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 223,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860246068"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.267164,
+     46.2389126
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597113,
+    "building": "apartments",
+    "address": "Vrunčeva ulica 35a",
+    "street": "Vrunčeva ulica",
+    "housenumber": "35a",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 654,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597113"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2529209,
+     46.2336994
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 856481151,
+    "building": "apartments",
+    "address": "Čopova ulica 11",
+    "street": "Čopova ulica",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 72,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/856481151"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2531035,
+     46.2330322
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589591,
+    "building": "apartments",
+    "address": "Čopova ulica 12",
+    "street": "Čopova ulica",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 146,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589591"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2529843,
+     46.2338657
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 856481150,
+    "building": "apartments",
+    "address": "Čopova ulica 13",
+    "street": "Čopova ulica",
+    "housenumber": "13",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 54,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/856481150"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2533648,
+     46.2333448
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589582,
+    "building": "apartments",
+    "address": "Čopova ulica 14",
+    "street": "Čopova ulica",
+    "housenumber": "14",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 115,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589582"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2532737,
+     46.2352059
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238960,
+    "building": "apartments",
+    "address": "Čopova ulica 15",
+    "street": "Čopova ulica",
+    "housenumber": "15",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 98,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238960"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2535904,
+     46.2336655
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 340589585,
+    "building": "apartments",
+    "address": "Čopova ulica 16",
+    "street": "Čopova ulica",
+    "housenumber": "16",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 88,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/340589585"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2530531,
+     46.2364435
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238968,
+    "building": "apartments",
+    "address": "Čopova ulica 25",
+    "street": "Čopova ulica",
+    "housenumber": "25",
+    "city": "Celje",
+    "levels": "14",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 233,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238968"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2526522,
+     46.2332052
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483477565,
+    "building": "apartments",
+    "address": "Čopova ulica 3",
+    "street": "Čopova ulica",
+    "housenumber": "3",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 130,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483477565"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2526977,
+     46.2333276
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 856481153,
+    "building": "apartments",
+    "address": "Čopova ulica 5",
+    "street": "Čopova ulica",
+    "housenumber": "5",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 116,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/856481153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2527599,
+     46.2334917
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 856481152,
+    "building": "apartments",
+    "address": "Čopova ulica 7",
+    "street": "Čopova ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 97,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/856481152"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2528719,
+     46.2335795
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483477564,
+    "building": "apartments",
+    "address": "Čopova ulica 9",
+    "street": "Čopova ulica",
+    "housenumber": "9",
+    "city": "Celje",
+    "levels": "6",
+    "ks_mc": "Savinja",
+    "ks_dist_m": 86,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483477564"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2596927,
+     46.2418469
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599335,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 10",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "10",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 343,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483599335"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2601368,
+     46.2413465
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965503341,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 11",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 300,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/965503341"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2599057,
+     46.2413518
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597158,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 13",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "13",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 295,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597158"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2595675,
+     46.2415445
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 965503340,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 15",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "15",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 308,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/965503340"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2593262,
+     46.2415478
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597161,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 17",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "17",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 305,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597161"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2610069,
+     46.241846
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597146,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 6",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 379,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597146"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2612653,
+     46.2418366
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831289491,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 6A",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "6A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 388,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831289491"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2607429,
+     46.2418557
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 831289492,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 6B",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "6B",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 371,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/831289492"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2621478,
+     46.24153
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599365,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 7",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "7",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 401,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483599365"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2617769,
+     46.2413996
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 483599324,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 7A",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "7A",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 372,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/483599324"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.261601,
+     46.241112
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597152,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 7B",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "7B",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 339,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597152"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2611876,
+     46.2413406
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597156,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 7C",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "7C",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 339,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597156"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.260205,
+     46.2418699
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597145,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 8",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "8",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 357,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597145"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2606062,
+     46.2415375
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 474597157,
+    "building": "apartments",
+    "address": "Šaranovičeva ulica 9",
+    "street": "Šaranovičeva ulica",
+    "housenumber": "9",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dolgo Polje",
+    "ks_dist_m": 335,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/474597157"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2495982,
+     46.2357473
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238978,
+    "building": "apartments",
+    "address": "Škvarčeva ulica 10",
+    "street": "Škvarčeva ulica",
+    "housenumber": "10",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 188,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238978"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2499326,
+     46.2357375
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 860238977,
+    "building": "apartments",
+    "address": "Škvarčeva ulica 12",
+    "street": "Škvarčeva ulica",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": "4",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 199,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/860238977"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2491346,
+     46.2356873
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 482849177,
+    "building": "apartments",
+    "address": "Škvarčeva ulica 6",
+    "street": "Škvarčeva ulica",
+    "housenumber": "6",
+    "city": "Celje",
+    "levels": "3",
+    "ks_mc": "Slavko Šlander",
+    "ks_dist_m": 170,
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/482849177"
+   }
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+exclude:
+  - data.json
+  - route_order.json
+  - route_path.json
+  - README.md

@@ -3,10 +3,10 @@
  "metadata": {
   "source": "OpenStreetMap Overpass API",
   "query": "nwr[building=apartments|apartment](area:3601676306) Celje",
-  "method": "point-in-polygon vs official GURS RPE polygons (prostor.celje.si WFS, EPSG:3794->4326): gurs_rpe_lokalne_volilne_enote + gurs_rpe_krajevne_skupnosti + gurs_rpe_cetrtne_skupnosti, Mestna obcina Celje",
-  "created": "2026-11-05",
-  "count": 327,
-  "volilna_enota_def": "https://pisrs.si/api/datoteke/integracije/606135216 (Odlok MOC Celje 1994): VE1=Smartno v Rozni dolini, Skofja vas, Ljubecna, Ostrozno, Lava, Hudinja, Trnovlje, Teharje; VE2=Center, Aljazev hrib, Gaberje, Nova vas, Deckovo naselje; VE3=Savinja, Kajuh, S. Slander, Medlog, Dolgo polje, Pod gradom"
+  "method": "point-in-polygon vs official GURS RPE polygons (prostor.celje.si WFS, EPSG:3794->4326)",
+  "created": "2026-11-06",
+  "count": 356,
+  "volilna_enota_def": "https://pisrs.si/api/datoteke/integracije/606135216 (Odlok MOC Celje 1994)"
  },
  "features": [
   {
@@ -1601,6 +1601,236 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     15.2601314,
+     46.2483214
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162845,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162845"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2596521,
+     46.2476863
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162846,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162846"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2609391,
+     46.2453658
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162850,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162850"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2606433,
+     46.2459712
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162851,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162851"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2605518,
+     46.2463781
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162852,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162852"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2612371,
+     46.2443565
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162858,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162858"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2597251,
+     46.2444124
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162859,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162859"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2630092,
+     46.2459823
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162862,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162862"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2628007,
+     46.2466445
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484168331,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484168331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2659392,
+     46.2452466
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484168341,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484168341"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      15.2660623,
      46.2269556
     ]
@@ -1877,6 +2107,144 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     15.2623986,
+     46.247745
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484962665,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484962665"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2623802,
+     46.2479249
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484962666,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484962666"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.262357,
+     46.2480986
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484962667,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484962667"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2623147,
+     46.2482739
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484962668,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484962668"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2622272,
+     46.2484559
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484962669,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484962669"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2621616,
+     46.2486303
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484962670,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484962670"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      15.2752522,
      46.2457287
     ]
@@ -1900,6 +2268,29 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     15.2621999,
+     46.2496816
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 485162889,
+    "building": "apartments",
+    "address": null,
+    "street": null,
+    "housenumber": null,
+    "city": null,
+    "levels": null,
+    "ks_mc": "Nova vas",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/485162889"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      15.2662543,
      46.2283307
     ]
@@ -1916,6 +2307,98 @@
     "ks_mc": "Center",
     "volilna_enota": 2,
     "osm_url": "https://www.openstreetmap.org/relation/7128104"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2603032,
+     46.2492558
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162840,
+    "building": "apartments",
+    "address": "Novi trg 11",
+    "street": "Novi trg",
+    "housenumber": "11",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162840"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2602313,
+     46.2494463
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1239610208,
+    "building": "apartments",
+    "address": "Novi trg 12",
+    "street": "Novi trg",
+    "housenumber": "12",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/1239610208"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2603598,
+     46.2487389
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162839,
+    "building": "apartments",
+    "address": "Novi trg 20",
+    "street": "Novi trg",
+    "housenumber": "20",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162839"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2598718,
+     46.2486405
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162838,
+    "building": "apartments",
+    "address": "Novi trg 21",
+    "street": "Novi trg",
+    "housenumber": "21",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Dečkovo naselje",
+    "volilna_enota": 2,
+    "osm_url": "https://www.openstreetmap.org/way/484162838"
    }
   },
   {
@@ -3526,6 +4009,52 @@
     "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/484211115"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2581908,
+     46.248368
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1239610204,
+    "building": "apartments",
+    "address": "Cesta v Lokrovec 42a",
+    "street": "Cesta v Lokrovec",
+    "housenumber": "42a",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Lava",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/1239610204"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2588165,
+     46.2484739
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1239610203,
+    "building": "apartments",
+    "address": "Cesta v Lokrovec 42b",
+    "street": "Cesta v Lokrovec",
+    "housenumber": "42b",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Lava",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/1239610203"
    }
   },
   {
@@ -5274,6 +5803,144 @@
     "ks_mc": "Dolgo polje",
     "volilna_enota": 3,
     "osm_url": "https://www.openstreetmap.org/way/1567395566"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2597162,
+     46.2491831
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162841,
+    "building": "apartments",
+    "address": "Novi trg 13",
+    "street": "Novi trg",
+    "housenumber": "13",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Lava",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484162841"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2596964,
+     46.2493725
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1239610207,
+    "building": "apartments",
+    "address": "Novi trg 14",
+    "street": "Novi trg",
+    "housenumber": "14",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Lava",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/1239610207"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2592757,
+     46.2489037
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1239610205,
+    "building": "apartments",
+    "address": "Novi trg 15",
+    "street": "Novi trg",
+    "housenumber": "15",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Lava",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/1239610205"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2592114,
+     46.2490921
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 1239610206,
+    "building": "apartments",
+    "address": "Novi trg 16",
+    "street": "Novi trg",
+    "housenumber": "16",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Lava",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/1239610206"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2591472,
+     46.2492804
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162836,
+    "building": "apartments",
+    "address": "Novi trg 17",
+    "street": "Novi trg",
+    "housenumber": "17",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Lava",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484162836"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.2593689,
+     46.2485664
+    ]
+   },
+   "properties": {
+    "osm_type": "way",
+    "osm_id": 484162837,
+    "building": "apartments",
+    "address": "Novi trg 22",
+    "street": "Novi trg",
+    "housenumber": "22",
+    "city": "Celje",
+    "levels": null,
+    "ks_mc": "Lava",
+    "volilna_enota": 3,
+    "osm_url": "https://www.openstreetmap.org/way/484162837"
    }
   },
   {
